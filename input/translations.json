@@ -1,0 +1,3280 @@
+{
+  "海のアクティビティ": [
+    "sea activities", "ocean activities"
+  ],
+  "川": [
+    "river"
+  ],
+  "山のアクティビティ": [
+    "mountain activities"
+  ],
+  "空のアクティビティ": [
+    "air activities"
+  ],
+  "乗り物": [
+    "vehicles"
+  ],
+  "雪のアクティビティ": [
+    "snow activities"
+  ],
+  "趣味": [
+    "hobbies"
+  ],
+  "食べ物づくり": [
+    "food making"
+  ],
+  "観光ツアー": [
+    "sightseeing tours"
+  ],
+  "職業体験": [
+    "job experience"
+  ],
+  "野菜": [
+    "vegetables"
+  ],
+  "オンライン体験ツアー": [
+    "online experience tours"
+  ],
+  "海釣り": [
+    "sea fishing"
+  ],
+  "水圧で空を飛ぶ": [
+    "water pressure flying"
+  ],
+  "海遊び": [
+    "sea play"
+  ],
+  "釣り": [
+    "fishing"
+  ],
+  "水上スキー": [
+    "water skiing"
+  ],
+  "川釣り": [
+    "river fishing"
+  ],
+  "乗馬": [
+    "horseback riding"
+  ],
+  "冒険": [
+    "adventure"
+  ],
+  "熱気球": [
+    "hot air balloon"
+  ],
+  "スキー場": [
+    "ski resort"
+  ],
+  "冬の遊び": [
+    "winter play"
+  ],
+  "船": [
+    "boat"
+  ],
+  "四輪バギー": [
+    "quad bike"
+  ],
+  "自転車": [
+    "bicycle"
+  ],
+  "ヨガ教室": [
+    "yoga class"
+  ],
+  "ダンス教室": [
+    "dance class"
+  ],
+  "格闘技": [
+    "martial arts"
+  ],
+  "伝統文化体験": [
+    "traditional culture experience"
+  ],
+  "沖縄文化": [
+    "Okinawan culture"
+  ],
+  "陶芸体験": [
+    "pottery experience"
+  ],
+  "手づくり雑貨": [
+    "handmade goods"
+  ],
+  "手作りアクセサリー": [
+    "handmade accessories"
+  ],
+  "和雑貨作り": [
+    "Japanese craft making"
+  ],
+  "花": [
+    "flowers"
+  ],
+  "ファッション雑貨作り": [
+    "fashion craft making"
+  ],
+  "ペイント教室": [
+    "paint class"
+  ],
+  "ガイド付きツアー": [
+    "guided tour"
+  ],
+  "散策": [
+    "strolling"
+  ],
+  "工場見学": [
+    "factory tour"
+  ],
+  "自然鑑賞": [
+    "nature viewing"
+  ],
+  "屋形船": [
+    "traditional boat"
+  ],
+  "動物カフェ": [
+    "animal cafe"
+  ],
+  "国内オンライン体験": [
+    "domestic online experience"
+  ],
+  "海外オンライン体験": [
+    "international online experience"
+  ],
+  "その他": [
+    "others"
+  ],
+  "トレッキング(登山/ハイキング)": [
+    "trekking"
+  ],
+  "ケイビング(洞窟探検)": [
+    "caving"
+  ],
+  "ツリークライミング(木登り)": [
+    "tree climbing"
+  ],
+  "雪遊び": [
+    "snow play"
+  ],
+  "雪上トーイング": [
+    "snow towing"
+  ],
+  "犬ぞり": [
+    "dog sledding"
+  ],
+  "ワカサギ釣り": [
+    "smelt fishing"
+  ],
+  "流氷ウォーク": [
+    "ice floe walking"
+  ],
+  "海上釣り堀": [
+    "sea fishing pond"
+  ],
+  "体験ダイビング(初心者OK)": [
+    "trial diving"
+  ],
+  "ダイビングライセンス取得": [
+    "diving license"
+  ],
+  "ファンダイビング(ライセンス必須)": [
+    "fun diving"
+  ],
+  "水中スクーター": [
+    "underwater scooter"
+  ],
+  "船上パーティー": [
+    "boat party"
+  ],
+  "遊覧飛行": [
+    "sightseeing flight"
+  ],
+  "ヘリコプター遊覧": [
+    "helicopter tour"
+  ],
+  "料理教室": [
+    "cooking class"
+  ],
+  "舞妓体験": [
+    "maiko experience"
+  ],
+  "沖縄文化体験": [
+    "Okinawan culture experience"
+  ],
+  "シーサー作り": [
+    "shisa making"
+  ],
+  "箸作り体験": [
+    "chopstick making"
+  ],
+  "染物体験": [
+    "dyeing experience"
+  ],
+  "手作りキャンドル": [
+    "handmade candle"
+  ],
+  "そば打ち体験": [
+    "soba making"
+  ],
+  "寿司作り体験": [
+    "sushi making"
+  ],
+  "漁業体験": [
+    "fishing experience"
+  ],
+  "農業体験": [
+    "farming experience"
+  ],
+  "ブルーベリー狩り": [
+    "blueberry picking"
+  ],
+  "着物レンタル": [
+    "kimono rental"
+  ],
+  "イチゴ狩り": [
+    "strawberry picking"
+  ],
+  "フラワーアレンジメント教室": [
+    "flower arrangement class"
+  ],
+  "レザークラフト教室": [
+    "leather craft class"
+  ],
+  "ポーセラーツ教室": [
+    "porcelain art class"
+  ],
+  "吹き矢体験": [
+    "blowgun experience"
+  ],
+  "手作り写真立て": [
+    "handmade photo frame"
+  ],
+  "花火大会": [
+    "fireworks festival"
+  ],
+  "手作りランプシェード": [
+    "handmade lampshade"
+  ],
+  "オルゴール作り体験": [
+    "music box making"
+  ],
+  "パン作り教室": [
+    "bread making class"
+  ],
+  "忍者": [
+    "ninja"
+  ],
+  "食品サンプル作り": [
+    "food sample making"
+  ],
+  "とんぼ玉体験": [
+    "glass bead making"
+  ],
+  "江戸切子体験": [
+    "Edo kiriko experience"
+  ],
+  "公道カート": [
+    "road kart"
+  ],
+  "楽器作り体験": [
+    "instrument making"
+  ],
+  "チョークアート体験": [
+    "chalk art experience"
+  ],
+  "アロマ体験": [
+    "aroma experience"
+  ],
+  "靴作り体験": [
+    "shoe making"
+  ],
+  "紙漉き体験": [
+    "paper making"
+  ],
+  "木工体験": [
+    "woodworking"
+  ],
+  "彫刻教室": [
+    "sculpture class"
+  ],
+  "彫金体験": [
+    "metal engraving"
+  ],
+  "ガーデニング体験": [
+    "gardening experience"
+  ],
+  "編み物": [
+    "knitting"
+  ],
+  "トールペイント教室": [
+    "tole painting class"
+  ],
+  "洋服作り体験": [
+    "clothing making"
+  ],
+  "絵画": [
+    "painting"
+  ],
+  "クレイアート教室": [
+    "clay art class"
+  ],
+  "カービング教室": [
+    "carving class"
+  ],
+  "手作り絵本": [
+    "handmade picture book"
+  ],
+  "フェイシャルブラシ作り教室": [
+    "facial brush making"
+  ],
+  "手作り石鹸": [
+    "handmade soap"
+  ],
+  "手作りバッグ教室": [
+    "handmade bag class"
+  ],
+  "茶道体験": [
+    "tea ceremony experience"
+  ],
+  "書道体験": [
+    "calligraphy"
+  ],
+  "盆栽作り": [
+    "bonsai making"
+  ],
+  "修行体験(座禅": [
+    "zen meditation"
+  ],
+  "能楽体験": [
+    "noh theater"
+  ],
+  "太鼓(和太鼓)体験": [
+    "taiko drum"
+  ],
+  "生け花教室": [
+    "ikebana class"
+  ],
+  "うどん作り体験": [
+    "udon making"
+  ],
+  "ピザ作り体験": [
+    "pizza making"
+  ],
+  "日本酒": [
+    "sake"
+  ],
+  "お菓子作り": [
+    "sweet making"
+  ],
+  "酪農体験": [
+    "dairy farming"
+  ],
+  "史跡": [
+    "historical site"
+  ],
+  "利き酒": [
+    "sake tasting"
+  ],
+  "天体観測": [
+    "astronomy"
+  ],
+  "相撲見学": [
+    "sumo watching"
+  ],
+  "劇場": [
+    "theater"
+  ],
+  "脱出ゲーム": [
+    "escape game"
+  ],
+  "VR体験": [
+    "virtual reality"
+  ],
+  "3Dプリンター体験": [
+    "3D printing"
+  ],
+  "メイド喫茶": [
+    "maid cafe"
+  ],
+  "コスプレ写真": [
+    "cosplay photo"
+  ],
+  "楽器": [
+    "musical instrument"
+  ],
+  "素潜り": [
+    "free diving"
+  ],
+  "マーメイド体験": [
+    "mermaid experience"
+  ],
+  "梨狩り": [
+    "pear picking"
+  ],
+  "ぶどう狩り": [
+    "grape picking"
+  ],
+  "桃狩り": [
+    "peach picking"
+  ],
+  "さくらんぼ狩り": [
+    "cherry picking"
+  ],
+  "りんご狩り": [
+    "apple picking"
+  ],
+  "きのこ狩り": [
+    "mushroom picking"
+  ],
+  "人力車": [
+    "rickshaw"
+  ],
+  "ゴルフ場予約": [
+    "golf course reservation"
+  ],
+  "空中ブランコ": [
+    "aerial trapeze"
+  ],
+  "飲食施設": [
+    "dining facility"
+  ],
+  "組紐体験": [
+    "kumihimo experience"
+  ],
+  "苔玉作り": [
+    "kokedama making"
+  ],
+  "みかん狩り": [
+    "mandarin picking"
+  ],
+  "枝豆狩り": [
+    "edamame picking"
+  ],
+  "雑貨作り教室": [
+    "craft making class"
+  ],
+  "手作り化粧品": [
+    "handmade cosmetics"
+  ],
+  "診断": [
+    "diagnosis"
+  ],
+  "写真撮影": [
+    "photo shooting"
+  ],
+  "日本舞踊体験": [
+    "Japanese dance"
+  ],
+  "日帰り温泉": [
+    "day trip hot spring"
+  ],
+  "観光タクシー": [
+    "sightseeing taxi"
+  ],
+  "美術館": [
+    "art museum"
+  ],
+  "動物園": [
+    "zoo"
+  ],
+  "植物園": [
+    "botanical garden"
+  ],
+  "水族館": [
+    "aquarium"
+  ],
+  "空手体験": [
+    "karate experience"
+  ],
+  "合気道体験": [
+    "aikido experience"
+  ],
+  "剣道体験": [
+    "kendo experience"
+  ],
+  "柔道体験": [
+    "judo experience"
+  ],
+  "弓道体験": [
+    "kyudo experience"
+  ],
+  "相撲体験": [
+    "sumo experience"
+  ],
+  "少林寺拳法体験": [
+    "shorinji kempo"
+  ],
+  "居合道体験": [
+    "iaido experience"
+  ],
+  "なぎなた体験": [
+    "naginata experience"
+  ],
+  "ブラジリアン柔術": [
+    "Brazilian jiu-jitsu"
+  ],
+  "和楽器体験": [
+    "traditional instrument"
+  ],
+  "人形づくり": [
+    "doll making"
+  ],
+  "ホタル観賞ツアー": [
+    "firefly watching"
+  ],
+  "離島巡り": [
+    "island hopping"
+  ],
+  "ドラム缶風呂体験": [
+    "drum bath"
+  ],
+  "手芸教室": [
+    "handicraft class"
+  ],
+  "寺社": [
+    "temple shrine"
+  ],
+  "水中観光船": [
+    "underwater sightseeing"
+  ],
+  "けん玉教室": [
+    "kendama class"
+  ],
+  "落語": [
+    "rakugo"
+  ],
+  "漆器作り": [
+    "lacquerware making"
+  ],
+  "印鑑": [
+    "seal making"
+  ],
+  "手作り時計": [
+    "handmade watch"
+  ],
+  "ジオラマ製作": [
+    "diorama making"
+  ],
+  "牛車": [
+    "ox cart"
+  ],
+  "鍛冶見学": [
+    "blacksmithing"
+  ],
+  "祭り体験": [
+    "festival experience"
+  ],
+  "お座敷遊び体験": [
+    "traditional games"
+  ],
+  "昔遊び": [
+    "traditional games"
+  ],
+  "古民家体験": [
+    "old house experience"
+  ],
+  "生活体験": [
+    "lifestyle experience"
+  ],
+  "花魁体験": [
+    "oiran experience"
+  ],
+  "浴衣レンタル": [
+    "yukata rental"
+  ],
+  "大会": [
+    "tournament"
+  ],
+  "ドローン体験": [
+    "drone experience"
+  ],
+  "無人島ツアー": [
+    "deserted island tour"
+  ],
+  "スマートモビリティ体験": [
+    "smart mobility"
+  ],
+  "礼儀作法": [
+    "etiquette"
+  ],
+  "金継ぎ体験": [
+    "kintsugi experience"
+  ],
+  "万華鏡作り": [
+    "kaleidoscope making"
+  ],
+  "かまくら作り体験": [
+    "igloo making"
+  ],
+  "語学体験": [
+    "language experience"
+  ],
+  "破壊体験": [
+    "destruction experience"
+  ],
+  "岩盤浴": [
+    "stone spa"
+  ],
+  "瞑想": [
+    "meditation"
+  ],
+  "個サル": [
+    "monkey park"
+  ],
+  "十二単体験": [
+    "junihitoe experience"
+  ],
+  "昆虫採集": [
+    "insect collecting"
+  ],
+  "展望台": [
+    "observation deck"
+  ],
+  "国内オンライン体験ツアー": [
+    "domestic online tour"
+  ],
+  "絵付け体験": [
+    "painting experience"
+  ],
+  "益子焼体験": [
+    "Mashiko pottery"
+  ],
+  "九谷焼体験": [
+    "Kutani ware"
+  ],
+  "七宝焼き体験": [
+    "cloisonne experience"
+  ],
+  "手びねり": [
+    "hand building"
+  ],
+  "電動ろくろ": [
+    "electric wheel"
+  ],
+  "備前焼体験": [
+    "Bizen ware"
+  ],
+  "美濃焼体験": [
+    "Mino ware"
+  ],
+  "アジ釣り": [
+    "horse mackerel fishing"
+  ],
+  "アナゴ釣り": [
+    "conger eel fishing"
+  ],
+  "イカ釣り": [
+    "squid fishing"
+  ],
+  "カワハギ釣り": [
+    "filefish fishing"
+  ],
+  "キス釣り": [
+    "whiting fishing"
+  ],
+  "タコ釣り": [
+    "octopus fishing"
+  ],
+  "ハゼ釣り": [
+    "goby fishing"
+  ],
+  "ヒラメ釣り": [
+    "flounder fishing"
+  ],
+  "磯遊び": [
+    "rocky shore play"
+  ],
+  "潮干狩り": [
+    "clam digging"
+  ],
+  "琉球ガラス": [
+    "Ryukyu glass"
+  ],
+  "ステンドグラス体験": [
+    "stained glass"
+  ],
+  "吹きガラス体験": [
+    "glass blowing"
+  ],
+  "デコレーションアート体験": [
+    "decoration art"
+  ],
+  "フェルト教室": [
+    "felt craft"
+  ],
+  "手作りキーホルダー": [
+    "handmade keychain"
+  ],
+  "手作りスマホケース": [
+    "handmade phone case"
+  ],
+  "手作りピアス": [
+    "handmade earrings"
+  ],
+  "手作りブレスレット": [
+    "handmade bracelet"
+  ],
+  "手作りブローチ": [
+    "handmade brooch"
+  ],
+  "手作り指輪": [
+    "handmade ring"
+  ],
+  "草木染め体験": [
+    "natural dyeing"
+  ],
+  "藍染め体験": [
+    "indigo dyeing"
+  ],
+  "森林セラピー": [
+    "forest therapy"
+  ],
+  "遊覧船": [
+    "sightseeing boat"
+  ],
+  "水上バイク": [
+    "water bike"
+  ],
+  "栗拾い": [
+    "chestnut picking"
+  ],
+  "茶摘み": [
+    "tea picking"
+  ],
+  "演劇": [
+    "theater"
+  ],
+  "日本の城": [
+    "Japanese castle"
+  ],
+  "寄せ植え体験": [
+    "plant arrangement"
+  ],
+  "押し花教室": [
+    "pressed flower"
+  ],
+  "琉装": [
+    "Ryukyu costume"
+  ],
+  "猫カフェ": [
+    "cat cafe"
+  ],
+  "イカダ釣り": [
+    "raft fishing"
+  ],
+  "バス釣り": [
+    "bass fishing"
+  ],
+  "キャンピング用品レンタル": [
+    "camping gear rental"
+  ],
+  "水引体験": [
+    "mizuhiki craft"
+  ],
+  "まち歩きガイドツアー": [
+    "walking tour"
+  ],
+  "食べ歩きツアー": [
+    "food tour"
+  ],
+  "海外オンライン体験ツアー": [
+    "international online tour"
+  ],
+  "北海道": [
+    "Hokkaido"
+  ],
+  "東北": [
+    "Tohoku"
+  ],
+  "関東": [
+    "Kanto"
+  ],
+  "甲信越": [
+    "Koshinetsu"
+  ],
+  "北陸": [
+    "Hokuriku"
+  ],
+  "東海": [
+    "Tokai"
+  ],
+  "関西": [
+    "Kansai"
+  ],
+  "山陰": [
+    "Sanin"
+  ],
+  "四国": [
+    "Shikoku"
+  ],
+  "九州": [
+    "Kyushu"
+  ],
+  "沖縄": [
+    "Okinawa"
+  ],
+  "青森": [
+    "Aomori"
+  ],
+  "岩手": [
+    "Iwate"
+  ],
+  "宮城": [
+    "Miyagi"
+  ],
+  "秋田": [
+    "Akita"
+  ],
+  "山形": [
+    "Yamagata"
+  ],
+  "福島": [
+    "Fukushima"
+  ],
+  "茨城": [
+    "Ibaraki"
+  ],
+  "栃木": [
+    "Tochigi"
+  ],
+  "群馬": [
+    "Gunma"
+  ],
+  "埼玉": [
+    "Saitama"
+  ],
+  "千葉": [
+    "Chiba"
+  ],
+  "東京": [
+    "Tokyo"
+  ],
+  "神奈川": [
+    "Kanagawa"
+  ],
+  "新潟": [
+    "Niigata"
+  ],
+  "山梨": [
+    "Yamanashi"
+  ],
+  "長野": [
+    "Nagano"
+  ],
+  "富山": [
+    "Toyama"
+  ],
+  "石川": [
+    "Ishikawa"
+  ],
+  "福井": [
+    "Fukui"
+  ],
+  "岐阜": [
+    "Gifu"
+  ],
+  "静岡": [
+    "Shizuoka"
+  ],
+  "愛知": [
+    "Aichi"
+  ],
+  "三重": [
+    "Mie"
+  ],
+  "滋賀": [
+    "Shiga"
+  ],
+  "京都": [
+    "Kyoto"
+  ],
+  "大阪": [
+    "Osaka"
+  ],
+  "兵庫": [
+    "Hyogo"
+  ],
+  "奈良": [
+    "Nara"
+  ],
+  "和歌山": [
+    "Wakayama"
+  ],
+  "鳥取": [
+    "Tottori"
+  ],
+  "島根": [
+    "Shimane"
+  ],
+  "岡山": [
+    "Okayama"
+  ],
+  "広島": [
+    "Hiroshima"
+  ],
+  "山口": [
+    "Yamaguchi"
+  ],
+  "徳島": [
+    "Tokushima"
+  ],
+  "香川": [
+    "Kagawa"
+  ],
+  "愛媛": [
+    "Ehime"
+  ],
+  "高知": [
+    "Kochi"
+  ],
+  "福岡": [
+    "Fukuoka"
+  ],
+  "佐賀": [
+    "Saga"
+  ],
+  "長崎": [
+    "Nagasaki"
+  ],
+  "熊本": [
+    "Kumamoto"
+  ],
+  "大分": [
+    "Oita"
+  ],
+  "宮崎": [
+    "Miyazaki"
+  ],
+  "鹿児島": [
+    "Kagoshima"
+  ],
+  "沖縄周遊": [
+    "Okinawa tour"
+  ],
+  "札幌": [
+    "Sapporo"
+  ],
+  "定山渓": [
+    "Jozankei"
+  ],
+  "小樽": [
+    "Otaru"
+  ],
+  "洞爺": [
+    "Toya"
+  ],
+  "函館": [
+    "Hakodate"
+  ],
+  "稚内": [
+    "Wakkanai"
+  ],
+  "旭川": [
+    "Asahikawa"
+  ],
+  "富良野": [
+    "Furano"
+  ],
+  "知床": [
+    "Shiretoko"
+  ],
+  "釧路": [
+    "Kushiro"
+  ],
+  "石狩": [
+    "Ishikari"
+  ],
+  "帯広": [
+    "Obihiro"
+  ],
+  "日高": [
+    "Hidaka"
+  ],
+  "利尻": [
+    "Rishiri"
+  ],
+  "弘前": [
+    "Hirosaki"
+  ],
+  "奥入瀬": [
+    "Oirase"
+  ],
+  "八戸": [
+    "Hachinohe"
+  ],
+  "下北": [
+    "Shimokita"
+  ],
+  "津軽西海岸": [
+    "Tsugaru west coast"
+  ],
+  "津軽半島": [
+    "Tsugaru peninsula"
+  ],
+  "雫石": [
+    "Shizukuishi"
+  ],
+  "盛岡": [
+    "Morioka"
+  ],
+  "安比": [
+    "Appi"
+  ],
+  "花巻": [
+    "Hanamaki"
+  ],
+  "北上": [
+    "Kitakami"
+  ],
+  "陸中海岸": [
+    "Rikuchu coast"
+  ],
+  "一関": [
+    "Ichinohe"
+  ],
+  "仙台": [
+    "Sendai"
+  ],
+  "松島": [
+    "Matsushima"
+  ],
+  "石巻": [
+    "Ishinomaki"
+  ],
+  "鳴子": [
+    "Naruko"
+  ],
+  "栗原": [
+    "Kurihara"
+  ],
+  "白石": [
+    "Shiroishi"
+  ],
+  "秋田市": [
+    "Akita city"
+  ],
+  "田沢湖": [
+    "Tazawako"
+  ],
+  "大館": [
+    "Odate"
+  ],
+  "八幡平": [
+    "Hachimantai"
+  ],
+  "男鹿半島": [
+    "Oga peninsula"
+  ],
+  "横手": [
+    "Yokote"
+  ],
+  "象潟": [
+    "Kisakata"
+  ],
+  "新庄": [
+    "Shinjo"
+  ],
+  "天童": [
+    "Tendo"
+  ],
+  "米沢": [
+    "Yonezawa"
+  ],
+  "酒田": [
+    "Sakata"
+  ],
+  "相馬": [
+    "Soma"
+  ],
+  "裏磐梯": [
+    "Urabandai"
+  ],
+  "猪苗代": [
+    "Inawashiro"
+  ],
+  "会津": [
+    "Aizu"
+  ],
+  "南会津": [
+    "Minami-aizu"
+  ],
+  "郡山": [
+    "Koriyama"
+  ],
+  "白河": [
+    "Shirakawa"
+  ],
+  "双葉": [
+    "Futaba"
+  ],
+  "北茨城": [
+    "Kita-ibaraki"
+  ],
+  "水戸": [
+    "Mito"
+  ],
+  "常総": [
+    "Joso"
+  ],
+  "牛久": [
+    "Ushiku"
+  ],
+  "霞ヶ浦": [
+    "Kasumigaura"
+  ],
+  "大洗": [
+    "Oarai"
+  ],
+  "宇都宮": [
+    "Utsunomiya"
+  ],
+  "那須": [
+    "Nasu"
+  ],
+  "塩原": [
+    "Shiobara"
+  ],
+  "日光": [
+    "Nikko"
+  ],
+  "鬼怒川": [
+    "Kinugawa"
+  ],
+  "佐野": [
+    "Sano"
+  ],
+  "馬頭": [
+    "Bato"
+  ],
+  "四万": [
+    "Shima"
+  ],
+  "草津": [
+    "Kusatsu"
+  ],
+  "万座": [
+    "Manza"
+  ],
+  "水上(みなかみ)": [
+    "Minakami"
+  ],
+  "沼田": [
+    "Numata"
+  ],
+  "赤城": [
+    "Akagi"
+  ],
+  "渋川": [
+    "Shibukawa"
+  ],
+  "前橋": [
+    "Maebashi"
+  ],
+  "藤岡": [
+    "Fujioka"
+  ],
+  "川口": [
+    "Kawaguchi"
+  ],
+  "上尾": [
+    "Ageo"
+  ],
+  "行田": [
+    "Gyoda"
+  ],
+  "川越": [
+    "Kawagoe"
+  ],
+  "飯能": [
+    "Hanno"
+  ],
+  "東松山": [
+    "Higashimatsuyama"
+  ],
+  "草加": [
+    "Soka"
+  ],
+  "春日部": [
+    "Kasukabe"
+  ],
+  "秩父": [
+    "Chichibu"
+  ],
+  "舞浜": [
+    "Maihama"
+  ],
+  "成田": [
+    "Narita"
+  ],
+  "松戸": [
+    "Matsudo"
+  ],
+  "佐倉": [
+    "Sakura"
+  ],
+  "茂原": [
+    "Mobara"
+  ],
+  "銚子": [
+    "Choshi"
+  ],
+  "木更津": [
+    "Kisarazu"
+  ],
+  "勝浦": [
+    "Katsuura"
+  ],
+  "館山": [
+    "Tateyama"
+  ],
+  "浅草": [
+    "Asakusa"
+  ],
+  "立川": [
+    "Tachikawa"
+  ],
+  "町田": [
+    "Machida"
+  ],
+  "奥多摩": [
+    "Okutama"
+  ],
+  "伊豆諸島(伊豆大島": [
+    "Izu Islands"
+  ],
+  "横浜": [
+    "Yokohama"
+  ],
+  "逗子": [
+    "Zushi"
+  ],
+  "鎌倉": [
+    "Kamakura"
+  ],
+  "厚木": [
+    "Atsugi"
+  ],
+  "相模原": [
+    "Sagamihara"
+  ],
+  "箱根": [
+    "Hakone"
+  ],
+  "湯河原": [
+    "Yugawara"
+  ],
+  "足柄": [
+    "Ashigara"
+  ],
+  "瀬波": [
+    "Senami"
+  ],
+  "燕": [
+    "Tsubame"
+  ],
+  "柏崎": [
+    "Kashiwazaki"
+  ],
+  "南魚沼": [
+    "Minamiuonuma"
+  ],
+  "湯沢": [
+    "Yuzawa"
+  ],
+  "上越": [
+    "Joetsu"
+  ],
+  "佐渡": [
+    "Sado"
+  ],
+  "黒部": [
+    "Kurobe"
+  ],
+  "立山黒部アルペンルート": [
+    "Tateyama Kurobe Alpine Route"
+  ],
+  "高岡": [
+    "Takaoka"
+  ],
+  "砺波": [
+    "Tonami"
+  ],
+  "輪島": [
+    "Wajima"
+  ],
+  "和倉": [
+    "Wakura"
+  ],
+  "金沢": [
+    "Kanazawa"
+  ],
+  "白山": [
+    "Hakusan"
+  ],
+  "加賀": [
+    "Kaga"
+  ],
+  "三国": [
+    "Mikuni"
+  ],
+  "奥越前": [
+    "Oku-Echizen"
+  ],
+  "武生": [
+    "Takefu"
+  ],
+  "敦賀": [
+    "Tsuruga"
+  ],
+  "甲府": [
+    "Kofu"
+  ],
+  "石和": [
+    "Isawa"
+  ],
+  "大月": [
+    "Otsuki"
+  ],
+  "山中湖": [
+    "Yamanakako"
+  ],
+  "河口湖": [
+    "Kawaguchiko"
+  ],
+  "下部": [
+    "Shimobe"
+  ],
+  "南アルプス": [
+    "Minami-Alps"
+  ],
+  "八ヶ岳": [
+    "Yatsugatake"
+  ],
+  "野沢": [
+    "Nozawa"
+  ],
+  "志賀": [
+    "Shiga"
+  ],
+  "上田": [
+    "Ueda"
+  ],
+  "菅平": [
+    "Sugadaira"
+  ],
+  "戸倉上山田": [
+    "Togura Kamiyamada"
+  ],
+  "軽井沢": [
+    "Karuizawa"
+  ],
+  "蓼科": [
+    "Tateshina"
+  ],
+  "諏訪": [
+    "Suwa"
+  ],
+  "白馬": [
+    "Hakuba"
+  ],
+  "松本市中心部": [
+    "Matsumoto city center"
+  ],
+  "上高地": [
+    "Kamikochi"
+  ],
+  "安曇野": [
+    "Azumino"
+  ],
+  "伊那": [
+    "Ina"
+  ],
+  "飛騨": [
+    "Hida"
+  ],
+  "奥飛騨": [
+    "Okuhida"
+  ],
+  "下呂": [
+    "Gero"
+  ],
+  "郡上": [
+    "Gujo"
+  ],
+  "恵那": [
+    "Ena"
+  ],
+  "白川郷": [
+    "Shirakawago"
+  ],
+  "熱海": [
+    "Atami"
+  ],
+  "伊東": [
+    "Ito"
+  ],
+  "伊豆高原": [
+    "Izu Kogen"
+  ],
+  "東伊豆": [
+    "Higashiizu"
+  ],
+  "下田": [
+    "Shimoda"
+  ],
+  "南伊豆": [
+    "Minamiizu"
+  ],
+  "西伊豆": [
+    "Nishiizu"
+  ],
+  "中伊豆": [
+    "Nakaizu"
+  ],
+  "沼津": [
+    "Numazu"
+  ],
+  "御殿場": [
+    "Gotemba"
+  ],
+  "焼津": [
+    "Yaizu"
+  ],
+  "大井川": [
+    "Oigawa"
+  ],
+  "浜松": [
+    "Hamamatsu"
+  ],
+  "磐田": [
+    "Iwata"
+  ],
+  "名古屋": [
+    "Nagoya"
+  ],
+  "知多半島": [
+    "Chita Peninsula"
+  ],
+  "三河湾": [
+    "Mikawa Bay"
+  ],
+  "岡崎": [
+    "Okazaki"
+  ],
+  "奥三河": [
+    "Oku-Mikawa"
+  ],
+  "鈴鹿": [
+    "Suzuka"
+  ],
+  "伊賀": [
+    "Iga"
+  ],
+  "津": [
+    "Tsu"
+  ],
+  "伊勢": [
+    "Ise"
+  ],
+  "鳥羽": [
+    "Toba"
+  ],
+  "南鳥羽": [
+    "Minami-Toba"
+  ],
+  "志摩": [
+    "Shima"
+  ],
+  "奥伊勢": [
+    "Oku-Ise"
+  ],
+  "熊野": [
+    "Kumano"
+  ],
+  "大津": [
+    "Otsu"
+  ],
+  "彦根": [
+    "Hikone"
+  ],
+  "長浜": [
+    "Nagahama"
+  ],
+  "甲賀": [
+    "Koka"
+  ],
+  "湖西": [
+    "Kosai"
+  ],
+  "雄琴": [
+    "Ogoto"
+  ],
+  "京都駅周辺": [
+    "Kyoto Station area"
+  ],
+  "大原": [
+    "Ohara"
+  ],
+  "嵐山": [
+    "Arashiyama"
+  ],
+  "長岡京": [
+    "Nagaokakyo"
+  ],
+  "亀岡": [
+    "Kameoka"
+  ],
+  "天橋立": [
+    "Amanohashidate"
+  ],
+  "丹後": [
+    "Tango"
+  ],
+  "綾部": [
+    "Ayabe"
+  ],
+  "大阪北部": [
+    "North Osaka"
+  ],
+  "梅田周辺": [
+    "Umeda area"
+  ],
+  "大阪東部": [
+    "East Osaka"
+  ],
+  "大阪南部": [
+    "South Osaka"
+  ],
+  "大阪ベイエリア": [
+    "Osaka Bay area"
+  ],
+  "神戸": [
+    "Kobe"
+  ],
+  "明石": [
+    "Akashi"
+  ],
+  "宝塚": [
+    "Takarazuka"
+  ],
+  "姫路": [
+    "Himeji"
+  ],
+  "城崎": [
+    "Kinosaki"
+  ],
+  "丹波": [
+    "Tamba"
+  ],
+  "但馬": [
+    "Tajima"
+  ],
+  "淡路島": [
+    "Awaji Island"
+  ],
+  "生駒": [
+    "Ikoma"
+  ],
+  "橿原": [
+    "Kashihara"
+  ],
+  "宇陀": [
+    "Uda"
+  ],
+  "吉野": [
+    "Yoshino"
+  ],
+  "大峯": [
+    "Omine"
+  ],
+  "高野山": [
+    "Koyasan"
+  ],
+  "海南": [
+    "Kainan"
+  ],
+  "白浜": [
+    "Shirahama"
+  ],
+  "串本": [
+    "Kushimoto"
+  ],
+  "御坊": [
+    "Gobo"
+  ],
+  "倉吉": [
+    "Kurayoshi"
+  ],
+  "米子": [
+    "Yonago"
+  ],
+  "松江": [
+    "Matsue"
+  ],
+  "安来": [
+    "Yasugi"
+  ],
+  "雲南": [
+    "Unnan"
+  ],
+  "出雲": [
+    "Izumo"
+  ],
+  "浜田": [
+    "Hamada"
+  ],
+  "益田": [
+    "Masuda"
+  ],
+  "隠岐": [
+    "Oki"
+  ],
+  "牛窓": [
+    "Ushimado"
+  ],
+  "倉敷": [
+    "Kurashiki"
+  ],
+  "笠岡": [
+    "Kasaoka"
+  ],
+  "蒜山": [
+    "Hiruzen"
+  ],
+  "津山": [
+    "Tsuyama"
+  ],
+  "美作": [
+    "Mimasaka"
+  ],
+  "高梁": [
+    "Takahashi"
+  ],
+  "尾道": [
+    "Onomichi"
+  ],
+  "庄原": [
+    "Shibara"
+  ],
+  "竹原": [
+    "Takehara"
+  ],
+  "呉": [
+    "Kure"
+  ],
+  "しまなみ海道": [
+    "Shimanami Kaido"
+  ],
+  "三段峡": [
+    "Sandankyo"
+  ],
+  "三次": [
+    "Miyoshi"
+  ],
+  "岩国": [
+    "Iwakuni"
+  ],
+  "周南": [
+    "Shunan"
+  ],
+  "萩": [
+    "Hagi"
+  ],
+  "長門": [
+    "Nagato"
+  ],
+  "阿南": [
+    "Anan"
+  ],
+  "祖谷渓": [
+    "Iya Valley"
+  ],
+  "吉野川流域": [
+    "Yoshino River"
+  ],
+  "高松": [
+    "Takamatsu"
+  ],
+  "琴平": [
+    "Kotohira"
+  ],
+  "坂出": [
+    "Sakaide"
+  ],
+  "小豆島": [
+    "Shodoshima"
+  ],
+  "東かがわ": [
+    "Higashikagawa"
+  ],
+  "松山": [
+    "Matsuyama"
+  ],
+  "今治": [
+    "Imabari"
+  ],
+  "西条": [
+    "Saijo"
+  ],
+  "内子": [
+    "Uchiko"
+  ],
+  "久万高原": [
+    "Kuma Kogen"
+  ],
+  "西予": [
+    "Seiyo"
+  ],
+  "南国": [
+    "Nankoku"
+  ],
+  "安芸": [
+    "Aki"
+  ],
+  "土佐": [
+    "Tosa"
+  ],
+  "四万十": [
+    "Shimanto"
+  ],
+  "足摺": [
+    "Ashizuri"
+  ],
+  "福岡市": [
+    "Fukuoka city"
+  ],
+  "宗像": [
+    "Munakata"
+  ],
+  "糸島": [
+    "Itoshima"
+  ],
+  "久留米": [
+    "Kurume"
+  ],
+  "柳川": [
+    "Yanagawa"
+  ],
+  "北九州": [
+    "Kitakyushu"
+  ],
+  "鳥栖": [
+    "Tosu"
+  ],
+  "小城": [
+    "Ogi"
+  ],
+  "唐津": [
+    "Karatsu"
+  ],
+  "伊万里": [
+    "Imari"
+  ],
+  "嬉野": [
+    "Ureshino"
+  ],
+  "鹿島": [
+    "Kashima"
+  ],
+  "平戸": [
+    "Hirado"
+  ],
+  "佐世保": [
+    "Sasebo"
+  ],
+  "島原": [
+    "Shimabara"
+  ],
+  "五島列島": [
+    "Goto Islands"
+  ],
+  "壱岐": [
+    "Iki"
+  ],
+  "諫早": [
+    "Isahaya"
+  ],
+  "玉名": [
+    "Tamana"
+  ],
+  "黒川": [
+    "Kurokawa"
+  ],
+  "阿蘇": [
+    "Aso"
+  ],
+  "八代": [
+    "Yatsushiro"
+  ],
+  "人吉": [
+    "Hitoyoshi"
+  ],
+  "天草": [
+    "Amakusa"
+  ],
+  "別府": [
+    "Beppu"
+  ],
+  "湯布院": [
+    "Yufuin"
+  ],
+  "国東半島": [
+    "Kunisaki Peninsula"
+  ],
+  "日田": [
+    "Hita"
+  ],
+  "宇佐": [
+    "Usa"
+  ],
+  "豊後大野": [
+    "Bungo-Ono"
+  ],
+  "臼杵": [
+    "Usuki"
+  ],
+  "日南海岸": [
+    "Nichinan Coast"
+  ],
+  "都城": [
+    "Miyakonojo"
+  ],
+  "小林": [
+    "Kobayashi"
+  ],
+  "高千穂": [
+    "Takachiho"
+  ],
+  "日向": [
+    "Hyuga"
+  ],
+  "西都": [
+    "Saito"
+  ],
+  "指宿": [
+    "Ibusuki"
+  ],
+  "垂水": [
+    "Tarumizu"
+  ],
+  "霧島": [
+    "Kirishima"
+  ],
+  "出水": [
+    "Izumi"
+  ],
+  "奄美大島諸島": [
+    "Amami Islands"
+  ],
+  "屋久島": [
+    "Yakushima"
+  ],
+  "種子島": [
+    "Tanegashima"
+  ],
+  "鹿児島その他離島": [
+    "Other Kagoshima Islands"
+  ],
+  "那覇市": [
+    "Naha city"
+  ],
+  "沖縄市": [
+    "Okinawa city"
+  ],
+  "青の洞窟": [
+    "Blue Cave"
+  ],
+  "南城市": [
+    "Nanjo city"
+  ],
+  "名護市": [
+    "Nago city"
+  ],
+  "恩納村": [
+    "Onna village"
+  ],
+  "久米島": [
+    "Kume Island"
+  ],
+  "宮古島(伊良部島": [
+    "Miyako Island"
+  ],
+  "石垣島": [
+    "Ishigaki Island"
+  ],
+  "与那国島": [
+    "Yonaguni Island"
+  ],
+  "竹富島": [
+    "Taketomi Island"
+  ],
+  "浦添市": [
+    "Urasoe city"
+  ],
+  "読谷村": [
+    "Yomitan village"
+  ],
+  "国頭村": [
+    "Kunigami village"
+  ],
+  "西表島": [
+    "Iriomote Island"
+  ],
+  "小笠原": [
+    "Ogasawara"
+  ],
+  "渋谷": [
+    "Shibuya"
+  ],
+  "六本木": [
+    "Roppongi"
+  ],
+  "新宿": [
+    "Shinjuku"
+  ],
+  "秋葉原": [
+    "Akihabara"
+  ],
+  "銀座": [
+    "Ginza"
+  ],
+  "池袋": [
+    "Ikebukuro"
+  ],
+  "お台場": [
+    "Odaiba"
+  ],
+  "両国": [
+    "Ryogoku"
+  ],
+  "世田谷": [
+    "Setagaya"
+  ],
+  "杉並": [
+    "Suginami"
+  ],
+  "練馬": [
+    "Nerima"
+  ],
+  "目黒": [
+    "Meguro"
+  ],
+  "品川区": [
+    "Shinagawa"
+  ],
+  "江戸川区": [
+    "Edogawa"
+  ],
+  "板橋区": [
+    "Itabashi"
+  ],
+  "川崎": [
+    "Kawasaki"
+  ],
+  "湘南": [
+    "Shonan"
+  ],
+  "河原町": [
+    "Kawaramachi"
+  ],
+  "祇園": [
+    "Gion"
+  ],
+  "心斎橋": [
+    "Shinsaibashi"
+  ],
+  "新大阪": [
+    "Shin-Osaka"
+  ],
+  "大阪城": [
+    "Osaka Castle"
+  ],
+  "天王寺": [
+    "Tennoji"
+  ],
+  "横須賀": [
+    "Yokosuka"
+  ],
+  "慶良間諸島(渡嘉敷島": [
+    "Kerama Islands"
+  ],
+  "金閣寺": [
+    "Kinkakuji"
+  ],
+  "与論島": [
+    "Yoron Island"
+  ],
+  "伊平屋島": [
+    "Iheya Island"
+  ],
+  "渡名喜島": [
+    "Tonaki Island"
+  ],
+  "北大東島": [
+    "Kita Daito Island"
+  ],
+  "多良間島": [
+    "Tarama Island"
+  ],
+  "本部町": [
+    "Motobu town"
+  ],
+  "糸満市": [
+    "Itoman city"
+  ],
+  "ナガンヌ島": [
+    "Nagannu Island"
+  ],
+  "沖縄離島ツアー": [
+    "Okinawa Island Tour"
+  ],
+  "奄美大島": [
+    "Amami Oshima"
+  ],
+  "慶良間諸島": [
+    "Kerama Islands"
+  ],
+  "宮古島": [
+    "Miyako Island"
+  ],
+  "釧路川": [
+    "Kushiro River"
+  ],
+  "水牛": [
+    "Water buffalo"
+  ],
+  "刀": [
+    "Sword"
+  ],
+  "わかさぎ釣り": [
+    "Wakasagi fishing"
+  ],
+  "公魚釣り": [
+    "Smelt fishing"
+  ],
+  "公魚": [
+    "Smelt"
+  ],
+  "富士": [
+    "Fuji"
+  ],
+  "湖のアクティビティ": ["lake activities"],
+  "文化体験": ["cultural experience"],
+  "見学ツアー": ["sightseeing tour"],
+  "果物狩り": ["fruit picking"],
+  "釣り船": ["fishing boat"],
+  "湖釣り": ["lake fishing"],
+  "車": ["car"],
+  "武道": ["martial arts"],
+  "沖縄体験": ["Okinawa experience"],
+  "陶芸教室": ["pottery class"],
+  "オリジナル雑貨": ["original goods"],
+  "アクセサリー作り": ["accessory making"],
+  "植物": ["plants"],
+  "まち歩きツアー": ["town walking tour"],
+  "酒蔵見学": ["sake brewery tour"],
+  "生物鑑賞": ["wildlife viewing"],
+  "旅行": ["travel"],
+  "登山": ["mountain climbing"],
+  "洞窟探検": ["cave exploration"],
+  "木登り": ["tree climbing"],
+  "そり遊び": ["sledding"],
+  "氷上ワカサギ釣り": ["ice smelt fishing"],
+  "渓流釣り": ["stream fishing"],
+  "体験ダイビング": ["trial diving"],
+  "初心者OK": ["beginners welcome"],
+  "ライセンス必須": ["license required"],
+  "潜水ウォーカー": ["underwater walker"],
+  "食べ物作り": ["food making"],
+  "沖縄料理": ["Okinawan cuisine"],
+  "三線": ["sanshin"],
+  "キャンドル作り": ["candle making"],
+  "そば打ち教室": ["soba making class"],
+  "田植え体験": ["rice planting experience"],
+  "照明": ["lighting"],
+  "侍": ["samurai"],
+  "武士体験": ["samurai experience"],
+  "ビー玉作り": ["marble making"],
+  "楽器作り教室": ["musical instrument making class"],
+  "調香": ["perfume blending"],
+  "お香作り": ["incense making"],
+  "靴作り教室": ["shoe making class"],
+  "木工教室": ["woodworking class"],
+  "彫金教室": ["metal carving class"],
+  "編み物教室": ["knitting class"],
+  "洋裁教室": ["sewing class"],
+  "絵本作り教室": ["picture book making class"],
+  "石鹸作り体験": ["soap making experience"],
+  "カバン作り": ["bag making"],
+  "茶道教室": ["tea ceremony class"],
+  "書道教室": ["calligraphy class"],
+  "修行体験": ["training experience"],
+  "座禅": ["zen meditation"],
+  "滝行": ["waterfall training"],
+  "護摩": ["goma fire ritual"],
+  "太鼓": ["taiko drum"],
+  "和太鼓": ["Japanese drum"],
+  "体験": ["experience"],
+  "ワイン作り": ["wine making"],
+  "和菓子作り": ["Japanese sweets making"],
+  "名所巡り": ["sightseeing"],
+  "酒蔵": ["sake brewery"],
+  "ワイナリー巡り": ["winery tour"],
+  "星空観測": ["stargazing"],
+  "変身体験": ["costume experience"],
+  "音楽教室": ["music class"],
+  "マスカット狩り": ["muscat grape picking"],
+  "組紐教室": ["kumihimo braiding class"],
+  "化粧品作り": ["cosmetics making"],
+  "占い": ["fortune telling"],
+  "リフト券": ["lift ticket"],
+  "入浴": ["bathing"],
+  "博物館": ["museum"],
+  "空手道教室": ["karate class"],
+  "合気道教室": ["aikido class"],
+  "剣道教室": ["kendo class"],
+  "柔道教室": ["judo class"],
+  "弓道教室": ["kyudo class"],
+  "仏閣巡り": ["temple tour"],
+  "手作りはんこ": ["handmade seal"],
+  "手作りスタンプ": ["handmade stamp"],
+  "時計作り": ["watch making"],
+  "鍛冶体験": ["blacksmithing experience"],
+  "マナー教室": ["etiquette class"],
+  "型取り体験": ["mold making experience"],
+  "ろくろ体験": ["potter's wheel experience"],
+  "やちむん体験": ["yachimun pottery experience"],
+  "手作りストラップ": ["handmade strap"],
+  "手作りiPhoneケース": ["handmade iPhone case"],
+  "手作りイヤリング": ["handmade earrings"],
+  "森林浴体験": ["forest bathing experience"],
+  "水上バス": ["water bus"],
+  "舞台": ["stage"],
+  "城跡": ["castle ruins"],
+  "沖縄民族衣装": ["Okinawan traditional costume"],
+  "水引細工": ["mizuhiki craft"],
+  "居酒屋巡り": ["izakaya hopping"],
+  "山陽": ["Sanyo region"],
+  "道北": ["Northern Hokkaido"],
+  "道南": ["Southern Hokkaido"],
+  "道央": ["Central Hokkaido"],
+  "道東": ["Eastern Hokkaido"],
+  "本島": ["main island"],
+  "離島": ["remote island"],
+  "積丹": ["Shakotan"],
+  "登別": ["Noboribetsu"],
+  "苫小牧": ["Tomakomai"],
+  "大沼": ["Onuma"],
+  "松前": ["Matsumae"],
+  "留萌": ["Rumoi"],
+  "層雲峡": ["Sounkyo"],
+  "美瑛": ["Biei"],
+  "網走": ["Abashiri"],
+  "北見": ["Kitami"],
+  "阿寒": ["Akan"],
+  "摩周湖": ["Lake Mashu"],
+  "根室": ["Nemuro"],
+  "川湯": ["Kawayu"],
+  "屈斜路": ["Kussharo"],
+  "空知": ["Sorachi"],
+  "千歳": ["Chitose"],
+  "十勝": ["Tokachi"],
+  "礼文": ["Rebun"],
+  "天売": ["Teuri"],
+  "焼尻": ["Yagishiri"],
+  "東津軽": ["Higashitsugaru"],
+  "黒石": ["Kuroishi"],
+  "白神山地": ["Shirakami Mountains"],
+  "十和田湖": ["Lake Towada"],
+  "八甲田": ["Hakkoda"],
+  "三沢": ["Misawa"],
+  "二戸": ["Ninohe"],
+  "遠野": ["Tono"],
+  "江刺": ["Esashi"],
+  "湯田": ["Yuda"],
+  "平泉": ["Hiraizumi"],
+  "塩竈": ["Shiogama"],
+  "気仙沼": ["Kesennuma"],
+  "大崎": ["Osaki"],
+  "登米": ["Tome"],
+  "蔵王": ["Zao"],
+  "角館": ["Kakunodate"],
+  "大曲": ["Omagari"],
+  "能代": ["Noshiro"],
+  "鹿角": ["Kazuno"],
+  "鳥海山": ["Mount Chokai"],
+  "最上": ["Mogami"],
+  "寒河江": ["Sagae"],
+  "尾花沢": ["Obanazawa"],
+  "赤湯": ["Akayu"],
+  "飯豊山": ["Mount Iide"],
+  "鶴岡": ["Tsuruoka"],
+  "出羽三山": ["Dewa Sanzan"],
+  "二本松": ["Nihonmatsu"],
+  "磐梯高原": ["Bandai Plateau"],
+  "表磐梯": ["Omote Bandai"],
+  "三春": ["Miharu"],
+  "奥久慈": ["Okukuji"],
+  "日立": ["Hitachi"],
+  "笠間": ["Kasama"],
+  "結城": ["Yuki"],
+  "桜川": ["Sakuragawa"],
+  "土浦": ["Tsuchiura"],
+  "潮来": ["Itako"],
+  "板室": ["Itamuro"],
+  "矢板": ["Yaita"],
+  "大田原": ["Otawara"],
+  "西那須野": ["Nishinasuno"],
+  "霧降高原": ["Kirifuri Plateau"],
+  "奥日光": ["Oku Nikko"],
+  "中禅寺湖": ["Lake Chuzenji"],
+  "今市": ["Imaichi"],
+  "川治": ["Kawaji"],
+  "湯西川": ["Yunishigawa"],
+  "川俣": ["Kawamata"],
+  "小山": ["Oyama"],
+  "足利": ["Ashikaga"],
+  "鹿沼": ["Kanuma"],
+  "茂木": ["Motegi"],
+  "益子": ["Mashiko"],
+  "真岡": ["Moka"],
+  "吾妻": ["Azuma"],
+  "川原湯": ["Kawarayu"],
+  "尻焼": ["Shiriyaki"],
+  "花敷": ["Hanashiki"],
+  "嬬恋": ["Tsumagoi"],
+  "北軽井沢": ["Kita Karuizawa"],
+  "水上": ["Minakami"],
+  "老神": ["Oigami"],
+  "尾瀬": ["Oze"],
+  "桐生": ["Kiryu"],
+  "渡良瀬": ["Watarase"],
+  "伊香保": ["Ikaho"],
+  "高崎": ["Takasaki"],
+  "伊勢崎": ["Isesaki"],
+  "碓氷": ["Usui"],
+  "磯部": ["Isobe"],
+  "妙義": ["Myogi"],
+  "桶川": ["Okegawa"],
+  "熊谷": ["Kumagaya"],
+  "本庄": ["Honjo"],
+  "所沢": ["Tokorozawa"],
+  "坂戸": ["Sakado"],
+  "越谷": ["Koshigaya"],
+  "三郷": ["Misato"],
+  "久喜": ["Kuki"],
+  "長瀞": ["Nagatoro"],
+  "市原": ["Ichihara"],
+  "浦安": ["Urayasu"],
+  "船橋": ["Funabashi"],
+  "幕張": ["Makuhari"],
+  "柏": ["Kashiwa"],
+  "野田": ["Noda"],
+  "八街": ["Yachimata"],
+  "東金": ["Togane"],
+  "九十九里": ["Kujukuri"],
+  "佐原": ["Sawara"],
+  "君津": ["Kimitsu"],
+  "富津": ["Futtsu"],
+  "鴨川": ["Kamogawa"],
+  "南房総": ["Minami Boso"],
+  "上野": ["Ueno"],
+  "調布": ["Chofu"],
+  "吉祥寺": ["Kichijoji"],
+  "八王子": ["Hachioji"],
+  "高尾": ["Takao"],
+  "伊豆諸島": ["Izu Islands"],
+  "伊豆大島": ["Izu Oshima"],
+  "八丈島": ["Hachijo Island"],
+  "葉山": ["Hayama"],
+  "海老名": ["Ebina"],
+  "相模湖": ["Lake Sagami"],
+  "真鶴": ["Manazuru"],
+  "小田原": ["Odawara"],
+  "丹沢": ["Tanzawa"],
+  "月岡": ["Tsukioka"],
+  "阿賀野川": ["Agano River"],
+  "村上": ["Murakami"],
+  "岩船": ["Iwafune"],
+  "三条": ["Sanjo"],
+  "岩室": ["Iwamuro"],
+  "弥彦": ["Yahiko"],
+  "寺泊": ["Teradomari"],
+  "長岡": ["Nagaoka"],
+  "魚沼": ["Uonuma"],
+  "湯之谷": ["Yunotani"],
+  "十日町": ["Tokamachi"],
+  "津南": ["Tsunan"],
+  "六日町": ["Muikamachi"],
+  "川下り": ["River Rafting"],
+  "ライン下り": ["Line Rafting"],
+  "ガラス細工": ["Glass Crafting"],
+  "ガラス工房": ["Glass Studio"],
+  "機織り体験": ["Weaving Experience"],
+  "機織り教室": ["Weaving Class"],
+  "太田": ["Ota"],
+  "榛名": ["Haruna"],
+  "苗場": ["Naeba"],
+  "糸魚川": ["Itoigawa"],
+  "妙高": ["Myoko"],
+  "宇奈月": ["Unazuki"],
+  "八尾": ["Yao"],
+  "氷見": ["Himi"],
+  "五箇山": ["Gokayama"],
+  "庄川": ["Shogawa"],
+  "珠洲": ["Suzu"],
+  "能登金剛": ["Noto Kongo"],
+  "七尾": ["Nanao"],
+  "羽咋": ["Hakui"],
+  "小松": ["Komatsu"],
+  "辰口": ["Tatsunokuchi"],
+  "勝山": ["Katsuyama"],
+  "大野": ["Ono"],
+  "鯖江": ["Sabae"],
+  "越前海岸": ["Echizen Coast"],
+  "若狭": ["Wakasa"],
+  "湯村": ["Yumura"],
+  "昇仙峡": ["Shosenkyo Gorge"],
+  "勝沼": ["Katsunuma"],
+  "塩山": ["Enzan"],
+  "都留": ["Tsuru"],
+  "道志渓谷": ["Doshi Valley"],
+  "忍野": ["Oshino"],
+  "西湖": ["Saiko Lake"],
+  "富士吉田": ["Fujiyoshida"],
+  "精進湖": ["Shoji Lake"],
+  "本栖湖": ["Motosu Lake"],
+  "身延": ["Minobu"],
+  "早川": ["Hayakawa"],
+  "小淵沢": ["Kobuchizawa"],
+  "清里": ["Kiyosato"],
+  "大泉": ["Oizumi"],
+  "戸隠": ["Togakushi"],
+  "小布施": ["Obuse"],
+  "木島平": ["Kijimadaira"],
+  "秋山郷": ["Akiyamago"],
+  "斑尾": ["Madarao"],
+  "黒姫": ["Kurohime"],
+  "北志賀": ["Kita Shiga"],
+  "湯田中渋": ["Yudanaka Shibu"],
+  "別所": ["Bessho"],
+  "鹿教湯": ["Kakkyo Onsen"],
+  "峰の原": ["Minenohara"],
+  "千曲": ["Chikuma"],
+  "佐久": ["Saku"],
+  "小諸": ["Komoro"],
+  "富士見": ["Fujimi"],
+  "原村": ["Hara Village"],
+  "野辺山": ["Nobeyama"],
+  "小海": ["Koumi"],
+  "白樺湖": ["Shirakaba Lake"],
+  "車山": ["Kurumayama"],
+  "女神湖": ["Megami Lake"],
+  "姫木平": ["Himekihira"],
+  "岡谷": ["Okaya"],
+  "霧ヶ峰": ["Kirigamine"],
+  "美ヶ原高原": ["Utsukushigahara Highlands"],
+  "小谷": ["Otari"],
+  "浅間": ["Asama"],
+  "塩尻": ["Shiojiri"],
+  "乗鞍": ["Norikura"],
+  "白骨": ["Shirahone"],
+  "野麦峠": ["Nomugi Pass"],
+  "木曽": ["Kiso"],
+  "大町": ["Omachi"],
+  "駒ヶ根": ["Komagane"],
+  "飯田": ["Iida"],
+  "昼神": ["Hirugami"],
+  "高山": ["Takayama"],
+  "南飛騨": ["Minami Hida"],
+  "関": ["Seki"],
+  "美濃加茂": ["Minokamo"],
+  "馬籠": ["Magome"],
+  "中津川": ["Nakatsugawa"],
+  "大垣": ["Ogaki"],
+  "荘川": ["Shokawa"],
+  "初島": ["Hatsushima"],
+  "宇佐美": ["Usami"],
+  "川奈": ["Kawana"],
+  "三島": ["Mishima"],
+  "清水": ["Shimizu"],
+  "御前崎": ["Omaezaki"],
+  "寸又峡": ["Sumatakyo"],
+  "川根": ["Kawane"],
+  "浜名湖": ["Lake Hamana"],
+  "袋井": ["Fukuroi"],
+  "掛川": ["Kakegawa"],
+  "犬山": ["Inuyama"],
+  "瀬戸": ["Seto"],
+  "一宮": ["Ichinomiya"],
+  "津島": ["Tsushima"],
+  "大府": ["Obu"],
+  "豊橋": ["Toyohashi"],
+  "渥美半島": ["Atsumi Peninsula"],
+  "豊田": ["Toyota"],
+  "足助": ["Asuke"],
+  "四日市": ["Yokkaichi"],
+  "桑名": ["Kuwana"],
+  "名張": ["Nabari"],
+  "松阪": ["Matsusaka"],
+  "中伊勢": ["Naka Ise"],
+  "二見": ["Futami"],
+  "尾鷲": ["Owase"],
+  "湖東三山": ["Koto Sanzan"],
+  "湖北": ["Kohoku"],
+  "信楽": ["Shigaraki"],
+  "守山": ["Moriyama"],
+  "近江八幡": ["Omihachiman"],
+  "堅田": ["Katata"],
+  "鞍馬": ["Kurama"],
+  "貴船": ["Kifune"],
+  "嵯峨野": ["Sagano"],
+  "高雄": ["Takao"],
+  "宇治": ["Uji"],
+  "南山城": ["Minami Yamashiro"],
+  "京丹波": ["Kyotanba"],
+  "宮津": ["Miyazu"],
+  "舞鶴": ["Maizuru"],
+  "久美浜": ["Kumihama"],
+  "福知山": ["Fukuchiyama"],
+  "茨木": ["Ibaraki"],
+  "高槻": ["Takatsuki"],
+  "箕面": ["Mino"],
+  "伊丹空港": ["Itami Airport"],
+  "寝屋川": ["Neyagawa"],
+  "守口": ["Moriguchi"],
+  "門真": ["Kadoma"],
+  "東大阪": ["Higashi Osaka"],
+  "堺": ["Sakai"],
+  "岸和田": ["Kishiwada"],
+  "関西空港": ["Kansai Airport"],
+  "USJ周辺": ["USJ Area"],
+  "六甲": ["Rokko"],
+  "有馬": ["Arima"],
+  "東播磨": ["Higashi Harima"],
+  "西宮": ["Nishinomiya"],
+  "西播磨": ["Nishi Harima"],
+  "山陰海岸": ["Sanin Coast"],
+  "篠山": ["Sasayama"],
+  "平城宮跡": ["Heijo Palace Ruins"],
+  "斑鳩": ["Ikaruga"],
+  "飛鳥": ["Asuka"],
+  "葛城": ["Katsuragi"],
+  "桜井": ["Sakurai"],
+  "山の辺": ["Yamanobe"],
+  "五條": ["Gojo"],
+  "大台ケ原": ["Odaigahara"],
+  "紀の川": ["Kinokawa"],
+  "有田": ["Arita"],
+  "田辺": ["Tanabe"],
+  "龍神": ["Ryujin"],
+  "瀞峡": ["Dorokyo Gorge"],
+  "那智勝浦": ["Nachikatsuura"],
+  "日の岬": ["Hinomisaki"],
+  "浦富海岸": ["Uradome Coast"],
+  "三朝": ["Misasa"],
+  "湯梨浜": ["Yurihama"],
+  "皆生": ["Kaike"],
+  "境港": ["Sakaiminato"],
+  "大山": ["Daisen"],
+  "島根半島": ["Shimane Peninsula"],
+  "奥出雲": ["Okuizumo"],
+  "江津": ["Gotsu"],
+  "大田": ["Oda"],
+  "津和野": ["Tsuwano"],
+  "吉備路": ["Kibi Road"],
+  "備前": ["Bizen"],
+  "瀬戸大橋": ["Seto Ohashi Bridge"],
+  "井原": ["Ibara"],
+  "湯原": ["Yubara"],
+  "新見": ["Niimi"],
+  "福山": ["Fukuyama"],
+  "鞆の浦": ["Tomonoura"],
+  "帝釈峡": ["Taishaku Gorge"],
+  "宮島": ["Miyajima"],
+  "三原": ["Mihara"],
+  "江田島": ["Etajima"],
+  "とびしま海道": ["Tobishima Kaido"],
+  "世羅": ["Sera"],
+  "柳井": ["Yanai"],
+  "下松": ["Kudamatsu"],
+  "光": ["Hikari"],
+  "防府": ["Hofu"],
+  "秋吉台": ["Akiyoshidai"],
+  "下関": ["Shimonoseki"],
+  "宇部": ["Ube"],
+  "鳴門": ["Naruto"],
+  "海陽": ["Kaiyo"],
+  "剣山": ["Mt. Tsurugi"],
+  "観音寺": ["Kanonji"],
+  "丸亀": ["Marugame"],
+  "塩飽諸島": ["Shiwaku Islands"],
+  "伊予": ["Iyo"],
+  "石鎚山": ["Mt. Ishizuchi"],
+  "新居浜": ["Niihama"],
+  "大洲": ["Ozu"],
+  "佐田岬": ["Sadamisaki"],
+  "面河渓": ["Omogokei"],
+  "四国カルスト": ["Shikoku Karst"],
+  "宇和島": ["Uwajima"],
+  "愛南": ["Ainan"],
+  "龍河洞": ["Ryugado Cave"],
+  "嶺北": ["Reihoku"],
+  "室戸": ["Muroto"],
+  "横浪": ["Yokonami"],
+  "宿毛": ["Sukumo"],
+  "博多": ["Hakata"],
+  "天神": ["Tenjin"],
+  "太宰府": ["Dazaifu"],
+  "前原": ["Maebaru"],
+  "原鶴": ["Harazuru"],
+  "筑後川": ["Chikugo River"],
+  "八女": ["Yame"],
+  "筑後": ["Chikugo"],
+  "小倉": ["Kokura"],
+  "門司": ["Moji"],
+  "吉野ケ里": ["Yoshinogari"],
+  "多久": ["Taku"],
+  "呼子": ["Yobuko"],
+  "武雄": ["Takeo"],
+  "太良": ["Tara"],
+  "松浦": ["Matsuura"],
+  "田平": ["Tabira"],
+  "西海": ["Saikai"],
+  "九十九島": ["Kujukushima"],
+  "雲仙": ["Unzen"],
+  "小浜": ["Obama"],
+  "対馬": ["Tsushima"],
+  "大村": ["Omura"],
+  "山鹿": ["Yamaga"],
+  "菊池": ["Kikuchi"],
+  "杖立": ["Tsue-tate", "Tsue tate", "tsuetate"],
+  "水俣": ["Minamata"],
+  "湯の児": ["Yunoko"],
+  "球磨": ["Kuma"],
+  "佐賀関": ["Saganoseki"],
+  "豊後高田": ["Bungotakada"],
+  "天ケ瀬": ["Amagase"],
+  "九重": ["Kuju"],
+  "中津": ["Nakatsu"],
+  "耶馬溪": ["Yabakei"],
+  "竹田": ["Taketa"],
+  "佐伯": ["Saiki"],
+  "綾": ["Aya"],
+  "延岡": ["Nobeoka"],
+  "奥日向": ["Oku Hyuga"],
+  "椎葉": ["Shiiba"],
+  "日向灘": ["Hyuga-nada", "Hyuga nada", "hyuganada"],
+  "桜島": ["Sakurajima"],
+  "知覧": ["Chiran"],
+  "枕崎": ["Makurazaki"],
+  "大隅": ["Osumi"],
+  "川内": ["Sendai"],
+  "串木野": ["Kushikino"],
+  "沖永良部島": ["Okinoerabu Island"],
+  "うるま市": ["Uruma City"],
+  "津堅島": ["Tsuken Island"],
+  "久高島": ["Kudaka Island"],
+  "今帰仁村": ["Nakijin Village"],
+  "古宇利島": ["Kouri Island"],
+  "はての浜": ["Hatenohama"],
+  "伊良部島": ["Irabu Island"],
+  "下地島": ["Shimoji Island"],
+  "来間島": ["Kurima Island"],
+  "池間島": ["Ikema Island"],
+  "小浜島": ["Kohama Island"],
+  "黒島": ["Kuroshima"],
+  "新城島": ["Aragusuku Island"],
+  "波照間島": ["Hateruma Island"],
+  "宜野湾市": ["Ginowan City"],
+  "残波岬": ["Zanpa Cape"],
+  "嘉手納市": ["Kadena City"],
+  "北谷町": ["Chatan Town"],
+  "大宜味村": ["Ogimi Village"],
+  "東村": ["Higashi Village"],
+  "由布島": ["Yubu Island"],
+  "バラス島": ["Barasu Island"],
+  "鳩間島": ["Hatoma Island"],
+  "原宿": ["Harajuku"],
+  "青山": ["Aoyama"],
+  "代々木": ["Yoyogi"],
+  "神田": ["Kanda"],
+  "水道橋": ["Suidobashi"],
+  "築地": ["Tsukiji"],
+  "豊洲": ["Toyosu"],
+  "中野": ["Nakano"],
+  "大田区": ["Ota Ward"],
+  "葛飾区": ["Katsushika Ward"],
+  "足立区": ["Adachi Ward"],
+  "北区": ["Kita Ward"],
+  "荒川区": ["Arakawa Ward"],
+  "烏丸": ["Karasuma"],
+  "大宮周辺": ["Omiya Area"],
+  "東山": ["Higashiyama"],
+  "北白川周辺": ["Kitashirakawa Area"],
+  "四ツ橋": ["Yotsubashi"],
+  "十三": ["Juso"],
+  "淀川": ["Yodogawa"],
+  "京橋": ["Kyobashi"],
+  "市内東部": ["Eastern City Area"],
+  "阿倍野": ["Abeno"],
+  "市内南部": ["Southern City Area"],
+  "三浦": ["Miura"],
+  "渡嘉敷島": ["Tokashiki Island"],
+  "座間味島": ["Zamami Island"],
+  "阿嘉島": ["Aka Island"],
+  "北野天満宮周辺": ["Kitano Tenmangu Area"],
+  "伊是名島": ["Izena Island"],
+  "粟国島": ["Aguni Island"],
+  "南大東島": ["Minami Daito Island"],
+  "瀬底島": ["Sesoko Island"],
+  "水納島含む": ["Including Minna Island"],
+  "伊江島": ["Ie Island"],
+  "豊見城市": ["Tomigusuku City"],
+  "クエフ島": ["Kuefu Island"],
+  "2島": ["2 Islands"],
+  "3島周遊": ["3 Islands Tour"],
+  "ウォータースポーツ": ["Water Sports"],
+  "マウンテンスポーツ": ["Mountain Sports"],
+  "スカイスポーツ": ["Sky Sports"],
+  "スポーツ": ["Sports"],
+  "フィットネス": ["Fitness"],
+  "ウィンタースポーツ": ["Winter Sports"],
+  "モノヅクリ": ["Crafting"],
+  "ハンドメイド": ["Handmade"],
+  "ガイドツアー": ["Guided Tour"],
+  "エンタメ": ["Entertainment"],
+  "アミューズメント": ["Amusement"],
+  "イベント": ["Event"],
+  "チケット": ["Ticket"],
+  "レンタル": ["Rental"],
+  "シュノーケリング": ["Snorkeling"],
+  "ダイビング": ["Diving"],
+  "スキューバダイビング": ["Scuba Diving"],
+  "マリンスポーツ": ["Marine Sports"],
+  "サーフィン": ["Surfing"],
+  "ボディボード": ["Bodyboarding"],
+  "ウェイクボード": ["Wakeboarding"],
+  "ウィンドサーフィン": ["Windsurfing"],
+  "ボート": ["Boat"],
+  "ヨット": ["Yacht"],
+  "サップ": ["SUP"],
+  "カヌー": ["Canoe"],
+  "カヤック": ["Kayak"],
+  "ダッキー": ["Ducky"],
+  "ラフティング": ["Rafting"],
+  "リバーブギ": ["River Buggy"],
+  "ウォータージャンプ": ["Water Jump"],
+  "Eボート": ["E-Boat", "eboat"],
+  "チュービング": ["Tubing"],
+  "バンジージャンプ": ["Bungee Jumping"],
+  "ブリッジスイング": ["Bridge Swing"],
+  "ホーストレッキング": ["Horse Trekking"],
+  "アドベンチャー": ["Adventure"],
+  "アスレチック": ["Athletic"],
+  "ジップライン": ["Zipline"],
+  "キャンプ": ["Camping"],
+  "グランピング": ["Glamping"],
+  "パラグライダー": ["Paragliding"],
+  "ハンググライダー": ["Hang Gliding"],
+  "スキー": ["Skiing"],
+  "スノーボード": ["Snowboarding"],
+  "クルージング": ["Cruising"],
+  "モータースポーツ": ["Motor Sports"],
+  "バイク": ["Bike"],
+  "マウンテンバイク": ["Mountain Bike"],
+  "ピラティス": ["Pilates"],
+  "ダンススクール": ["Dance School"],
+  "ビーチスポーツ": ["Beach Sports"],
+  "ガーデニング": ["Gardening"],
+  "アート": ["Art"],
+  "ツアー": ["Tour"],
+  "スタンドアップパドルボード": ["Stand Up Paddle Board"],
+  "フライボード": ["Flyboard"],
+  "パラセーリング": ["Parasailing"],
+  "カイトサーフィン": ["Kite Surfing"],
+  "カイトボード": ["Kite Boarding"],
+  "サーフィンスクール": ["Surfing School"],
+  "ウインドサーフィン": ["Windsurfing"],
+  "バナナボート": ["Banana Boat"],
+  "トーイングチューブ": ["Towing Tube"],
+  "キャニオニング": ["Canyoning"],
+  "シャワークライミング": ["Shower Climbing"],
+  "ハイドロスピード": ["Hydrospeed"],
+  "ウェイクサーフィン": ["Wake Surfing"],
+  "トレッキング": ["Trekking"],
+  "ハイキング": ["Hiking"],
+  "ダウンヒル": ["Downhill"],
+  "ケイビング": ["Caving"],
+  "ボルダリング": ["Bouldering"],
+  "ロッククライミング": ["Rock Climbing"],
+  "スカイダイビング": ["Skydiving"],
+  "ツリークライミング": ["Tree Climbing"],
+  "ホバーボード": ["Hoverboard"],
+  "スノーシュー": ["Snowshoe"],
+  "スノートレッキング": ["Snow Trekking"],
+  "バックカントリー": ["Backcountry"],
+  "テレマークスキー": ["Telemark Skiing"],
+  "クロスカントリースキー": ["Cross Country Skiing"],
+  "スキースクール": ["Ski School"],
+  "スノーボードスクール": ["Snowboard School"],
+  "スノーカイト": ["Snow Kite"],
+  "エアボード": ["Air Board"],
+  "スノーモービル": ["Snowmobile"],
+  "アイスウォーク": ["Ice Walk"],
+  "ホエールウォッチング": ["Whale Watching"],
+  "シーボブ": ["Sea Bob"],
+  "フォレストアドベンチャー": ["Forest Adventure"],
+  "ジェットベイター": ["Jet Bater"],
+  "ゴーカート": ["Go Kart"],
+  "サバゲー": ["Survival Game"],
+  "サバイバルゲーム": ["Survival Game"],
+  "シーウォーク": ["Sea Walk"],
+  "シーウォーカー": ["Sea Walker"],
+  "サブウィング": ["Subwing"],
+  "セグウェイ": ["Segway"],
+  "パーソナルモビリティ": ["Personal Mobility"],
+  "オフロードバイク": ["Off-road Bike", "offroad bike"],
+  "モトクロス": ["Motocross"],
+  "ジェットパック": ["Jet Pack"],
+  "ジェットブレード": ["Jet Blade"],
+  "ファンダイビング": ["Fun Diving"],
+  "クリアカヤック": ["Clear Kayak"],
+  "モーターパラグライダー": ["Motor Paraglider"],
+  "スキムボード": ["Skimboard"],
+  "リバーSUP": ["River SUP"],
+  "リバーサップ": ["River SUP"],
+  "ジェットボート": ["Jet Boat"],
+  "グラスボート": ["Glass Boat"],
+  "イルカウォッチング": ["Dolphin Watching"],
+  "サイクリング": ["Cycling"],
+  "ツーリング": ["Touring"],
+  "ポタリング": ["Pottering"],
+  "ジェットスキー": ["Jet Ski"],
+  "ウォーターバード": ["Water Bird"],
+  "バーベキュー": ["Barbecue"],
+  "SUPヨガ": ["SUP Yoga"],
+  "サップヨガ": ["SUP Yoga"],
+  "マリンクラフト": ["Marine Craft"],
+  "サンドブラスト": ["Sand Blast"],
+  "フォトフレーム": ["Photo Frame"],
+  "バスツアー": ["Bus Tour"],
+  "エコツアー": ["Eco Tour"],
+  "ネイチャーガイドツアー": ["Nature Guide Tour"],
+  "ナイトツアー": ["Night Tour"],
+  "ショーレストラン": ["Show Restaurant"],
+  "カジノバー": ["Casino Bar"],
+  "ライブハウス": ["Live House"],
+  "クラブ": ["Club"],
+  "VRゲーム": ["VR Game"],
+  "フライトシミュレーター": ["Flight Simulator"],
+  "ドライブシミュレーター": ["Drive Simulator"],
+  "スキンダイビング": ["Skin Diving"],
+  "キャンピングカー": ["Camping Car"],
+  "クライミング": ["Climbing"],
+  "ノルディックウォーキング": ["Nordic Walking"],
+  "イカダ": ["Raft"],
+  "レンタサイクル": ["Bicycle Rental"],
+  "ビーチテニス": ["Beach Tennis"],
+  "ゴルフ": ["Golf"],
+  "ビーチヨガ": ["Beach Yoga"],
+  "ウォーキング": ["Walking"],
+  "ランニング": ["Running"],
+  "アクアボール": ["Aqua Ball"],
+  "ウォーターボール": ["Water Ball"],
+  "リラクゼーション": ["Relaxation"],
+  "ヘルスケア": ["Healthcare"],
+  "レストラン": ["Restaurant"],
+  "インテリア": ["Interior"],
+  "リムジンレンタル": ["Limousine Rental"],
+  "リムジンパーティー": ["Limousine Party"],
+  "パーティ": ["Party"],
+  "フォトスタジオ": ["Photo Studio"],
+  "ハイヤー": ["Hire Car"],
+  "テーマパーク": ["Theme Park"],
+  "カルトナージュ": ["Cartonnage"],
+  "スキーレンタル": ["Ski Rental"],
+  "スポーツチャンバラ": ["Sports Chanbara"],
+  "トゥクトゥク": ["Tuk-tuk", "tuktuk"],
+  "サバニ": ["Safari"],
+  "リーフトレッキング": ["Reef Trekking"],
+  "ウォーターパーク": ["Water Park"],
+  "レーシングシュミレーター": ["Racing Simulator"],
+  "レンタカー": ["Car Rental"],
+  "バブルサッカー": ["Bubble Soccer"],
+  "ドッチビー": ["Dodgeball"],
+  "バーレスク": ["Burlesque"],
+  "レンタルバイク": ["Bike Rental"],
+  "ハーバリウム": ["Herbarium"],
+  "ナイトダイビング": ["Night Diving"],
+  "レース": ["Race"],
+  "ドルフィンスイム": ["Dolphin Swim"],
+  "ホエールスイム": ["Whale Swim"],
+  "アイスクライミング": ["Ice Climbing"],
+  "パワースポットツアー": ["Power Spot Tour"],
+  "パックラフト": ["Packraft"],
+  "トライク": ["Trike"],
+  "ウォーキングSUP": ["Walking SUP"],
+  "ペダルボード": ["Pedal Board"],
+  "カヤックフィッシング": ["Kayak Fishing"],
+  "マインドフルネス": ["Mindfulness"],
+  "メディテーション": ["Meditation"],
+  "コーステアリング": ["Coasteering"],
+  "フットサル": ["Futsal"],
+  "アドベンチャートラック": ["Adventure Track"],
+  "プリザーブドフラワー": ["Preserved Flower"],
+  "ビーチバレー": ["Beach Volleyball"],
+  "ビーチサッカー": ["Beach Soccer"],
+  "ドリフト": ["Drift"],
+  "ポケバイ": ["Pocket Bike"],
+  "レーシングカート": ["Racing Kart"],
+  "グルーデコ": ["Glue Decoration"],
+  "タイピン": ["Tie Pin"],
+  "リング": ["Ring"],
+  "ロープウェイ": ["Ropeway"],
+  "ケーブルカー": ["Cable Car"],
+  "バードウォッチング": ["Bird Watching"],
+  "クリアSUP": ["Clear SUP"],
+  "クリアサップ": ["Clear SUP"],
+  "SUPフィッシング": ["SUP Fishing"],
+  "サップフィッシング": ["SUP Fishing"],
+  "テニススクール": ["Tennis School"],
+  "フラダンス": ["Hula Dance"],
+  "ビュッフェ": ["Buffet"],
+  "バイキング": ["Viking"],
+  "カラオケ": ["Karaoke"],
+  "イルミネーション": ["Illumination"],
+  "テラリウム": ["Terrarium"],
+  "フクロウカフェ": ["Owl Cafe"],
+  "シーカヤック": ["Sea Kayak"],
+  "ビーチコーミング": ["Beach Combing"],
+  "SUPサーフィン": ["SUP Surfing"],
+  "パドルサーフィン": ["Paddle Surfing"],
+  "キャンピングカーレンタル": ["Camping Car Rental"],
+  "スノーチュービング": ["Snow Tubing"],
+  "キロロ": ["Kiroro"],
+  "ニセコ": ["Niseko"],
+  "ルスツ": ["Rusutsu"],
+  "トマム": ["Tomamu"],
+  "エリモ": ["Erimo"],
+  "カミノヤマ": ["Kamino Yama"],
+  "イワキ": ["Iwaki"],
+  "ツクバ": ["Tsukuba"],
+  "ヒタチナカ": ["Hitachi Naka"],
+  "サクラ": ["Sakura"],
+  "ミナカミ": ["Minakami"],
+  "サイタマ": ["Saitama"],
+  "アワラ": ["Awara"],
+  "ミナベ": ["Minabe"],
+  "サヌキ": ["Sanuki"],
+  "イノ": ["Ino"],
+  "ワイタ": ["Waita"],
+  "エビノ": ["Ebino"],
+  "ヤンバル": ["Yambaru"],
+  "スカイツリー": ["Sky Tree"],
+  "ナンバ": ["Namba"],
+  "ハリケーンボート": ["Hurricane Boat"],
+  "クーポン": ["Coupon"],
+  "シュノーケル": ["Snorkel"],
+  "スノーケリング": ["Snorkeling"],
+  "スノーケル": ["Snorkel"],
+  "ワカサギ": ["Wakasagi"],
+  "文化": ["Culture"],
+  "食べ物": ["Food"],
+  "タベモノヅクリ": ["Food Making"],
+  "観光": ["Sightseeing"],
+  "見学": ["Tour"],
+  "職業": ["Occupation"],
+  "果物": ["Fruit"],
+  "狩り": ["Hunting"],
+  "クダモノカリ": ["Fruit Picking"],
+  "水圧": ["Water Pressure"],
+  "遊び": ["Play"],
+  "ミズカミスキー": ["Water Skiing"],
+  "ジャンプ": ["Jump"],
+  "カワヅリ": ["River Crossing"],
+  "下り": ["Descent"],
+  "カワクダリ": ["River Descent"],
+  "ブリッジ": ["Bridge"],
+  "気球": ["Hot Air Balloon"],
+  "遊覧": ["Sightseeing"],
+  "飛行": ["Flight"],
+  "ヘリコプター": ["Helicopter"],
+  "ヨンリンバギー": ["4-Wheel Buggy", "4wheel buggy"],
+  "教室": ["Classroom"],
+  "スクール": ["School"],
+  "伝統": ["Tradition"],
+  "オキナワブンカ": ["Okinawan Culture"],
+  "陶芸": ["Pottery"],
+  "細工": ["Craft"],
+  "工房": ["Workshop"],
+  "手づくり": ["Handmade"],
+  "雑貨": ["Miscellaneous Goods"],
+  "テヅクリザッカ": ["Handmade Goods"],
+  "オリジナル": ["Original"],
+  "オリジナルザッカ": ["Original Goods"],
+  "作り": ["Making"],
+  "ザッカヅクリ": ["Goods Making"],
+  "カズザッカヅクリ": ["Numbered Goods Making"],
+  "付き": ["With"],
+  "歩き": ["Walking"],
+  "工場": ["Factory"],
+  "グラケンガク": ["Factory Tour"],
+  "サカグラケンガク": ["Sake Factory Tour"],
+  "自然": ["Nature"],
+  "鑑賞": ["Appreciation"],
+  "生物": ["Living Things"],
+  "動物": ["Animals"],
+  "国内": ["Domestic"],
+  "海外": ["Overseas"],
+  "シャワー": ["Shower"],
+  "スピード": ["Speed"],
+  "洞窟": ["Cave"],
+  "探検": ["Exploration"],
+  "登り": ["Climbing"],
+  "キノボリ": ["Tree Climbing"],
+  "カントリー": ["Country"],
+  "テレマーク": ["Telemark"],
+  "クロスカントリー": ["Cross Country"],
+  "雪上": ["On Snow"],
+  "ワカサギヅリ": ["Wakasagi Fishing"],
+  "氷上": ["On Ice"],
+  "ヒカミワカサギヅリ": ["Ice Wakasagi Fishing"],
+  "流氷": ["Drift Ice"],
+  "オフロード": ["Off-road", "offroad"],
+  "海上": ["At Sea"],
+  "釣り堀": ["Fishing Pond"],
+  "渓流": ["Mountain Stream"],
+  "初心者": ["Beginner"],
+  "シンシャ": ["New Driver"],
+  "取得": ["Acquisition"],
+  "必須": ["Required"],
+  "水中": ["Underwater"],
+  "スクーター": ["Scooter"],
+  "潜水": ["Diving"],
+  "船上": ["On Board"],
+  "料理": ["Cooking"],
+  "舞妓": ["Maiko"],
+  "サンセン": ["Sanshin"],
+  "シーサー": ["Shisa"],
+  "シーサーヅクリ": ["Shisa Making"],
+  "クラフト": ["Craft"],
+  "染物": ["Dyeing"],
+  "キャンドル": ["Candle"],
+  "テヅクリキャンドル": ["Handmade Candle"],
+  "キャンドルヅクリ": ["Candle Making"],
+  "機織り": ["Weaving"],
+  "打ち": ["Striking"],
+  "寿司": ["Sushi"],
+  "漁業": ["Fishing Industry"],
+  "農業": ["Agriculture"],
+  "ブルーベリー": ["Blueberry"],
+  "着物": ["Kimono"],
+  "キモノレンタル": ["Kimono Rental"],
+  "フラワー": ["Flower"],
+  "ポーセラーツ": ["Porcelarts"],
+  "吹き矢": ["Blowgun"],
+  "写真": ["Photo"],
+  "立て": ["Standing"],
+  "テヅクリシャシンダテ": ["Handmade Photo Stand"],
+  "フレーム": ["Frame"],
+  "花火": ["Fireworks"],
+  "オルゴール": ["Music Box"],
+  "武士": ["Samurai"],
+  "食品": ["Food Products"],
+  "サンプル": ["Sample"],
+  "ショクヒンサンプルヅクリ": ["Food Sample Making"],
+  "ビー玉": ["Marble"],
+  "ビーダマヅクリ": ["Marble Making"],
+  "江戸": ["Edo"],
+  "切子": ["Cut Glass"],
+  "公道": ["Public Road"],
+  "チョーク": ["Chalk"],
+  "紙漉き": ["Paper Making"],
+  "木工": ["Woodworking"],
+  "彫刻": ["Carving"],
+  "彫金": ["Metal Engraving"],
+  "洋服": ["Western Clothes"],
+  "洋裁": ["Western Sewing"],
+  "カービング": ["Carving"],
+  "絵本": ["Picture Book"],
+  "石鹸": ["Soap"],
+  "テヅクリセッケン": ["Handmade Soap"],
+  "カバンヅクリ": ["Bag Making"],
+  "茶道": ["Tea Ceremony"],
+  "書道": ["Calligraphy"],
+  "盆栽": ["Bonsai"],
+  "修行": ["Training"],
+  "能楽": ["Noh"],
+  "生け花": ["Flower Arrangement"],
+  "日本": ["Japan"],
+  "ニッポンシュ": ["Japanese Style"],
+  "お菓子": ["Sweets"],
+  "オカシヅクリ": ["Sweet Making"],
+  "和菓子": ["Japanese Sweets"],
+  "ワガシヅクリ": ["Japanese Sweet Making"],
+  "酪農": ["Dairy Farming"],
+  "名所": ["Famous Place"],
+  "巡り": ["Tour"],
+  "キキシュ": ["Hearing"],
+  "天体": ["Celestial Body"],
+  "観測": ["Observation"],
+  "星空": ["Starry Sky"],
+  "ホシゾラカンソク": ["Starry Sky Observation"],
+  "相撲": ["Sumo"],
+  "脱出": ["Escape"],
+  "ダッシュツゲーム": ["Escape Game"],
+  "プリンター": ["Printer"],
+  "喫茶": ["Tea House"],
+  "コスプレシャシン": ["Cosplay Photo"],
+  "変身": ["Transformation"],
+  "音楽": ["Music"],
+  "シミュレーター": ["Simulator"],
+  "潜り": ["Diving"],
+  "モトモグリ": ["Motor Diving"],
+  "キャンピング": ["Camping"],
+  "マスカット": ["Muscat"],
+  "サクランボ": ["Cherry"],
+  "予約": ["Reservation"],
+  "空中": ["In Air"],
+  "ブランコ": ["Swing"],
+  "飲食": ["Food and Drink"],
+  "施設": ["Facility"],
+  "組紐": ["Braided Cord"],
+  "コケダマヅクリ": ["Kokedama Making"],
+  "枝豆": ["Edamame"],
+  "化粧": ["Makeup"],
+  "リムジン": ["Limousine"],
+  "撮影": ["Photography"],
+  "スタジオ": ["Studio"],
+  "舞踊": ["Dance"],
+  "日帰り": ["Day Trip"],
+  "温泉": ["Hot Spring"],
+  "タクシー": ["Taxi"],
+  "空手": ["Karate"],
+  "合気道": ["Aikido"],
+  "剣道": ["Kendo"],
+  "柔道": ["Judo"],
+  "弓道": ["Kyudo"],
+  "少林寺拳法": ["Shorinji Kempo"],
+  "居合": ["Iaido"],
+  "ナギナタ": ["Naginata"],
+  "柔術": ["Jujutsu"],
+  "和楽": ["Traditional Music"],
+  "人形": ["Doll"],
+  "ドラム缶": ["Drum Can"],
+  "風呂": ["Bath"],
+  "手芸": ["Handicraft"],
+  "仏閣": ["Buddhist Temple"],
+  "ブッカクメグリ": ["Temple Tour"],
+  "けん玉": ["Kendama"],
+  "漆器": ["Lacquerware"],
+  "シッキヅクリ": ["Lacquerware Making"],
+  "テヅクリハンコ": ["Handmade Seal"],
+  "スタンプ": ["Stamp"],
+  "テヅクリスタンプ": ["Handmade Stamp"],
+  "時計": ["Clock"],
+  "ジオラマ": ["Diorama"],
+  "製作": ["Production"],
+  "鍛冶": ["Blacksmithing"],
+  "タンヤケンガク": ["Forge Tour"],
+  "祭り": ["Festival"],
+  "お座敷": ["Traditional Room"],
+  "民家": ["Traditional House"],
+  "生活": ["Life"],
+  "サッカー": ["Soccer"],
+  "花魁": ["Oiran"],
+  "浴衣": ["Yukata"],
+  "ユカタレンタル": ["Yukata Rental"],
+  "無人島": ["Deserted Island"],
+  "礼儀": ["Etiquette"],
+  "作法": ["Manners"],
+  "継ぎ": ["Joining"],
+  "万華鏡": ["Kaleidoscope"],
+  "カマクラ": ["Kamakura"],
+  "語学": ["Language Study"],
+  "破壊": ["Destruction"],
+  "岩盤": ["Bedrock"],
+  "ガンバンヨク": ["Rock Bathing"],
+  "十二単": ["Juni-hitoe", "juni hitoe", "junihitoe"],
+  "昆虫": ["Insect"],
+  "採集": ["Collection"],
+  "トラック": ["Truck"],
+  "展望": ["View"],
+  "付け": ["Attachment"],
+  "九谷焼": ["Kutani Ware"],
+  "七宝": ["Cloisonne"],
+  "焼き": ["Baking"],
+  "テビネリ": ["Tebineri"],
+  "取り": ["Taking"],
+  "電動": ["Electric"],
+  "備前焼": ["Bizen Ware"],
+  "美濃": ["Mino"],
+  "カワハギ": ["Filefish"],
+  "カワハギヅリ": ["Filefish Fishing"],
+  "キスヅリ": ["Whiting Fishing"],
+  "タコヅリ": ["Octopus Fishing"],
+  "ハゼヅリ": ["Goby Fishing"],
+  "ヒラメヅリ": ["Flounder Fishing"],
+  "琉球": ["Ryukyu"],
+  "ステンドグラス": ["Stained Glass"],
+  "デコレーション": ["Decoration"],
+  "キーホルダー": ["Keychain"],
+  "テヅクリキーホルダー": ["Handmade Keychain"],
+  "テヅクリストラップ": ["Handmade Strap"],
+  "スマホケース": ["Smartphone Case"],
+  "テヅクリスマホケース": ["Handmade Smartphone Case"],
+  "ブレスレット": ["Bracelet"],
+  "テヅクリブレスレット": ["Handmade Bracelet"],
+  "ブローチ": ["Brooch"],
+  "テヅクリブローチ": ["Handmade Brooch"],
+  "指輪": ["Ring"],
+  "テヅクリユビワ": ["Handmade Ring"],
+  "草木": ["Plants"],
+  "染め": ["Dyeing"],
+  "森林": ["Forest"],
+  "セラピー": ["Therapy"],
+  "森林浴": ["Forest Bathing"],
+  "ミズカミバス": ["Water bus"],
+  "摘み": ["Picking"],
+  "チャツマミ": ["Tea Picking"],
+  "寄せ": ["Gathering"],
+  "押し花": ["Pressed Flower"],
+  "民族": ["Ethnic"],
+  "衣装": ["Costume"],
+  "バスヅリ": ["Bass Fishing"],
+  "用品": ["Supplies"],
+  "水引": ["Mizuhiki"],
+  "居酒屋": ["Izakaya"],
+  "ミチヒサシ": ["Michihisashi"],
+  "周遊": ["Round Trip"],
+  "白神": ["Shirakami"],
+  "山地": ["Mountain Area"],
+  "カミサン": ["Kamiyama"],
+  "シラカミサンチ": ["Shirakami Mountains"],
+  "津軽": ["Tsugaru"],
+  "西海岸": ["West Coast"],
+  "半島": ["Peninsula"],
+  "陸中": ["Rikuchu"],
+  "海岸": ["Coast"],
+  "磐梯": ["Bandai"],
+  "高原": ["Highland"],
+  "久慈": ["Kuji"],
+  "オククジ": ["Oku-Kuji", "okukuji"],
+  "ヨンマン": ["Yonman"],
+  "房総": ["Boso"],
+  "伊豆": ["Izu"],
+  "大島": ["Oshima"],
+  "相模": ["Sagami"],
+  "サガミコ": ["Sagami Lake"],
+  "セラナミ": ["Seranami"],
+  "サンジョ": ["Sanjo"],
+  "能登": ["Noto"],
+  "金剛": ["Kongo"],
+  "サンコク": ["Sankoku"],
+  "越前": ["Echizen"],
+  "道志": ["Doshi"],
+  "渓谷": ["Valley"],
+  "秋山": ["Akiyama"],
+  "ミネノハラ": ["Minenohara"],
+  "戸倉": ["Togura"],
+  "上山田": ["Kamiyamada"],
+  "トクラカミヤマダ": ["Togura Kamiyamada"],
+  "センキョク": ["Senkyoku"],
+  "シラカバ": ["White Birch"],
+  "美ヶ原": ["Utsukushigahara"],
+  "松本": ["Matsumoto"],
+  "中心": ["Center"],
+  "安曇": ["Azumi"],
+  "ヒルカミ": ["Hill Top"],
+  "オクヒダ": ["Oku-Hida", "okuhida"],
+  "ナカツガワ": ["Nakatsugawa"],
+  "大井": ["Oi"],
+  "オクサンカワ": ["Oku-Sakawa","okusagawa"],
+  "ミナミトッパ": ["Minami Toppa"],
+  "湖東": ["Koto"],
+  "三山": ["Three Mountains"],
+  "周辺": ["Surroundings"],
+  "北部": ["North"],
+  "オオサカホクブ": ["Osaka North"],
+  "梅田": ["Umeda"],
+  "東部": ["East"],
+  "南部": ["South"],
+  "オオサカナンブ": ["Osaka South"],
+  "空港": ["Airport"],
+  "播磨": ["Harima"],
+  "ヒガシハリマ": ["East Harima"],
+  "ニシハリマ": ["West Harima"],
+  "平城": ["Heijo"],
+  "台ケ原": ["Daigahara"],
+  "ニチノミサキ": ["Nichinomi-saki","nichinomisaki"],
+  "ユナシハマ": ["Yunashima"],
+  "海道": ["Kaido"],
+  "祖谷": ["Iya"],
+  "吉野川": ["Yoshino River"],
+  "流域": ["Basin"],
+  "ヒガシカガワ": ["East Kagawa"],
+  "ヅチサン": ["Duchisan"],
+  "新居": ["Shin-ai", "shinai"],
+  "佐田": ["Sada"],
+  "面河": ["Omogo"],
+  "カルスト": ["Karst"],
+  "シコクカルスト": ["Shikoku Karst"],
+  "フクオカシ": ["Fukuoka City"],
+  "久留": ["Kuru"],
+  "クルヨネ": ["Kuruyone"],
+  "ハチジョ": ["Hachijo"],
+  "サガセキ": ["Sagaseki"],
+  "豊後": ["Bungo"],
+  "ブンゴオオノ": ["Bungo Ono"],
+  "日南": ["Nichinan"],
+  "オクヒナタ": ["Oku-Hinata", "okuhinata"],
+  "奄美": ["Amami"],
+  "諸島": ["Islands"],
+  "那覇": ["Naha"],
+  "南城": ["Nanjo"],
+  "名護": ["Nago"],
+  "今帰仁": ["Nakijin"],
+  "ナキジンムラ": ["Nakijin Village"],
+  "古宇": ["Kou"],
+  "利島": ["Toshima"],
+  "恩納": ["Onna"],
+  "オンナムラ": ["Onna Village"],
+  "グニジマ": ["Gunijima"],
+  "浦添": ["Urasoe"],
+  "宜野湾": ["Ginowan"],
+  "ギノワンシ": ["Ginowan City"],
+  "読谷": ["Yomitan"],
+  "ヨミタンムラ": ["Yomitan Village"],
+  "嘉手納": ["Kadena"],
+  "カデナシ": ["Kadena City"],
+  "北谷": ["Chatan"],
+  "チャタンマチ": ["Chatan Town"],
+  "国頭": ["Kunigami"],
+  "クニガミムラ": ["Kunigami Village"],
+  "大宜味": ["Ogimi"],
+  "オオギミムラ": ["Ogimi Village"],
+  "台場": ["Odaiba"],
+  "品川": ["Shinagawa"],
+  "シナガワク": ["Shinagawa Ward"],
+  "オオタク": ["Ota"],
+  "江戸川": ["Edogawa"],
+  "葛飾": ["Katsushika"],
+  "カツシカク": ["Katsushika Ward"],
+  "足立": ["Adachi"],
+  "板橋": ["Itabashi"],
+  "荒川": ["Arakawa"],
+  "大宮": ["Omiya"],
+  "北白川": ["Kita Shirakawa"],
+  "市内": ["City Center"],
+  "北野": ["Kitano"],
+  "天満宮": ["Tenmangu"],
+  "本部": ["Motobu"],
+  "モトブマチ": ["Motobu Town"],
+  "瀬底": ["Sesoko"],
+  "水納島": ["Minna Island"],
+  "ミンナシマフクム": ["Minna Island Fukumu"],
+  "糸満": ["Itoman"],
+  "豊見城": ["Tomigusuku"],
+  "トミグスクシ": ["Tomigusuku City"],
+  "ナガンヌ": ["Naganu"],
+  "クシロガワ": ["Kushiro River"],
+  "ハリケーン": ["Hurricane"],
+  "立山": ["Tateyama"]
+}

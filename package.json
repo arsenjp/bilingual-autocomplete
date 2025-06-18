@@ -1,0 +1,15 @@
+{
+	"name": "autocomplete",
+	"version": "1.0.0",
+	"description": "Bilingual autocomplete with semantic search",
+	"main": "src/index.js",
+	"scripts": {
+		"start": "ts-node src/run.ts",
+		"build": "tsc",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"dependencies": {
+		"kuroshiro": "^1.2.0",
+		"kuroshiro-analyzer-kuromoji": "^1.1.0"
+	}
+}
