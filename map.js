@@ -1,6 +1,5 @@
 const fs = require('fs')
 const path = require('path')
-const memoryUsage = require('./memory-usage')
 
 class BilingualMap {
   constructor(data) {
@@ -18,8 +17,10 @@ class BilingualMap {
       
       const simpleData = JSON.parse(fs.readFileSync(simpleSetsPath, 'utf8'))
       
-      // Get sets from simple data
-      this.semanticSets = simpleData.semanticSets
+      // Convert all terms to lowercase during build stage
+      this.semanticSets = simpleData.semanticSets.map(set => 
+        set.map(term => term.toLowerCase())
+      )
       
       console.log(`Loaded ${this.semanticSets.length} semantic sets `)
       
@@ -31,16 +32,15 @@ class BilingualMap {
   }
 
   buildMap() {
-    // Process the text data
+    // Process the text data - convert to lowercase during build stage
     this.data.forEach((text, index) => {
+      const textLower = text.toLowerCase() // Convert once during build
       // For each semantic set, check if any of its terms appear in the text
       this.semanticSets.forEach(set => {
         // Only add terms that actually match the text
         set.forEach(term => {
-          const termLower = term.toLowerCase()
-          const textLower = text.toLowerCase()
-          
-          if (textLower.includes(termLower)) {
+          // No need for toLowerCase() since both term and text are already lowercase
+          if (textLower.includes(term)) {
             // Insert only the complete term
             if (!this.termToTextIndices.has(term)) {
                 this.termToTextIndices.set(term, new Set())
@@ -61,7 +61,8 @@ class BilingualMap {
     // Find all terms in all semantic sets that start with the query
     this.semanticSets.forEach(set => {
       set.forEach(term => {
-        if (term.toLowerCase().startsWith(lowerQuery)) {
+        // No need for toLowerCase() since term is already lowercase from semantic sets
+        if (term.startsWith(lowerQuery)) {
           matchingSets.add(set)
         }
       })
@@ -79,7 +80,7 @@ class BilingualMap {
       })
     })
 
-    // Return the texts in the order of their indices
+    // Return the texts in the order of their indices (original, non-lowercase version)
     return Array.from(resultIndices).sort((a, b) => a - b).map(idx => this.data[idx])
   }
 }

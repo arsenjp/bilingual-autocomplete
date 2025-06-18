@@ -1,7 +1,5 @@
 const fs = require('fs')
 const path = require('path')
-const memoryUsage = require('./memory-usage')
-
 
 class BilingualTrie {
   constructor(data) {
@@ -14,7 +12,6 @@ class BilingualTrie {
     this.buildTrie()
   }
 
-
   createNode() {
     return {
       children: new Map(),
@@ -23,12 +20,13 @@ class BilingualTrie {
     }
   }
 
-
   loadSemanticSets() {
     try {
       const simpleSetsPath = path.join('dist', 'simple-semantic-sets.json')
       const simpleData = JSON.parse(fs.readFileSync(simpleSetsPath, 'utf8'))
-      this.semanticSets = simpleData.semanticSets
+      this.semanticSets = simpleData.semanticSets.map(set => 
+        set.map(term => term.toLowerCase())
+      )
       console.log(`Loaded ${this.semanticSets.length} semantic sets`)
     } catch (error) {
       console.error('Error loading semantic sets:', error)
@@ -44,14 +42,12 @@ class BilingualTrie {
       })
     })
     
-    // Process the text data
+    // Process the text data - convert to lowercase during build stage
     this.data.forEach((text, index) => {
+      const textLower = text.toLowerCase() // Convert once during build
       this.semanticSets.forEach(set => {
         set.forEach(term => {
-          const termLower = term.toLowerCase()
-          const textLower = text.toLowerCase()
-          
-          if (this.termMappings.get(termLower).some(t => textLower.includes(t))) {
+          if (this.termMappings.get(term).some(t => textLower.includes(t))) {
             this.insertTerm(term, index)
           }
         })
@@ -59,12 +55,10 @@ class BilingualTrie {
     })
   }
 
-
   insertTerm(term, textIndex) {
     let node = this.root
-    const termLower = term.toLowerCase()
     
-    for (const char of termLower) {
+    for (const char of term) {
       if (!node.children.has(char)) {
         node.children.set(char, this.createNode())
       }
@@ -72,7 +66,7 @@ class BilingualTrie {
     }
     
     node.isEnd = true
-    node.completeTerm = termLower
+    node.completeTerm = term
     
     if (!this.termToTextIndices.has(term)) {
       this.termToTextIndices.set(term, new Set())
@@ -101,12 +95,12 @@ class BilingualTrie {
 
   getAutocompleteSuggestions(query) {
     if (!query.trim()) return []
+    const lowerQuery = query.toLowerCase()
     
     const suggestions = new Set()
-    this.findCompletions(query.toLowerCase(), suggestions)
+    this.findCompletions(lowerQuery, suggestions)
     return Array.from(suggestions)
   }
-
 
   findCompletions(query, suggestions) {
     let node = this.root
@@ -128,7 +122,6 @@ class BilingualTrie {
       this.collectCompletions(child, suggestions)
     })
   }
-
 
   printTrie() {
     console.log('\n🌳 Trie Structure:')
