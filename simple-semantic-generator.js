@@ -24,36 +24,23 @@ class SimpleSemanticGenerator {
     if (!this.initialized) await this.init()
     
     const variations = new Set()
+    const lowerText = text.toLowerCase()
     
     // Add original text
-    variations.add(text)
+    variations.add(lowerText)
     
     // Convert to hiragana
-    const hiragana = await this.kuroshiro.convert(text, { to: 'hiragana' })
+    const hiragana = await this.kuroshiro.convert(lowerText, { to: 'hiragana' })
     variations.add(hiragana)
     
     // Convert to katakana
-    const katakana = await this.kuroshiro.convert(text, { to: 'katakana' })
+    const katakana = await this.kuroshiro.convert(lowerText, { to: 'katakana' })
     variations.add(katakana)
     
-    // If the original text is kana-only, try to find its kanji form
-    if (!/[\u4e00-\u9faf]/.test(text)) {
-      try {
-        const analyzer = this.kuroshiro._analyzer
-        const analyzed = await analyzer.parse(text)
-        
-        // Look for kanji forms in the analysis
-        for (const token of analyzed) {
-          if (token.pos.startsWith('名詞') && /[\u4e00-\u9faf]/.test(token.surface_form)) {
-            variations.add(token.surface_form)
-          }
-        }
-      } catch (error) {
-        console.warn(`Failed to find kanji form for ${text}:`, error)
-      }
+    return {
+      key: katakana || lowerText,
+      variations: Array.from(variations)
     }
-    
-    return Array.from(variations)
   }
 
   // Extract words from text using various patterns
@@ -118,7 +105,7 @@ class SimpleSemanticGenerator {
   async generateSemanticSets(texts) {
     if (!this.initialized) await this.init()
     
-    const semanticSets = new Set()
+    const semanticMappings = new Map()
     
     console.log('Processing texts for semantic sets...')
     
@@ -129,22 +116,29 @@ class SimpleSemanticGenerator {
       const words = await this.extractWords(text)
       
       for (const word of words) {
-        const variations = await this.convertToAllScripts(word)
-        if (variations.length > 0) {
-          semanticSets.add(variations)
+        const { key, variations } = await this.convertToAllScripts(word)
+        console.log(`  Found variations for "${word}":`, variations)
+
+        console.log(`  Adding "${key}" with variations:`, variations)
+        if (!semanticMappings.has(key)) {
+          semanticMappings.set(key, [])
+        }
+        if (variations.length > semanticMappings.get(key).length) {
+          semanticMappings.set(key, variations)
         }
       }
     }
     
-    return Array.from(semanticSets)
+    return Array.from(semanticMappings.values())
   }
 
-  async addEnglishTerms(semanticSets, translations, isExtended = false) {
+  async addEnglishTerms(semanticSets, translations) {
     const enhancedSets = semanticSets.map(set => {
       const enhancedSet = [...set]
       for (const term of set) {
         if (translations[term]) {
-          enhancedSet.push(...translations[term])
+          console.log("adding english term", term, translations[term])
+          enhancedSet.push(...translations[term].map(t => t.toLowerCase()))
         }
       }
       return enhancedSet
@@ -190,134 +184,12 @@ class SimpleSemanticGenerator {
     // Export untranslated terms
     if (untranslatedTerms.size > 0) {
       const untranslatedObj = Object.fromEntries(untranslatedTerms)
-      const outputPath = path.join('dist', isExtended ? 'suggested-extended-translations.json' : 'suggested-translations.json')
+      const outputPath = path.join('dist', 'suggested-translations.json')
       fs.writeFileSync(outputPath, JSON.stringify(untranslatedObj, null, 2), 'utf8')
       console.log(`\n📝 Exported ${untranslatedTerms.size} untranslated terms to ${outputPath}`)
     }
     
     return enhancedSets
-  }
-
-  async analyzeAndDivideWord(word) {
-    if (!this.initialized) await this.init()
-    
-    try {
-      const analyzer = this.kuroshiro._analyzer
-      const analyzed = await analyzer.parse(word)
-      
-      // Debug log the full analysis
-      console.log(`Analyzing word: ${word}`)
-      
-      const nouns = []
-      
-      // Extract all nouns from the analysis
-      for (const token of analyzed) {
-        console.log(`Token: ${token.surface_form} (${token.pos})`)
-        
-        // Check if it's a noun
-        if (token.pos.startsWith('名詞')) {
-          // Skip very short words
-          if (token.surface_form.length < 2) {
-            console.log(`Skipping short noun: ${token.surface_form}`)
-            continue
-          }
-          
-          // Skip if the word starts with a small kana (ぁ-ぉ, ァ-ォ)
-          if (/^[ぁ-ぉァ-ォ]/.test(token.surface_form)) {
-            console.log(`Skipping word starting with small kana: ${token.surface_form}`)
-            continue
-          }
-          
-          // Skip if the word is kana-only and short
-          if (/^[ぁ-んァ-ンー]+$/.test(token.surface_form) && token.surface_form.length < 4) {
-            console.log(`Skipping short kana-only word: ${token.surface_form}`)
-            continue
-          }
-          
-          // Skip if the word contains small kana in the middle
-          if (/[ぁ-ぉァ-ォ]/.test(token.surface_form)) {
-            console.log(`Skipping word with small kana in middle: ${token.surface_form}`)
-            continue
-          }
-          
-          // Skip if the word is just a single kana character
-          if (/^[ぁ-んァ-ンー]$/.test(token.surface_form)) {
-            console.log(`Skipping single kana character: ${token.surface_form}`)
-            continue
-          }
-          
-          console.log(`Found noun: ${token.surface_form} (${token.pos})`)
-          nouns.push({
-            surface_form: token.surface_form,
-            base_form: token.basic_form || token.surface_form,
-            pos: token.pos
-          })
-        }
-      }
-      
-      if (nouns.length > 0) {
-        return {
-          canDivide: true,
-          nouns: nouns
-        }
-      }
-      
-      return {
-        canDivide: false,
-        nouns: []
-      }
-    } catch (error) {
-      console.warn(`Failed to analyze word ${word}:`, error)
-      return {
-        canDivide: false,
-        nouns: []
-      }
-    }
-  }
-
-  async generateExtendedSemanticSets(semanticSets) {
-    if (!this.initialized) await this.init()
-    
-    const extendedSets = new Map() // Use Map to track base forms
-    const seenTerms = new Set() // Track seen terms to prevent duplicates
-    
-    console.log('Generating extended semantic sets from all nouns...')
-    
-    for (const set of semanticSets) {
-      for (const term of set) {
-        // Only analyze Japanese terms
-        if (/[\u3040-\u309f\u30a0-\u30ff\u4e00-\u9faf]/.test(term)) {
-          const analysis = await this.analyzeAndDivideWord(term)
-          
-          if (analysis.canDivide && analysis.nouns.length > 0) {
-            // Create semantic sets for each noun
-            for (const noun of analysis.nouns) {
-              // Skip if the noun is the same as the original term
-              if (noun.surface_form === term) {
-                continue
-              }
-              
-              // Convert to katakana for base form
-              const katakanaBase = await this.kuroshiro.convert(noun.surface_form, { to: 'katakana' })
-              
-              // Skip if we've already processed this word
-              if (seenTerms.has(katakanaBase)) continue
-              seenTerms.add(katakanaBase)
-              
-              // Get all script variations
-              const variations = await this.convertToAllScripts(noun.surface_form)
-              if (variations.length > 0) {
-                // Sort variations to ensure consistent ordering
-                const sortedVariations = variations.sort()
-                extendedSets.set(katakanaBase, sortedVariations)
-              }
-            }
-          }
-        }
-      }
-    }
-    
-    return Array.from(extendedSets.values())
   }
 
   // Export semantic sets to JSON
@@ -334,19 +206,6 @@ class SimpleSemanticGenerator {
     console.log(`  - Total sets: ${semanticSets.length}`)
   }
 
-  // Export extended semantic sets to JSON
-  exportExtendedAsJson(extendedSets, filename = 'extended-semantic-sets.json') {
-    const outputPath = path.join('dist', filename)
-    
-    const data = {
-      generatedAt: new Date().toISOString(),
-      extendedSemanticSets: extendedSets
-    }
-    
-    fs.writeFileSync(outputPath, JSON.stringify(data, null, 2), 'utf8')
-    console.log(`Exported extended semantic sets to ${outputPath}`)
-    console.log(`  - Total extended sets: ${extendedSets.length}`)
-  }
 }
 
 // Example usage
@@ -366,27 +225,16 @@ async function generateSemanticSets() {
     console.log(`\n📊 Generated sets:`)
     console.log(`  - Total sets: ${semanticSets.length}`)
     
-    // Generate extended semantic sets
-    console.log('\n🔍 Generating extended semantic sets...')
-    let extendedSets = await generator.generateExtendedSemanticSets(semanticSets)
-    
     // Add English terms to both sets
     semanticSets = await generator.addEnglishTerms(semanticSets, translations, false)
-    extendedSets = await generator.addEnglishTerms(extendedSets, translations, true)
     
     console.log('\n🔗 Semantic sets:')
     semanticSets.forEach((set, index) => {
       console.log(`  Set ${index + 1}: [${set.join(', ')}]`)
     })
     
-    console.log('\n🔗 Extended semantic sets:')
-    extendedSets.forEach((set, index) => {
-      console.log(`  Extended Set ${index + 1}: [${set.join(', ')}]`)
-    })
-    
     // Export both sets
     generator.exportAsJson(semanticSets)
-    generator.exportExtendedAsJson(extendedSets)
     
     console.log('\n✅ Done! Import in your project:')
     console.log("const semanticSets = require('./dist/simple-semantic-sets.json')")

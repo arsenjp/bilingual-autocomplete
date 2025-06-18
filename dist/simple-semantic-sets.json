@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2025-06-18T13:13:25.305Z",
+  "generatedAt": "2025-06-18T20:18:39.678Z",
   "semanticSets": [
     [
       "海のアクティビティ",
@@ -10,7 +10,7 @@
     ],
     [
       "ウォータースポーツ",
-      "Water Sports"
+      "water sports"
     ],
     [
       "川",
@@ -26,7 +26,7 @@
     ],
     [
       "マウンテンスポーツ",
-      "Mountain Sports"
+      "mountain sports"
     ],
     [
       "山のアクティビティ",
@@ -36,7 +36,7 @@
     ],
     [
       "スカイスポーツ",
-      "Sky Sports"
+      "sky sports"
     ],
     [
       "空のアクティビティ",
@@ -52,15 +52,15 @@
     ],
     [
       "スポーツ",
-      "Sports"
+      "sports"
     ],
     [
       "フィットネス",
-      "Fitness"
+      "fitness"
     ],
     [
       "ウィンタースポーツ",
-      "Winter Sports"
+      "winter sports"
     ],
     [
       "雪のアクティビティ",
@@ -83,18 +83,18 @@
     [
       "ものづくり",
       "モノヅクリ",
-      "Crafting"
+      "crafting",
+      "making things"
     ],
     [
       "ハンドメイド",
-      "Handmade"
+      "handmade"
     ],
     [
       "食べ物づくり",
       "たべものづくり",
       "タベモノヅクリ",
-      "food making",
-      "Food Making"
+      "food making"
     ],
     [
       "観光ツアー",
@@ -104,7 +104,7 @@
     ],
     [
       "ガイドツアー",
-      "Guided Tour"
+      "guided tour"
     ],
     [
       "見学ツアー",
@@ -128,28 +128,27 @@
       "果物狩り",
       "くだものかり",
       "クダモノカリ",
-      "fruit picking",
-      "Fruit Picking"
+      "fruit picking"
     ],
     [
       "エンタメ",
-      "Entertainment"
+      "entertainment"
     ],
     [
       "アミューズメント",
-      "Amusement"
+      "amusement"
     ],
     [
       "イベント",
-      "Event"
+      "event"
     ],
     [
       "チケット",
-      "Ticket"
+      "ticket"
     ],
     [
       "レンタル",
-      "Rental"
+      "rental"
     ],
     [
       "オンライン体験ツアー",
@@ -159,15 +158,15 @@
     ],
     [
       "シュノーケリング",
-      "Snorkeling"
+      "snorkeling"
     ],
     [
       "ダイビング",
-      "Diving"
+      "diving"
     ],
     [
       "スキューバダイビング",
-      "Scuba Diving"
+      "scuba diving"
     ],
     [
       "海釣り",
@@ -183,23 +182,23 @@
     ],
     [
       "マリンスポーツ",
-      "Marine Sports"
+      "marine sports"
     ],
     [
       "サーフィン",
-      "Surfing"
+      "surfing"
     ],
     [
       "ボディボード",
-      "Bodyboarding"
+      "bodyboarding"
     ],
     [
       "ウェイクボード",
-      "Wakeboarding"
+      "wakeboarding"
     ],
     [
       "ウィンドサーフィン",
-      "Windsurfing"
+      "windsurfing"
     ],
     [
       "水圧で空を飛ぶ",
@@ -209,11 +208,11 @@
     ],
     [
       "ボート",
-      "Boat"
+      "boat"
     ],
     [
       "ヨット",
-      "Yacht"
+      "yacht"
     ],
     [
       "海遊び",
@@ -222,11 +221,11 @@
       "sea play"
     ],
     [
-      "SUP"
+      "sup"
     ],
     [
       "サップ",
-      "SUP"
+      "sup"
     ],
     [
       "釣り",
@@ -236,41 +235,40 @@
     ],
     [
       "カヌー",
-      "Canoe"
+      "canoe"
     ],
     [
       "カヤック",
-      "Kayak"
+      "kayak"
     ],
     [
       "ダッキー",
-      "Ducky"
+      "ducky",
+      "raft"
     ],
     [
       "ラフティング",
-      "Rafting"
+      "rafting"
     ],
     [
       "リバーブギ",
-      "River Buggy"
+      "river buggy"
     ],
     [
       "水上スキー",
       "みずかみスキー",
       "ミズカミスキー",
-      "water skiing",
-      "Water Skiing"
+      "water skiing"
     ],
     [
       "ウォータージャンプ",
-      "Water Jump"
+      "water jump"
     ],
     [
       "川釣り",
       "かわづり",
       "カワヅリ",
-      "river fishing",
-      "River Crossing"
+      "river fishing"
     ],
     [
       "湖釣り",
@@ -282,35 +280,29 @@
       "川下り",
       "かわくだり",
       "カワクダリ",
-      "River Rafting",
-      "River Descent"
+      "river rafting"
     ],
     [
       "ライン下り",
       "ラインくだり",
       "ラインクダリ",
-      "Line Rafting"
+      "line rafting"
     ],
     [
-      "Eボート",
-      "E-Boat",
-      "eboat"
-    ],
-    [
-      "ボート",
-      "Boat"
+      "eボート",
+      "electric boat"
     ],
     [
       "チュービング",
-      "Tubing"
+      "tubing"
     ],
     [
       "バンジージャンプ",
-      "Bungee Jumping"
+      "bungee jumping"
     ],
     [
       "ブリッジスイング",
-      "Bridge Swing"
+      "bridge swing"
     ],
     [
       "乗馬",
@@ -320,11 +312,11 @@
     ],
     [
       "ホーストレッキング",
-      "Horse Trekking"
+      "horse trekking"
     ],
     [
       "アドベンチャー",
-      "Adventure"
+      "adventure"
     ],
     [
       "冒険",
@@ -334,30 +326,30 @@
     ],
     [
       "アスレチック",
-      "Athletic"
+      "athletic"
     ],
     [
       "ジップライン",
-      "Zipline"
+      "zipline"
     ],
     [
       "キャンプ",
-      "Camping"
+      "camping"
     ],
     [
       "グランピング",
-      "Glamping"
+      "glamping"
     ],
     [
-      "BBQ"
+      "bbq"
     ],
     [
       "パラグライダー",
-      "Paragliding"
+      "paragliding"
     ],
     [
       "ハンググライダー",
-      "Hang Gliding"
+      "hang gliding"
     ],
     [
       "熱気球",
@@ -379,11 +371,11 @@
     ],
     [
       "スキー",
-      "Skiing"
+      "skiing"
     ],
     [
       "スノーボード",
-      "Snowboarding"
+      "snowboarding"
     ],
     [
       "スキー場",
@@ -410,24 +402,18 @@
       "boat"
     ],
     [
-      "ボート",
-      "Boat"
-    ],
-    [
       "クルージング",
-      "Cruising"
+      "cruising"
     ],
     [
       "モータースポーツ",
-      "Motor Sports"
+      "motor sports"
     ],
     [
       "四輪バギー",
       "よんりんバギー",
       "ヨンリンバギー",
-      "quad bike",
-      "4-Wheel Buggy",
-      "4wheel buggy"
+      "quad bike"
     ],
     [
       "車",
@@ -437,7 +423,7 @@
     ],
     [
       "バイク",
-      "Bike"
+      "bike"
     ],
     [
       "自転車",
@@ -447,7 +433,7 @@
     ],
     [
       "マウンテンバイク",
-      "Mountain Bike"
+      "mountain bike"
     ],
     [
       "ヨガ教室",
@@ -457,7 +443,7 @@
     ],
     [
       "ピラティス",
-      "Pilates"
+      "pilates"
     ],
     [
       "ダンス教室",
@@ -467,11 +453,11 @@
     ],
     [
       "ダンススクール",
-      "Dance School"
+      "dance school"
     ],
     [
       "ビーチスポーツ",
-      "Beach Sports"
+      "beach sports"
     ],
     [
       "格闘技",
@@ -495,14 +481,13 @@
       "沖縄文化",
       "おきなわぶんか",
       "オキナワブンカ",
-      "Okinawan culture",
-      "Okinawan Culture"
+      "okinawan culture"
     ],
     [
       "沖縄体験",
       "おきなわたいけん",
       "オキナワタイケン",
-      "Okinawa experience"
+      "okinawa experience"
     ],
     [
       "陶芸体験",
@@ -520,27 +505,25 @@
       "ガラス細工",
       "ガラスざいく",
       "ガラスザイク",
-      "Glass Crafting"
+      "glass crafting"
     ],
     [
       "ガラス工房",
       "ガラスこうぼう",
       "ガラスコウボウ",
-      "Glass Studio"
+      "glass studio"
     ],
     [
       "手づくり雑貨",
       "てづくりざっか",
       "テヅクリザッカ",
-      "handmade goods",
-      "Handmade Goods"
+      "handmade goods"
     ],
     [
       "オリジナル雑貨",
       "オリジナルざっか",
       "オリジナルザッカ",
-      "original goods",
-      "Original Goods"
+      "original goods"
     ],
     [
       "手作りアクセサリー",
@@ -558,8 +541,7 @@
       "和雑貨作り",
       "かずざっかづくり",
       "カズザッカヅクリ",
-      "Japanese craft making",
-      "Numbered Goods Making"
+      "japanese craft making"
     ],
     [
       "花",
@@ -575,7 +557,7 @@
     ],
     [
       "ガーデニング",
-      "Gardening"
+      "gardening"
     ],
     [
       "ファッション雑貨作り",
@@ -585,7 +567,7 @@
     ],
     [
       "アート",
-      "Art"
+      "art"
     ],
     [
       "ペイント教室",
@@ -621,8 +603,7 @@
       "酒蔵見学",
       "さかぐらけんがく",
       "サカグラケンガク",
-      "sake brewery tour",
-      "Sake Factory Tour"
+      "sake brewery tour"
     ],
     [
       "自然鑑賞",
@@ -641,10 +622,6 @@
       "やかたぶね",
       "ヤカタブネ",
       "traditional boat"
-    ],
-    [
-      "クルージング",
-      "Cruising"
     ],
     [
       "遊覧船",
@@ -672,7 +649,7 @@
     ],
     [
       "ツアー",
-      "Tour"
+      "tour"
     ],
     [
       "海外オンライン体験",
@@ -681,117 +658,66 @@
       "international online experience"
     ],
     [
-      "旅行",
-      "りょこう",
-      "リョコウ",
-      "travel"
-    ],
-    [
-      "ツアー",
-      "Tour"
-    ],
-    [
       "その他",
       "そのた",
       "ソノタ",
       "others"
     ],
     [
-      "サップ",
-      "SUP"
-    ],
-    [
-      "SUP"
-    ],
-    [
       "スタンドアップパドルボード",
-      "Stand Up Paddle Board"
+      "stand-up paddleboard"
     ],
     [
       "フライボード",
-      "Flyboard"
-    ],
-    [
-      "水圧で空を飛ぶ",
-      "すいあつでそらをとぶ",
-      "スイアツデソラヲトブ",
-      "water pressure flying"
+      "flyboard"
     ],
     [
       "パラセーリング",
-      "Parasailing"
+      "parasailing"
     ],
     [
       "カイトサーフィン",
-      "Kite Surfing"
+      "kite surfing"
     ],
     [
       "カイトボード",
-      "Kite Boarding"
-    ],
-    [
-      "ウェイクボード",
-      "Wakeboarding"
+      "kiteboarding"
     ],
     [
       "サーフィンスクール",
-      "Surfing School"
+      "surfing school"
     ],
     [
       "ウインドサーフィン",
-      "Windsurfing"
-    ],
-    [
-      "ヨット",
-      "Yacht"
+      "windsurfing"
     ],
     [
       "バナナボート",
-      "Banana Boat"
+      "banana boat"
     ],
     [
       "トーイングチューブ",
-      "Towing Tube"
-    ],
-    [
-      "ラフティング",
-      "Rafting"
+      "towing tube"
     ],
     [
       "キャニオニング",
-      "Canyoning"
+      "canyoning"
     ],
     [
       "シャワークライミング",
-      "Shower Climbing"
+      "shower climbing"
     ],
     [
       "ハイドロスピード",
-      "Hydrospeed"
-    ],
-    [
-      "リバーブギ",
-      "River Buggy"
-    ],
-    [
-      "カヌー",
-      "Canoe"
-    ],
-    [
-      "カヤック",
-      "Kayak"
+      "hydrospeed"
     ],
     [
       "ウェイクサーフィン",
-      "Wake Surfing"
-    ],
-    [
-      "ダッキー",
-      "Ducky"
+      "wake surfing"
     ],
     [
       "トレッキング",
-      "Trekking"
+      "trekking"
     ],
     [
       "登山",
@@ -801,22 +727,18 @@
     ],
     [
       "ハイキング",
-      "Hiking"
+      "hiking"
     ],
     [
-      "マウンテンバイク",
-      "Mountain Bike"
-    ],
-    [
-      "MTB"
+      "mtb"
     ],
     [
       "ダウンヒル",
-      "Downhill"
+      "downhill"
     ],
     [
       "ケイビング",
-      "Caving"
+      "caving"
     ],
     [
       "洞窟探検",
@@ -826,96 +748,65 @@
     ],
     [
       "ボルダリング",
-      "Bouldering"
+      "bouldering"
     ],
     [
       "ロッククライミング",
-      "Rock Climbing"
-    ],
-    [
-      "四輪バギー",
-      "よんりんバギー",
-      "ヨンリンバギー",
-      "quad bike",
-      "4-Wheel Buggy",
-      "4wheel buggy"
-    ],
-    [
-      "パラグライダー",
-      "Paragliding"
+      "rock climbing"
     ],
     [
       "スカイダイビング",
-      "Skydiving"
-    ],
-    [
-      "ハンググライダー",
-      "Hang Gliding"
-    ],
-    [
-      "バンジージャンプ",
-      "Bungee Jumping"
+      "skydiving"
     ],
     [
       "ツリークライミング",
-      "Tree Climbing"
+      "tree climbing"
     ],
     [
       "木登り",
       "きのぼり",
       "キノボリ",
-      "tree climbing",
-      "Tree Climbing"
-    ],
-    [
-      "ウォータージャンプ",
-      "Water Jump"
+      "tree climbing"
     ],
     [
       "ホバーボード",
-      "Hoverboard"
+      "hoverboard"
     ],
     [
       "スノーシュー",
-      "Snowshoe"
+      "snowshoe"
     ],
     [
       "スノートレッキング",
-      "Snow Trekking"
+      "snow trekking"
     ],
     [
       "バックカントリー",
-      "Backcountry"
+      "backcountry"
     ],
     [
       "テレマークスキー",
-      "Telemark Skiing"
+      "telemark skiing"
     ],
     [
       "クロスカントリースキー",
-      "Cross Country Skiing"
+      "cross-country skiing"
     ],
     [
       "スキースクール",
-      "Ski School"
+      "ski school"
     ],
     [
       "スノーボードスクール",
-      "Snowboard School"
+      "snowboard school"
     ],
     [
       "スノーカイト",
-      "Snow Kite"
+      "snow kite"
     ],
     [
       "エアボード",
-      "Air Board"
-    ],
-    [
-      "雪遊び",
-      "ゆきあそび",
-      "ユキアソビ",
-      "snow play"
+      "air board"
     ],
     [
       "そり遊び",
@@ -937,21 +828,19 @@
     ],
     [
       "スノーモービル",
-      "Snowmobile"
+      "snowmobile"
     ],
     [
       "ワカサギ釣り",
       "ワカサギづり",
       "ワカサギヅリ",
-      "smelt fishing",
-      "Wakasagi Fishing"
+      "smelt fishing"
     ],
     [
       "氷上ワカサギ釣り",
       "ひかみワカサギづり",
       "ヒカミワカサギヅリ",
-      "ice smelt fishing",
-      "Ice Wakasagi Fishing"
+      "ice smelt fishing"
     ],
     [
       "流氷ウォーク",
@@ -961,113 +850,78 @@
     ],
     [
       "アイスウォーク",
-      "Ice Walk"
+      "ice walk"
     ],
     [
       "ホエールウォッチング",
-      "Whale Watching"
-    ],
-    [
-      "ホーストレッキング",
-      "Horse Trekking"
+      "whale watching"
     ],
     [
       "シーボブ",
-      "Sea Bob"
-    ],
-    [
-      "熱気球",
-      "ねつききゅう",
-      "ネツキキュウ",
-      "hot air balloon"
+      "sea bob"
     ],
     [
       "フォレストアドベンチャー",
-      "Forest Adventure"
+      "forest adventure"
     ],
     [
       "ジェットベイター",
-      "Jet Bater"
+      "jet bator"
     ],
     [
       "ゴーカート",
-      "Go Kart"
+      "go-kart"
     ],
     [
       "サバゲー",
-      "Survival Game"
+      "survival game",
+      "airsoft"
     ],
     [
       "サバイバルゲーム",
-      "Survival Game"
+      "survival game"
     ],
     [
       "シーウォーク",
-      "Sea Walk"
+      "sea walk"
     ],
     [
       "シーウォーカー",
-      "Sea Walker"
+      "sea walker"
     ],
     [
       "サブウィング",
-      "Subwing"
+      "subwing"
     ],
     [
       "セグウェイ",
-      "Segway"
+      "segway"
     ],
     [
       "パーソナルモビリティ",
-      "Personal Mobility"
+      "personal mobility"
     ],
     [
       "オフロードバイク",
-      "Off-road Bike",
-      "offroad bike"
+      "off-road bike"
     ],
     [
       "モトクロス",
-      "Motocross"
-    ],
-    [
-      "川下り",
-      "かわくだり",
-      "カワクダリ",
-      "River Rafting",
-      "River Descent"
-    ],
-    [
-      "ライン下り",
-      "ラインくだり",
-      "ラインクダリ",
-      "Line Rafting"
-    ],
-    [
-      "Eボート",
-      "E-Boat",
-      "eboat"
+      "motocross"
     ],
     [
       "ジェットパック",
-      "Jet Pack"
+      "jetpack"
     ],
     [
       "ジェットブレード",
-      "Jet Blade"
+      "jet blade"
     ],
     [
       "海上釣り堀",
       "かいじょうつりぼり",
       "カイジョウツリボリ",
       "sea fishing pond"
-    ],
-    [
-      "川釣り",
-      "かわづり",
-      "カワヅリ",
-      "river fishing",
-      "River Crossing"
     ],
     [
       "渓流釣り",
@@ -1082,9 +936,9 @@
       "trial diving"
     ],
     [
-      "初心者OK",
-      "しょしんしゃOK",
-      "ショシンシャOK",
+      "初心者ok",
+      "しょしんしゃok",
+      "ショシンシャok",
       "beginners welcome"
     ],
     [
@@ -1095,19 +949,13 @@
     ],
     [
       "ファンダイビング",
-      "Fun Diving"
+      "fun diving"
     ],
     [
       "ライセンス必須",
       "ライセンスひっす",
       "ライセンスヒッス",
       "license required"
-    ],
-    [
-      "乗馬",
-      "じょうば",
-      "ジョウバ",
-      "horseback riding"
     ],
     [
       "水中スクーター",
@@ -1123,35 +971,27 @@
     ],
     [
       "クリアカヤック",
-      "Clear Kayak"
+      "clear kayak"
     ],
     [
       "モーターパラグライダー",
-      "Motor Paraglider"
-    ],
-    [
-      "ボディボード",
-      "Bodyboarding"
+      "motor paraglider"
     ],
     [
       "スキムボード",
-      "Skimboard"
+      "skimboard"
     ],
     [
-      "リバーSUP",
-      "River SUP"
+      "リバーsup",
+      "river sup"
     ],
     [
       "リバーサップ",
-      "River SUP"
+      "river sup"
     ],
     [
       "ジェットボート",
-      "Jet Boat"
-    ],
-    [
-      "クルージング",
-      "Cruising"
+      "jet boat"
     ],
     [
       "船上パーティー",
@@ -1160,20 +1000,8 @@
       "boat party"
     ],
     [
-      "遊覧飛行",
-      "ゆうらんひこう",
-      "ユウランヒコウ",
-      "sightseeing flight"
-    ],
-    [
-      "ヘリコプター遊覧",
-      "ヘリコプターゆうらん",
-      "ヘリコプターユウラン",
-      "helicopter tour"
-    ],
-    [
       "グラスボート",
-      "Glass Boat"
+      "glass boat"
     ],
     [
       "料理教室",
@@ -1182,57 +1010,40 @@
       "cooking class"
     ],
     [
-      "食べ物作り",
-      "たべものづくり",
-      "タベモノヅクリ",
-      "food making",
-      "Food Making"
-    ],
-    [
       "イルカウォッチング",
-      "Dolphin Watching"
+      "dolphin watching"
     ],
     [
       "サイクリング",
-      "Cycling"
+      "cycling"
     ],
     [
       "ツーリング",
-      "Touring"
+      "touring"
     ],
     [
       "ポタリング",
-      "Pottering"
+      "pottering"
     ],
     [
       "ジェットスキー",
-      "Jet Ski"
-    ],
-    [
-      "水上スキー",
-      "みずかみスキー",
-      "ミズカミスキー",
-      "water skiing",
-      "Water Skiing"
+      "jet ski"
     ],
     [
       "ウォーターバード",
-      "Water Bird"
-    ],
-    [
-      "BBQ"
+      "water bird"
     ],
     [
       "バーベキュー",
-      "Barbecue"
+      "barbecue"
     ],
     [
-      "SUPヨガ",
-      "SUP Yoga"
+      "supヨガ",
+      "sup yoga"
     ],
     [
       "サップヨガ",
-      "SUP Yoga"
+      "sup yoga"
     ],
     [
       "舞妓体験",
@@ -1244,39 +1055,25 @@
       "沖縄文化体験",
       "おきなわぶんかたいけん",
       "オキナワブンカタイケン",
-      "Okinawan culture experience"
+      "okinawan culture experience"
     ],
     [
       "沖縄料理",
       "おきなわりょうり",
       "オキナワリョウリ",
-      "Okinawan cuisine"
+      "okinawan cuisine"
     ],
     [
       "三線",
       "さんせん",
       "サンセン",
-      "sanshin",
-      "Sanshin"
-    ],
-    [
-      "陶芸体験",
-      "とうげいたいけん",
-      "トウゲイタイケン",
-      "pottery experience"
-    ],
-    [
-      "陶芸教室",
-      "とうげいきょうしつ",
-      "トウゲイキョウシツ",
-      "pottery class"
+      "sanshin"
     ],
     [
       "シーサー作り",
       "シーサーづくり",
       "シーサーヅクリ",
-      "shisa making",
-      "Shisa Making"
+      "shisa making"
     ],
     [
       "箸作り体験",
@@ -1286,7 +1083,7 @@
     ],
     [
       "マリンクラフト",
-      "Marine Craft"
+      "marine craft"
     ],
     [
       "染物体験",
@@ -1298,31 +1095,29 @@
       "手作りキャンドル",
       "てづくりキャンドル",
       "テヅクリキャンドル",
-      "handmade candle",
-      "Handmade Candle"
+      "handmade candle"
     ],
     [
       "キャンドル作り",
       "キャンドルづくり",
       "キャンドルヅクリ",
-      "candle making",
-      "Candle Making"
+      "candle making"
     ],
     [
       "機織り体験",
       "はたおりたいけん",
       "ハタオリタイケン",
-      "Weaving Experience"
+      "weaving experience"
     ],
     [
       "機織り教室",
       "はたおりきょうしつ",
       "ハタオリキョウシツ",
-      "Weaving Class"
+      "weaving class"
     ],
     [
       "サンドブラスト",
-      "Sand Blast"
+      "sandblast"
     ],
     [
       "そば打ち体験",
@@ -1370,8 +1165,7 @@
       "着物レンタル",
       "きものレンタル",
       "キモノレンタル",
-      "kimono rental",
-      "Kimono Rental"
+      "kimono rental"
     ],
     [
       "イチゴ狩り",
@@ -1407,12 +1201,11 @@
       "手作り写真立て",
       "てづくりしゃしんだて",
       "テヅクリシャシンダテ",
-      "handmade photo frame",
-      "Handmade Photo Stand"
+      "handmade photo frame"
     ],
     [
       "フォトフレーム",
-      "Photo Frame"
+      "photo frame"
     ],
     [
       "花火大会",
@@ -1466,8 +1259,7 @@
       "食品サンプル作り",
       "しょくひんサンプルづくり",
       "ショクヒンサンプルヅクリ",
-      "food sample making",
-      "Food Sample Making"
+      "food sample making"
     ],
     [
       "とんぼ玉体験",
@@ -1479,14 +1271,13 @@
       "ビー玉作り",
       "ビーだまづくり",
       "ビーダマヅクリ",
-      "marble making",
-      "Marble Making"
+      "marble making"
     ],
     [
       "江戸切子体験",
       "えどきりこたいけん",
       "エドキリコタイケン",
-      "Edo kiriko experience"
+      "edo kiriko experience"
     ],
     [
       "公道カート",
@@ -1621,12 +1412,6 @@
       "painting"
     ],
     [
-      "ペイント教室",
-      "ペイントきょうしつ",
-      "ペイントキョウシツ",
-      "paint class"
-    ],
-    [
       "クレイアート教室",
       "クレイアートきょうしつ",
       "クレイアートキョウシツ",
@@ -1660,8 +1445,7 @@
       "手作り石鹸",
       "てづくりせっけん",
       "テヅクリセッケン",
-      "handmade soap",
-      "Handmade Soap"
+      "handmade soap"
     ],
     [
       "石鹸作り体験",
@@ -1679,8 +1463,7 @@
       "カバン作り",
       "カバンづくり",
       "カバンヅクリ",
-      "bag making",
-      "Bag Making"
+      "bag making"
     ],
     [
       "茶道体験",
@@ -1752,7 +1535,7 @@
       "和太鼓",
       "かずたいこ",
       "カズタイコ",
-      "Japanese drum"
+      "japanese drum"
     ],
     [
       "体験",
@@ -1782,8 +1565,7 @@
       "日本酒",
       "にっぽんしゅ",
       "ニッポンシュ",
-      "sake",
-      "Japanese Style"
+      "sake"
     ],
     [
       "ワイン作り",
@@ -1795,15 +1577,13 @@
       "お菓子作り",
       "おかしづくり",
       "オカシヅクリ",
-      "sweet making",
-      "Sweet Making"
+      "sweet making"
     ],
     [
       "和菓子作り",
       "わがしづくり",
       "ワガシヅクリ",
-      "Japanese sweets making",
-      "Japanese Sweet Making"
+      "japanese sweets making"
     ],
     [
       "酪農体験",
@@ -1813,19 +1593,19 @@
     ],
     [
       "バスツアー",
-      "Bus Tour"
+      "bus tour"
     ],
     [
       "エコツアー",
-      "Eco Tour"
+      "eco tour"
     ],
     [
       "ネイチャーガイドツアー",
-      "Nature Guide Tour"
+      "nature guide tour"
     ],
     [
       "ナイトツアー",
-      "Night Tour"
+      "night tour"
     ],
     [
       "史跡",
@@ -1843,8 +1623,7 @@
       "利き酒",
       "ききしゅ",
       "キキシュ",
-      "sake tasting",
-      "Hearing"
+      "sake tasting"
     ],
     [
       "酒蔵",
@@ -1859,12 +1638,6 @@
       "winery tour"
     ],
     [
-      "工場見学",
-      "こうじょうけんがく",
-      "コウジョウケンガク",
-      "factory tour"
-    ],
-    [
       "天体観測",
       "てんたいかんそく",
       "テンタイカンソク",
@@ -1874,8 +1647,7 @@
       "星空観測",
       "ほしぞらかんそく",
       "ホシゾラカンソク",
-      "stargazing",
-      "Starry Sky Observation"
+      "stargazing"
     ],
     [
       "相撲見学",
@@ -1891,42 +1663,41 @@
     ],
     [
       "ショーレストラン",
-      "Show Restaurant"
+      "show restaurant"
     ],
     [
       "カジノバー",
-      "Casino Bar"
+      "casino bar"
     ],
     [
       "ライブハウス",
-      "Live House"
+      "live house"
     ],
     [
       "クラブ",
-      "Club"
+      "club"
     ],
     [
       "脱出ゲーム",
       "だっしゅつゲーム",
       "ダッシュツゲーム",
-      "escape game",
-      "Escape Game"
+      "escape game"
     ],
     [
-      "VR体験",
-      "VRたいけん",
-      "VRタイケン",
+      "vr体験",
+      "vrたいけん",
+      "vrタイケン",
       "virtual reality"
     ],
     [
-      "VRゲーム",
-      "VR Game"
+      "vrゲーム",
+      "vr game"
     ],
     [
-      "3Dプリンター体験",
-      "3Dプリンターたいけん",
-      "3Dプリンタータイケン",
-      "3D printing"
+      "3dプリンター体験",
+      "3dプリンターたいけん",
+      "3dプリンタータイケン",
+      "3d printing"
     ],
     [
       "メイド喫茶",
@@ -1938,8 +1709,7 @@
       "コスプレ写真",
       "コスプレしゃしん",
       "コスプレシャシン",
-      "cosplay photo",
-      "Cosplay Photo"
+      "cosplay photo"
     ],
     [
       "変身体験",
@@ -1961,22 +1731,21 @@
     ],
     [
       "フライトシミュレーター",
-      "Flight Simulator"
+      "flight simulator"
     ],
     [
       "ドライブシミュレーター",
-      "Drive Simulator"
+      "drive simulator"
     ],
     [
       "スキンダイビング",
-      "Skin Diving"
+      "skin diving"
     ],
     [
       "素潜り",
       "もともぐり",
       "モトモグリ",
-      "free diving",
-      "Motor Diving"
+      "free diving"
     ],
     [
       "マーメイド体験",
@@ -1985,24 +1754,16 @@
       "mermaid experience"
     ],
     [
-      "キャンプ",
-      "Camping"
-    ],
-    [
       "キャンピングカー",
-      "Camping Car"
+      "camping car"
     ],
     [
       "クライミング",
-      "Climbing"
-    ],
-    [
-      "ブリッジスイング",
-      "Bridge Swing"
+      "climbing"
     ],
     [
       "ノルディックウォーキング",
-      "Nordic Walking"
+      "nordic walking"
     ],
     [
       "梨狩り",
@@ -2049,13 +1810,7 @@
     [
       "いかだ",
       "イカダ",
-      "Raft"
-    ],
-    [
-      "屋形船",
-      "やかたぶね",
-      "ヤカタブネ",
-      "traditional boat"
+      "raft"
     ],
     [
       "人力車",
@@ -2065,15 +1820,15 @@
     ],
     [
       "レンタサイクル",
-      "Bicycle Rental"
+      "bicycle rental"
     ],
     [
       "ビーチテニス",
-      "Beach Tennis"
+      "beach tennis"
     ],
     [
       "ゴルフ",
-      "Golf"
+      "golf"
     ],
     [
       "ゴルフ場予約",
@@ -2083,19 +1838,15 @@
     ],
     [
       "ビーチヨガ",
-      "Beach Yoga"
+      "beach yoga"
     ],
     [
       "ウォーキング",
-      "Walking"
+      "walking"
     ],
     [
       "ランニング",
-      "Running"
-    ],
-    [
-      "フィットネス",
-      "Fitness"
+      "running"
     ],
     [
       "空中ブランコ",
@@ -2105,19 +1856,19 @@
     ],
     [
       "アクアボール",
-      "Aqua Ball"
+      "aqua ball"
     ],
     [
       "ウォーターボール",
-      "Water Ball"
+      "water ball"
     ],
     [
       "リラクゼーション",
-      "Relaxation"
+      "relaxation"
     ],
     [
       "ヘルスケア",
-      "Healthcare"
+      "healthcare"
     ],
     [
       "飲食施設",
@@ -2127,7 +1878,7 @@
     ],
     [
       "レストラン",
-      "Restaurant"
+      "restaurant"
     ],
     [
       "組紐体験",
@@ -2145,8 +1896,7 @@
       "苔玉作り",
       "こけだまづくり",
       "コケダマヅクリ",
-      "kokedama making",
-      "Kokedama Making"
+      "kokedama making"
     ],
     [
       "みかん狩り",
@@ -2162,7 +1912,7 @@
     ],
     [
       "インテリア",
-      "Interior"
+      "interior"
     ],
     [
       "雑貨作り教室",
@@ -2184,11 +1934,11 @@
     ],
     [
       "リムジンレンタル",
-      "Limousine Rental"
+      "limousine rental"
     ],
     [
       "リムジンパーティー",
-      "Limousine Party"
+      "limousine party"
     ],
     [
       "診断",
@@ -2203,12 +1953,8 @@
       "fortune telling"
     ],
     [
-      "イベント",
-      "Event"
-    ],
-    [
       "パーティ",
-      "Party"
+      "party"
     ],
     [
       "写真撮影",
@@ -2218,13 +1964,7 @@
     ],
     [
       "フォトスタジオ",
-      "Photo Studio"
-    ],
-    [
-      "スキー場",
-      "スキーじょう",
-      "スキージョウ",
-      "ski resort"
+      "photo studio"
     ],
     [
       "リフト券",
@@ -2236,7 +1976,7 @@
       "日本舞踊体験",
       "にっぽんぶようたいけん",
       "ニッポンブヨウタイケン",
-      "Japanese dance"
+      "japanese dance"
     ],
     [
       "日帰り温泉",
@@ -2258,7 +1998,7 @@
     ],
     [
       "ハイヤー",
-      "Hire Car"
+      "hire car"
     ],
     [
       "美術館",
@@ -2292,22 +2032,18 @@
     ],
     [
       "テーマパーク",
-      "Theme Park"
+      "theme park"
     ],
     [
       "カルトナージュ",
-      "Cartonnage"
+      "cartonnage"
     ],
     [
-      "Wi-Fi"
-    ],
-    [
-      "スノーボード",
-      "Snowboarding"
+      "wi-fi"
     ],
     [
       "スキーレンタル",
-      "Ski Rental"
+      "ski rental"
     ],
     [
       "空手体験",
@@ -2389,7 +2125,7 @@
     ],
     [
       "スポーツチャンバラ",
-      "Sports Chanbara"
+      "sports chanbara"
     ],
     [
       "なぎなた体験",
@@ -2401,7 +2137,7 @@
       "ブラジリアン柔術",
       "ブラジリアンじゅうじゅつ",
       "ブラジリアンジュウジュツ",
-      "Brazilian jiu-jitsu"
+      "brazilian jiu-jitsu"
     ],
     [
       "和楽器体験",
@@ -2411,8 +2147,7 @@
     ],
     [
       "トゥクトゥク",
-      "Tuk-tuk",
-      "tuktuk"
+      "tuk-tuk"
     ],
     [
       "人形づくり",
@@ -2428,15 +2163,15 @@
     ],
     [
       "サバニ",
-      "Safari"
+      "savannah"
     ],
     [
       "リーフトレッキング",
-      "Reef Trekking"
+      "reef trekking"
     ],
     [
       "ウォーターパーク",
-      "Water Park"
+      "water park"
     ],
     [
       "離島巡り",
@@ -2466,8 +2201,7 @@
       "仏閣巡り",
       "ぶっかくめぐり",
       "ブッカクメグリ",
-      "temple tour",
-      "Temple Tour"
+      "temple tour"
     ],
     [
       "水中観光船",
@@ -2491,8 +2225,7 @@
       "漆器作り",
       "しっきづくり",
       "シッキヅクリ",
-      "lacquerware making",
-      "Lacquerware Making"
+      "lacquerware making"
     ],
     [
       "印鑑",
@@ -2504,15 +2237,13 @@
       "手作りはんこ",
       "てづくりはんこ",
       "テヅクリハンコ",
-      "handmade seal",
-      "Handmade Seal"
+      "handmade seal"
     ],
     [
       "手作りスタンプ",
       "てづくりスタンプ",
       "テヅクリスタンプ",
-      "handmade stamp",
-      "Handmade Stamp"
+      "handmade stamp"
     ],
     [
       "手作り時計",
@@ -2534,7 +2265,7 @@
     ],
     [
       "レーシングシュミレーター",
-      "Racing Simulator"
+      "racing simulator"
     ],
     [
       "牛車",
@@ -2546,8 +2277,7 @@
       "鍛冶見学",
       "たんやけんがく",
       "タンヤケンガク",
-      "blacksmithing",
-      "Forge Tour"
+      "blacksmithing"
     ],
     [
       "鍛冶体験",
@@ -2587,31 +2317,31 @@
     ],
     [
       "レンタカー",
-      "Car Rental"
+      "car rental"
     ],
     [
       "バブルサッカー",
-      "Bubble Soccer"
+      "bubble soccer"
     ],
     [
       "ドッチビー",
-      "Dodgeball"
+      "dodgeball"
     ],
     [
       "バーレスク",
-      "Burlesque"
+      "burlesque"
     ],
     [
       "レンタルバイク",
-      "Bike Rental"
+      "bike rental"
     ],
     [
       "ハーバリウム",
-      "Herbarium"
+      "herbarium"
     ],
     [
       "ナイトダイビング",
-      "Night Diving"
+      "night diving"
     ],
     [
       "花魁体験",
@@ -2623,8 +2353,7 @@
       "浴衣レンタル",
       "ゆかたレンタル",
       "ユカタレンタル",
-      "yukata rental",
-      "Yukata Rental"
+      "yukata rental"
     ],
     [
       "大会",
@@ -2634,7 +2363,7 @@
     ],
     [
       "レース",
-      "Race"
+      "race"
     ],
     [
       "ドローン体験",
@@ -2644,27 +2373,23 @@
     ],
     [
       "ドルフィンスイム",
-      "Dolphin Swim"
+      "dolphin swim"
     ],
     [
       "ホエールスイム",
-      "Whale Swim"
+      "whale swim"
     ],
     [
       "アイスクライミング",
-      "Ice Climbing"
+      "ice climbing"
     ],
     [
       "パワースポットツアー",
-      "Power Spot Tour"
-    ],
-    [
-      "グランピング",
-      "Glamping"
+      "power spot tour"
     ],
     [
       "パックラフト",
-      "Packraft"
+      "packraft"
     ],
     [
       "無人島ツアー",
@@ -2674,7 +2399,7 @@
     ],
     [
       "トライク",
-      "Trike"
+      "trike"
     ],
     [
       "スマートモビリティ体験",
@@ -2695,16 +2420,16 @@
       "etiquette class"
     ],
     [
-      "ウォーキングSUP",
-      "Walking SUP"
+      "ウォーキングsup",
+      "walking sup"
     ],
     [
       "ペダルボード",
-      "Pedal Board"
+      "pedal board"
     ],
     [
       "カヤックフィッシング",
-      "Kayak Fishing"
+      "kayak fishing"
     ],
     [
       "金継ぎ体験",
@@ -2740,8 +2465,7 @@
       "岩盤浴",
       "がんばんよく",
       "ガンバンヨク",
-      "stone spa",
-      "Rock Bathing"
+      "stone spa"
     ],
     [
       "瞑想",
@@ -2751,23 +2475,19 @@
     ],
     [
       "マインドフルネス",
-      "Mindfulness"
+      "mindfulness"
     ],
     [
       "メディテーション",
-      "Meditation"
-    ],
-    [
-      "チュービング",
-      "Tubing"
+      "meditation"
     ],
     [
       "コーステアリング",
-      "Coasteering"
+      "coasteering"
     ],
     [
       "フットサル",
-      "Futsal"
+      "futsal"
     ],
     [
       "個サル",
@@ -2789,11 +2509,11 @@
     ],
     [
       "アドベンチャートラック",
-      "Adventure Track"
+      "adventure track"
     ],
     [
       "プリザーブドフラワー",
-      "Preserved Flower"
+      "preserved flower"
     ],
     [
       "展望台",
@@ -2817,13 +2537,13 @@
       "益子焼体験",
       "ましこしょうたいけん",
       "マシコショウタイケン",
-      "Mashiko pottery"
+      "mashiko pottery"
     ],
     [
       "九谷焼体験",
       "くたにやきたいけん",
       "クタニヤキタイケン",
-      "Kutani ware"
+      "kutani ware"
     ],
     [
       "七宝焼き体験",
@@ -2835,8 +2555,7 @@
       "手びねり",
       "てびねり",
       "テビネリ",
-      "hand building",
-      "Tebineri"
+      "hand building"
     ],
     [
       "型取り体験",
@@ -2860,13 +2579,13 @@
       "備前焼体験",
       "びぜんやきたいけん",
       "ビゼンヤキタイケン",
-      "Bizen ware"
+      "bizen ware"
     ],
     [
       "美濃焼体験",
       "みのしょうたいけん",
       "ミノショウタイケン",
-      "Mino ware"
+      "mino ware"
     ],
     [
       "アジ釣り",
@@ -2890,44 +2609,39 @@
       "カワハギ釣り",
       "カワハギづり",
       "カワハギヅリ",
-      "filefish fishing",
-      "Filefish Fishing"
+      "filefish fishing"
     ],
     [
       "キス釣り",
       "キスづり",
       "キスヅリ",
-      "whiting fishing",
-      "Whiting Fishing"
+      "whiting fishing"
     ],
     [
       "タコ釣り",
       "タコづり",
       "タコヅリ",
-      "octopus fishing",
-      "Octopus Fishing"
+      "octopus fishing"
     ],
     [
       "ハゼ釣り",
       "ハゼづり",
       "ハゼヅリ",
-      "goby fishing",
-      "Goby Fishing"
+      "goby fishing"
     ],
     [
       "ヒラメ釣り",
       "ヒラメづり",
       "ヒラメヅリ",
-      "flounder fishing",
-      "Flounder Fishing"
+      "flounder fishing"
     ],
     [
       "ビーチバレー",
-      "Beach Volleyball"
+      "beach volleyball"
     ],
     [
       "ビーチサッカー",
-      "Beach Soccer"
+      "beach soccer"
     ],
     [
       "磯遊び",
@@ -2943,21 +2657,21 @@
     ],
     [
       "ドリフト",
-      "Drift"
+      "drift"
     ],
     [
       "ポケバイ",
-      "Pocket Bike"
+      "pocket bike"
     ],
     [
       "レーシングカート",
-      "Racing Kart"
+      "racing kart"
     ],
     [
       "琉球ガラス",
       "りゅうきゅうガラス",
       "リュウキュウガラス",
-      "Ryukyu glass"
+      "ryukyu glass"
     ],
     [
       "やちむん体験",
@@ -2979,7 +2693,7 @@
     ],
     [
       "グルーデコ",
-      "Glue Decoration"
+      "glue deco"
     ],
     [
       "デコレーションアート体験",
@@ -2997,28 +2711,25 @@
       "手作りキーホルダー",
       "てづくりキーホルダー",
       "テヅクリキーホルダー",
-      "handmade keychain",
-      "Handmade Keychain"
+      "handmade keychain"
     ],
     [
       "手作りストラップ",
       "てづくりストラップ",
       "テヅクリストラップ",
-      "handmade strap",
-      "Handmade Strap"
+      "handmade strap"
     ],
     [
       "手作りスマホケース",
       "てづくりスマホケース",
       "テヅクリスマホケース",
-      "handmade phone case",
-      "Handmade Smartphone Case"
+      "handmade phone case"
     ],
     [
-      "手作りiPhoneケース",
-      "てづくりiPhoneケース",
-      "テヅクリiPhoneケース",
-      "handmade iPhone case"
+      "手作りiphoneケース",
+      "てづくりiphoneケース",
+      "テヅクリiphoneケース",
+      "handmade iphone case"
     ],
     [
       "手作りピアス",
@@ -3036,30 +2747,27 @@
       "手作りブレスレット",
       "てづくりブレスレット",
       "テヅクリブレスレット",
-      "handmade bracelet",
-      "Handmade Bracelet"
+      "handmade bracelet"
     ],
     [
       "手作りブローチ",
       "てづくりブローチ",
       "テヅクリブローチ",
-      "handmade brooch",
-      "Handmade Brooch"
+      "handmade brooch"
     ],
     [
       "タイピン",
-      "Tie Pin"
+      "tie pin"
     ],
     [
       "手作り指輪",
       "てづくりゆびわ",
       "テヅクリユビワ",
-      "handmade ring",
-      "Handmade Ring"
+      "handmade ring"
     ],
     [
       "リング",
-      "Ring"
+      "ring"
     ],
     [
       "草木染め体験",
@@ -3086,17 +2794,10 @@
       "forest bathing experience"
     ],
     [
-      "遊覧船",
-      "ゆうらんせん",
-      "ユウランセン",
-      "sightseeing boat"
-    ],
-    [
       "水上バス",
       "みずかみバス",
       "ミズカミバス",
-      "water bus",
-      "Water bus"
+      "water bus"
     ],
     [
       "水上バイク",
@@ -3106,11 +2807,11 @@
     ],
     [
       "ロープウェイ",
-      "Ropeway"
+      "ropeway"
     ],
     [
       "ケーブルカー",
-      "Cable Car"
+      "cable car"
     ],
     [
       "栗拾い",
@@ -3122,36 +2823,35 @@
       "茶摘み",
       "ちゃつまみ",
       "チャツマミ",
-      "tea picking",
-      "Tea Picking"
+      "tea picking"
     ],
     [
       "バードウォッチング",
-      "Bird Watching"
+      "bird watching"
     ],
     [
-      "クリアSUP",
-      "Clear SUP"
+      "クリアsup",
+      "clear sup"
     ],
     [
       "クリアサップ",
-      "Clear SUP"
+      "clear sup"
     ],
     [
-      "SUPフィッシング",
-      "SUP Fishing"
+      "supフィッシング",
+      "sup fishing"
     ],
     [
       "サップフィッシング",
-      "SUP Fishing"
+      "sup fishing"
     ],
     [
       "テニススクール",
-      "Tennis School"
+      "tennis school"
     ],
     [
       "フラダンス",
-      "Hula Dance"
+      "hula dance"
     ],
     [
       "演劇",
@@ -3167,21 +2867,21 @@
     ],
     [
       "ビュッフェ",
-      "Buffet"
+      "buffet"
     ],
     [
       "バイキング",
-      "Viking"
+      "viking"
     ],
     [
       "カラオケ",
-      "Karaoke"
+      "karaoke"
     ],
     [
       "日本の城",
       "にっぽんのしろ",
       "ニッポンノシロ",
-      "Japanese castle"
+      "japanese castle"
     ],
     [
       "城跡",
@@ -3191,7 +2891,7 @@
     ],
     [
       "イルミネーション",
-      "Illumination"
+      "illumination"
     ],
     [
       "寄せ植え体験",
@@ -3207,23 +2907,23 @@
     ],
     [
       "テラリウム",
-      "Terrarium"
+      "terrarium"
     ],
     [
       "琉装",
       "琉そう",
       "琉ソウ",
-      "Ryukyu costume"
+      "ryukyu costume"
     ],
     [
       "沖縄民族衣装",
       "おきなわみんぞくいしょう",
       "オキナワミンゾクイショウ",
-      "Okinawan traditional costume"
+      "okinawan traditional costume"
     ],
     [
       "フクロウカフェ",
-      "Owl Cafe"
+      "owl cafe"
     ],
     [
       "猫カフェ",
@@ -3239,34 +2939,25 @@
     ],
     [
       "シーカヤック",
-      "Sea Kayak"
-    ],
-    [
-      "カヌー",
-      "Canoe"
+      "sea kayak"
     ],
     [
       "ビーチコーミング",
-      "Beach Combing"
+      "beach combing"
     ],
     [
-      "SUPサーフィン",
-      "SUP Surfing"
+      "supサーフィン",
+      "sup surfing"
     ],
     [
       "パドルサーフィン",
-      "Paddle Surfing"
+      "paddle surfing"
     ],
     [
       "バス釣り",
       "バスづり",
       "バスヅリ",
-      "bass fishing",
-      "Bass Fishing"
-    ],
-    [
-      "キャンプ",
-      "Camping"
+      "bass fishing"
     ],
     [
       "キャンピング用品レンタル",
@@ -3276,15 +2967,11 @@
     ],
     [
       "キャンピングカーレンタル",
-      "Camping Car Rental"
+      "camping car rental"
     ],
     [
       "スノーチュービング",
-      "Snow Tubing"
-    ],
-    [
-      "ピラティス",
-      "Pilates"
+      "snow tubing"
     ],
     [
       "水引体験",
@@ -3326,411 +3013,374 @@
       "北海道",
       "ほっかいどう",
       "ホッカイドウ",
-      "Hokkaido"
+      "hokkaido"
     ],
     [
       "東北",
       "とうほく",
       "トウホク",
-      "Tohoku"
+      "tohoku"
     ],
     [
       "関東",
       "かんとう",
       "カントウ",
-      "Kanto"
+      "kanto"
     ],
     [
       "甲信越",
       "こうしんえつ",
       "コウシンエツ",
-      "Koshinetsu"
+      "koshinetsu"
     ],
     [
       "北陸",
       "ほくりく",
       "ホクリク",
-      "Hokuriku"
+      "hokuriku"
     ],
     [
       "東海",
       "とうかい",
       "トウカイ",
-      "Tokai"
+      "tokai"
     ],
     [
       "関西",
       "かんさい",
       "カンサイ",
-      "Kansai"
+      "kansai"
     ],
     [
       "山陰",
       "さんいん",
       "サンイン",
-      "Sanin"
+      "sanin"
     ],
     [
       "山陽",
       "さんよう",
       "サンヨウ",
-      "Sanyo region"
+      "sanyo region"
     ],
     [
       "四国",
       "しこく",
       "シコク",
-      "Shikoku"
+      "shikoku"
     ],
     [
       "九州",
       "きゅうしゅう",
       "キュウシュウ",
-      "Kyushu"
+      "kyushu"
     ],
     [
       "沖縄",
       "おきなわ",
       "オキナワ",
-      "Okinawa"
-    ],
-    [
-      "北海道",
-      "ほっかいどう",
-      "ホッカイドウ",
-      "Hokkaido"
+      "okinawa"
     ],
     [
       "道北",
       "みちきた",
       "ミチキタ",
-      "Northern Hokkaido"
-    ],
-    [
-      "北海道",
-      "ほっかいどう",
-      "ホッカイドウ",
-      "Hokkaido"
+      "northern hokkaido"
     ],
     [
       "道南",
       "みちみなみ",
       "ミチミナミ",
-      "Southern Hokkaido"
-    ],
-    [
-      "北海道",
-      "ほっかいどう",
-      "ホッカイドウ",
-      "Hokkaido"
+      "southern hokkaido"
     ],
     [
       "道央",
       "みちひさし",
       "ミチヒサシ",
-      "Central Hokkaido",
-      "Michihisashi"
-    ],
-    [
-      "北海道",
-      "ほっかいどう",
-      "ホッカイドウ",
-      "Hokkaido"
+      "central hokkaido"
     ],
     [
       "道東",
       "どうとう",
       "ドウトウ",
-      "Eastern Hokkaido"
+      "eastern hokkaido"
     ],
     [
       "青森",
       "あおもり",
       "アオモリ",
-      "Aomori"
+      "aomori"
     ],
     [
       "岩手",
       "いわて",
       "イワテ",
-      "Iwate"
+      "iwate"
     ],
     [
       "宮城",
       "みやぎ",
       "ミヤギ",
-      "Miyagi"
+      "miyagi"
     ],
     [
       "秋田",
       "あきた",
       "アキタ",
-      "Akita"
+      "akita"
     ],
     [
       "山形",
       "やまがた",
       "ヤマガタ",
-      "Yamagata"
+      "yamagata"
     ],
     [
       "福島",
       "ふくしま",
       "フクシマ",
-      "Fukushima"
+      "fukushima"
     ],
     [
       "茨城",
       "いばらき",
       "イバラキ",
-      "Ibaraki"
+      "ibaraki"
     ],
     [
       "栃木",
       "とちぎ",
       "トチギ",
-      "Tochigi"
+      "tochigi"
     ],
     [
       "群馬",
       "ぐんま",
       "グンマ",
-      "Gunma"
+      "gunma"
     ],
     [
       "埼玉",
       "さいたま",
       "サイタマ",
-      "Saitama",
-      "Saitama"
+      "saitama",
+      "saitama"
     ],
     [
       "千葉",
       "ちば",
       "チバ",
-      "Chiba"
+      "chiba"
     ],
     [
       "東京",
       "とうきょう",
       "トウキョウ",
-      "Tokyo"
+      "tokyo"
     ],
     [
       "神奈川",
       "かながわ",
       "カナガワ",
-      "Kanagawa"
+      "kanagawa"
     ],
     [
       "新潟",
       "にいがた",
       "ニイガタ",
-      "Niigata"
+      "niigata"
     ],
     [
       "山梨",
       "やまなし",
       "ヤマナシ",
-      "Yamanashi"
+      "yamanashi"
     ],
     [
       "長野",
       "ながの",
       "ナガノ",
-      "Nagano"
+      "nagano"
     ],
     [
       "富山",
       "とやま",
       "トヤマ",
-      "Toyama"
+      "toyama"
     ],
     [
       "石川",
       "いしかわ",
       "イシカワ",
-      "Ishikawa"
+      "ishikawa"
     ],
     [
       "福井",
       "ふくい",
       "フクイ",
-      "Fukui"
+      "fukui"
     ],
     [
       "岐阜",
       "ぎふ",
       "ギフ",
-      "Gifu"
+      "gifu"
     ],
     [
       "静岡",
       "しずおか",
       "シズオカ",
-      "Shizuoka"
+      "shizuoka"
     ],
     [
       "愛知",
       "あいち",
       "アイチ",
-      "Aichi"
+      "aichi"
     ],
     [
       "三重",
       "みえ",
       "ミエ",
-      "Mie"
+      "mie"
     ],
     [
       "滋賀",
       "しが",
       "シガ",
-      "Shiga"
+      "shiga"
     ],
     [
       "京都",
       "きょうと",
       "キョウト",
-      "Kyoto"
+      "kyoto"
     ],
     [
       "大阪",
       "おおさか",
       "オオサカ",
-      "Osaka"
+      "osaka"
     ],
     [
       "兵庫",
       "ひょうご",
       "ヒョウゴ",
-      "Hyogo"
+      "hyogo"
     ],
     [
       "奈良",
       "なら",
       "ナラ",
-      "Nara"
+      "nara"
     ],
     [
       "和歌山",
       "わかやま",
       "ワカヤマ",
-      "Wakayama"
+      "wakayama"
     ],
     [
       "鳥取",
       "とっとり",
       "トットリ",
-      "Tottori"
+      "tottori"
     ],
     [
       "島根",
       "しまね",
       "シマネ",
-      "Shimane"
+      "shimane"
     ],
     [
       "岡山",
       "おかやま",
       "オカヤマ",
-      "Okayama"
+      "okayama"
     ],
     [
       "広島",
       "ひろしま",
       "ヒロシマ",
-      "Hiroshima"
+      "hiroshima"
     ],
     [
       "山口",
       "やまぐち",
       "ヤマグチ",
-      "Yamaguchi"
+      "yamaguchi"
     ],
     [
       "徳島",
       "とくしま",
       "トクシマ",
-      "Tokushima"
+      "tokushima"
     ],
     [
       "香川",
       "かがわ",
       "カガワ",
-      "Kagawa"
+      "kagawa"
     ],
     [
       "愛媛",
       "えひめ",
       "エヒメ",
-      "Ehime"
+      "ehime"
     ],
     [
       "高知",
       "こうち",
       "コウチ",
-      "Kochi"
+      "kochi"
     ],
     [
       "福岡",
       "ふくおか",
       "フクオカ",
-      "Fukuoka"
+      "fukuoka"
     ],
     [
       "佐賀",
       "さが",
       "サガ",
-      "Saga"
+      "saga"
     ],
     [
       "長崎",
       "ながさき",
       "ナガサキ",
-      "Nagasaki"
+      "nagasaki"
     ],
     [
       "熊本",
       "くまもと",
       "クマモト",
-      "Kumamoto"
+      "kumamoto"
     ],
     [
       "大分",
       "おおいた",
       "オオイタ",
-      "Oita"
+      "oita"
     ],
     [
       "宮崎",
       "みやざき",
       "ミヤザキ",
-      "Miyazaki"
+      "miyazaki"
     ],
     [
       "鹿児島",
       "かごしま",
       "カゴシマ",
-      "Kagoshima"
-    ],
-    [
-      "沖縄",
-      "おきなわ",
-      "オキナワ",
-      "Okinawa"
+      "kagoshima"
     ],
     [
       "本島",
       "ほんとう",
       "ホントウ",
       "main island"
-    ],
-    [
-      "沖縄",
-      "おきなわ",
-      "オキナワ",
-      "Okinawa"
     ],
     [
       "離島",
@@ -3742,5455 +3392,5074 @@
       "沖縄周遊",
       "おきなわしゅうゆう",
       "オキナワシュウユウ",
-      "Okinawa tour"
+      "okinawa tour"
     ],
     [
       "札幌",
       "さっぽろ",
       "サッポロ",
-      "Sapporo"
+      "sapporo"
     ],
     [
       "定山渓",
       "じょうざんけい",
       "ジョウザンケイ",
-      "Jozankei"
+      "jozankei"
     ],
     [
       "小樽",
       "おたる",
       "オタル",
-      "Otaru"
+      "otaru"
     ],
     [
       "キロロ",
-      "Kiroro"
+      "kiroro"
     ],
     [
       "積丹",
       "しゃこたん",
       "シャコタン",
-      "Shakotan"
+      "shakotan"
     ],
     [
       "ニセコ",
-      "Niseko"
+      "niseko"
     ],
     [
       "ルスツ",
-      "Rusutsu"
+      "rusutsu"
     ],
     [
       "洞爺",
       "とうや",
       "トウヤ",
-      "Toya"
+      "toya"
     ],
     [
       "登別",
       "のぼりべつ",
       "ノボリベツ",
-      "Noboribetsu"
+      "noboribetsu"
     ],
     [
       "苫小牧",
       "とまこまい",
       "トマコマイ",
-      "Tomakomai"
+      "tomakomai"
     ],
     [
       "函館",
       "はこだて",
       "ハコダテ",
-      "Hakodate"
+      "hakodate"
     ],
     [
       "大沼",
       "おおぬま",
       "オオヌマ",
-      "Onuma"
+      "onuma"
     ],
     [
       "松前",
       "まさき",
       "マサキ",
-      "Matsumae"
+      "matsumae"
     ],
     [
       "稚内",
       "わっかない",
       "ワッカナイ",
-      "Wakkanai"
+      "wakkanai"
     ],
     [
       "留萌",
       "るもえ",
       "ルモエ",
-      "Rumoi"
+      "rumoi"
     ],
     [
       "旭川",
       "あさひかわ",
       "アサヒカワ",
-      "Asahikawa"
+      "asahikawa"
     ],
     [
       "層雲峡",
       "そううんきょう",
       "ソウウンキョウ",
-      "Sounkyo"
+      "sounkyo"
     ],
     [
       "富良野",
       "ふらの",
       "フラノ",
-      "Furano"
+      "furano"
     ],
     [
       "美瑛",
       "びえい",
       "ビエイ",
-      "Biei"
+      "biei"
     ],
     [
       "トマム",
-      "Tomamu"
+      "tomamu"
     ],
     [
       "知床",
       "しれとこ",
       "シレトコ",
-      "Shiretoko"
+      "shiretoko"
     ],
     [
       "網走",
       "あばしり",
       "アバシリ",
-      "Abashiri"
+      "abashiri"
     ],
     [
       "北見",
       "きたみ",
       "キタミ",
-      "Kitami"
+      "kitami"
     ],
     [
       "釧路",
       "くしろ",
       "クシロ",
-      "Kushiro"
+      "kushiro"
     ],
     [
       "阿寒",
       "あかん",
       "アカン",
-      "Akan"
+      "akan"
     ],
     [
       "摩周湖",
       "ましゅうこ",
       "マシュウコ",
-      "Lake Mashu"
+      "lake mashu"
     ],
     [
       "根室",
       "ねむろ",
       "ネムロ",
-      "Nemuro"
+      "nemuro"
     ],
     [
       "川湯",
       "かわゆ",
       "カワユ",
-      "Kawayu"
+      "kawayu"
     ],
     [
       "屈斜路",
       "くっしゃろ",
       "クッシャロ",
-      "Kussharo"
+      "kussharo"
     ],
     [
       "石狩",
       "いしかり",
       "イシカリ",
-      "Ishikari"
+      "ishikari"
     ],
     [
       "空知",
       "そらち",
       "ソラチ",
-      "Sorachi"
+      "sorachi"
     ],
     [
       "千歳",
       "ちとせ",
       "チトセ",
-      "Chitose"
+      "chitose"
     ],
     [
       "帯広",
       "おびひろ",
       "オビヒロ",
-      "Obihiro"
+      "obihiro"
     ],
     [
       "十勝",
       "とかち",
       "トカチ",
-      "Tokachi"
+      "tokachi"
     ],
     [
       "日高",
       "ひだか",
       "ヒダカ",
-      "Hidaka"
+      "hidaka"
     ],
     [
       "えりも",
       "エリモ",
-      "Erimo"
+      "erimo"
     ],
     [
       "利尻",
       "りしり",
       "リシリ",
-      "Rishiri"
+      "rishiri"
     ],
     [
       "礼文",
       "れぶん",
       "レブン",
-      "Rebun"
+      "rebun"
     ],
     [
       "天売",
       "てうり",
       "テウリ",
-      "Teuri"
+      "teuri"
     ],
     [
       "焼尻",
       "やぎしり",
       "ヤギシリ",
-      "Yagishiri"
-    ],
-    [
-      "青森",
-      "あおもり",
-      "アオモリ",
-      "Aomori"
+      "yagishiri"
     ],
     [
       "東津軽",
       "ひがしつがる",
       "ヒガシツガル",
-      "Higashitsugaru"
+      "higashitsugaru"
     ],
     [
       "弘前",
       "ひろさき",
       "ヒロサキ",
-      "Hirosaki"
+      "hirosaki"
     ],
     [
       "黒石",
       "くろいし",
       "クロイシ",
-      "Kuroishi"
+      "kuroishi"
     ],
     [
       "白神山地",
       "しらかみさんち",
       "シラカミサンチ",
-      "Shirakami Mountains",
-      "Shirakami Mountains"
+      "shirakami mountains"
     ],
     [
       "奥入瀬",
       "おくにゅうせ",
       "オクニュウセ",
-      "Oirase"
+      "oirase"
     ],
     [
       "十和田湖",
       "とわだこ",
       "トワダコ",
-      "Lake Towada"
+      "lake towada"
     ],
     [
       "八甲田",
       "はっこうだ",
       "ハッコウダ",
-      "Hakkoda"
+      "hakkoda"
     ],
     [
       "八戸",
       "はちのへ",
       "ハチノヘ",
-      "Hachinohe"
+      "hachinohe"
     ],
     [
       "下北",
       "しもきた",
       "シモキタ",
-      "Shimokita"
+      "shimokita"
     ],
     [
       "三沢",
       "みさわ",
       "ミサワ",
-      "Misawa"
+      "misawa"
     ],
     [
       "津軽西海岸",
       "つがるにしかいがん",
       "ツガルニシカイガン",
-      "Tsugaru west coast"
+      "tsugaru west coast"
     ],
     [
       "津軽半島",
       "つがるはんとう",
       "ツガルハントウ",
-      "Tsugaru peninsula"
+      "tsugaru peninsula"
     ],
     [
       "雫石",
       "しずくいし",
       "シズクイシ",
-      "Shizukuishi"
+      "shizukuishi"
     ],
     [
       "盛岡",
       "もりおか",
       "モリオカ",
-      "Morioka"
+      "morioka"
     ],
     [
       "安比",
       "あっぴ",
       "アッピ",
-      "Appi"
+      "appi"
     ],
     [
       "八幡平",
       "やわただいら",
       "ヤワタダイラ",
-      "Hachimantai"
+      "hachimantai"
     ],
     [
       "二戸",
       "にこ",
       "ニコ",
-      "Ninohe"
+      "ninohe"
     ],
     [
       "花巻",
       "はなまき",
       "ハナマキ",
-      "Hanamaki"
+      "hanamaki"
     ],
     [
       "遠野",
       "とおの",
       "トオノ",
-      "Tono"
+      "tono"
     ],
     [
       "北上",
       "ほくじょう",
       "ホクジョウ",
-      "Kitakami"
+      "kitakami"
     ],
     [
       "江刺",
       "えさし",
       "エサシ",
-      "Esashi"
+      "esashi"
     ],
     [
       "湯田",
       "ゆだ",
       "ユダ",
-      "Yuda"
+      "yuda"
     ],
     [
       "陸中海岸",
       "りくちゅうかいがん",
       "リクチュウカイガン",
-      "Rikuchu coast"
+      "rikuchu coast"
     ],
     [
       "一関",
       "いちぜき",
       "イチゼキ",
-      "Ichinohe"
+      "ichinohe"
     ],
     [
       "平泉",
       "ひらいずみ",
       "ヒライズミ",
-      "Hiraizumi"
+      "hiraizumi"
     ],
     [
       "仙台",
       "せんだい",
       "センダイ",
-      "Sendai"
+      "sendai"
     ],
     [
       "松島",
       "まつしま",
       "マツシマ",
-      "Matsushima"
+      "matsushima"
     ],
     [
       "塩竈",
       "しおがま",
       "シオガマ",
-      "Shiogama"
+      "shiogama"
     ],
     [
       "石巻",
       "いしのまき",
       "イシノマキ",
-      "Ishinomaki"
+      "ishinomaki"
     ],
     [
       "気仙沼",
       "けせんぬま",
       "ケセンヌマ",
-      "Kesennuma"
+      "kesennuma"
     ],
     [
       "鳴子",
       "なるこ",
       "ナルコ",
-      "Naruko"
+      "naruko"
     ],
     [
       "大崎",
       "おおさき",
       "オオサキ",
-      "Osaki"
+      "osaki"
     ],
     [
       "栗原",
       "くりはら",
       "クリハラ",
-      "Kurihara"
+      "kurihara"
     ],
     [
       "登米",
       "とよね",
       "トヨネ",
-      "Tome"
+      "tome"
     ],
     [
       "白石",
       "しらいし",
       "シライシ",
-      "Shiroishi"
+      "shiroishi"
     ],
     [
       "蔵王",
       "ざおう",
       "ザオウ",
-      "Zao"
+      "zao"
     ],
     [
       "秋田市",
       "あきたし",
       "アキタシ",
-      "Akita city"
+      "akita city"
     ],
     [
       "田沢湖",
       "たざわこ",
       "タザワコ",
-      "Tazawako"
+      "tazawako"
     ],
     [
       "角館",
       "かくのだて",
       "カクノダテ",
-      "Kakunodate"
+      "kakunodate"
     ],
     [
       "大曲",
       "おおまがり",
       "オオマガリ",
-      "Omagari"
+      "omagari"
     ],
     [
       "大館",
       "おおだて",
       "オオダテ",
-      "Odate"
+      "odate"
     ],
     [
       "能代",
       "のしろ",
       "ノシロ",
-      "Noshiro"
-    ],
-    [
-      "八幡平",
-      "やわただいら",
-      "ヤワタダイラ",
-      "Hachimantai"
+      "noshiro"
     ],
     [
       "鹿角",
       "かつの",
       "カツノ",
-      "Kazuno"
-    ],
-    [
-      "十和田湖",
-      "とわだこ",
-      "トワダコ",
-      "Lake Towada"
+      "kazuno"
     ],
     [
       "男鹿半島",
       "おがはんとう",
       "オガハントウ",
-      "Oga peninsula"
+      "oga peninsula"
     ],
     [
       "横手",
       "よこで",
       "ヨコデ",
-      "Yokote"
+      "yokote"
     ],
     [
       "湯沢",
       "ゆざわ",
       "ユザワ",
-      "Yuzawa"
+      "yuzawa"
     ],
     [
       "象潟",
       "きさかた",
       "キサカタ",
-      "Kisakata"
+      "kisakata"
     ],
     [
       "鳥海山",
       "ちょうかいやま",
       "チョウカイヤマ",
-      "Mount Chokai"
-    ],
-    [
-      "山形",
-      "やまがた",
-      "ヤマガタ",
-      "Yamagata"
-    ],
-    [
-      "蔵王",
-      "ざおう",
-      "ザオウ",
-      "Zao"
+      "mount chokai"
     ],
     [
       "かみのやま",
       "カミノヤマ",
-      "Kamino Yama"
+      "kaminoyama"
     ],
     [
       "新庄",
       "しんじょう",
       "シンジョウ",
-      "Shinjo"
+      "shinjo"
     ],
     [
       "最上",
       "さいじょう",
       "サイジョウ",
-      "Mogami"
+      "mogami"
     ],
     [
       "天童",
       "てんどう",
       "テンドウ",
-      "Tendo"
+      "tendo"
     ],
     [
       "寒河江",
       "さがえ",
       "サガエ",
-      "Sagae"
+      "sagae"
     ],
     [
       "尾花沢",
       "おばなざわ",
       "オバナザワ",
-      "Obanazawa"
+      "obanazawa"
     ],
     [
       "米沢",
       "よねざわ",
       "ヨネザワ",
-      "Yonezawa"
+      "yonezawa"
     ],
     [
       "赤湯",
       "あかゆ",
       "アカユ",
-      "Akayu"
+      "akayu"
     ],
     [
       "飯豊山",
       "いいでさん",
       "イイデサン",
-      "Mount Iide"
+      "mount iide"
     ],
     [
       "酒田",
       "さかた",
       "サカタ",
-      "Sakata"
+      "sakata"
     ],
     [
       "鶴岡",
       "つるおか",
       "ツルオカ",
-      "Tsuruoka"
+      "tsuruoka"
     ],
     [
       "出羽三山",
       "でわさんざん",
       "デワサンザン",
-      "Dewa Sanzan"
-    ],
-    [
-      "福島",
-      "ふくしま",
-      "フクシマ",
-      "Fukushima"
+      "dewa sanzan"
     ],
     [
       "二本松",
       "にほんまつ",
       "ニホンマツ",
-      "Nihonmatsu"
+      "nihonmatsu"
     ],
     [
       "相馬",
       "そうま",
       "ソウマ",
-      "Soma"
+      "soma"
     ],
     [
       "裏磐梯",
       "うらばんだい",
       "ウラバンダイ",
-      "Urabandai"
+      "urabandai"
     ],
     [
       "磐梯高原",
       "ばんだいこうげん",
       "バンダイコウゲン",
-      "Bandai Plateau"
+      "bandai plateau"
     ],
     [
       "猪苗代",
       "いなわしろ",
       "イナワシロ",
-      "Inawashiro"
+      "inawashiro"
     ],
     [
       "表磐梯",
       "おもてばんだい",
       "オモテバンダイ",
-      "Omote Bandai"
+      "omote bandai"
     ],
     [
       "会津",
       "あいづ",
       "アイヅ",
-      "Aizu"
+      "aizu"
     ],
     [
       "南会津",
       "みなみあいづ",
       "ミナミアイヅ",
-      "Minami-aizu"
+      "minami-aizu"
     ],
     [
       "郡山",
       "こおりやま",
       "コオリヤマ",
-      "Koriyama"
+      "koriyama"
     ],
     [
       "三春",
       "みはる",
       "ミハル",
-      "Miharu"
+      "miharu"
     ],
     [
       "白河",
       "しらかわ",
       "シラカワ",
-      "Shirakawa"
+      "shirakawa"
     ],
     [
       "いわき",
       "イワキ",
-      "Iwaki"
+      "iwaki"
     ],
     [
       "双葉",
       "ふたば",
       "フタバ",
-      "Futaba"
+      "futaba"
     ],
     [
       "北茨城",
       "きたいばらき",
       "キタイバラキ",
-      "Kita-ibaraki"
+      "kita-ibaraki"
     ],
     [
       "奥久慈",
       "おくくじ",
       "オククジ",
-      "Okukuji",
-      "Oku-Kuji",
       "okukuji"
     ],
     [
       "日立",
       "ひたち",
       "ヒタチ",
-      "Hitachi"
+      "hitachi"
     ],
     [
       "水戸",
       "みと",
       "ミト",
-      "Mito"
+      "mito"
     ],
     [
       "笠間",
       "かさま",
       "カサマ",
-      "Kasama"
+      "kasama"
     ],
     [
       "常総",
       "つねそう",
       "ツネソウ",
-      "Joso"
+      "joso"
     ],
     [
       "結城",
       "ゆうき",
       "ユウキ",
-      "Yuki"
+      "yuki"
     ],
     [
       "桜川",
       "さくらがわ",
       "サクラガワ",
-      "Sakuragawa"
+      "sakuragawa"
     ],
     [
       "つくば",
       "ツクバ",
-      "Tsukuba"
+      "tsukuba"
     ],
     [
       "牛久",
       "うしく",
       "ウシク",
-      "Ushiku"
+      "ushiku"
     ],
     [
       "霞ヶ浦",
       "かすみがうら",
       "カスミガウラ",
-      "Kasumigaura"
+      "kasumigaura"
     ],
     [
       "土浦",
       "つちうら",
       "ツチウラ",
-      "Tsuchiura"
+      "tsuchiura"
     ],
     [
       "鹿島",
       "かしま",
       "カシマ",
-      "Kashima"
+      "kashima"
     ],
     [
       "潮来",
       "いたこ",
       "イタコ",
-      "Itako"
+      "itako"
     ],
     [
       "大洗",
       "おおあらい",
       "オオアライ",
-      "Oarai"
+      "oarai"
     ],
     [
       "ひたちなか",
       "ヒタチナカ",
-      "Hitachi Naka"
+      "hitachi naka"
     ],
     [
       "宇都宮",
       "うつのみや",
       "ウツノミヤ",
-      "Utsunomiya"
-    ],
-    [
-      "さくら",
-      "サクラ",
-      "Sakura"
-    ],
-    [
-      "那須",
-      "なす",
-      "ナス",
-      "Nasu"
-    ],
-    [
-      "板室",
-      "いたしつ",
-      "イタシツ",
-      "Itamuro"
-    ],
-    [
-      "塩原",
-      "しおばら",
-      "シオバラ",
-      "Shiobara"
-    ],
-    [
-      "矢板",
-      "やいた",
-      "ヤイタ",
-      "Yaita"
-    ],
-    [
-      "大田原",
-      "おおたわら",
-      "オオタワラ",
-      "Otawara"
-    ],
-    [
-      "西那須野",
-      "にしなすの",
-      "ニシナスノ",
-      "Nishinasuno"
-    ],
-    [
-      "日光",
-      "にっこう",
-      "ニッコウ",
-      "Nikko"
-    ],
-    [
-      "霧降高原",
-      "きりふりこうげん",
-      "キリフリコウゲン",
-      "Kirifuri Plateau"
-    ],
-    [
-      "奥日光",
-      "おくにっこう",
-      "オクニッコウ",
-      "Oku Nikko"
-    ],
-    [
-      "中禅寺湖",
-      "ちゅうぜんじこ",
-      "チュウゼンジコ",
-      "Lake Chuzenji"
-    ],
-    [
-      "今市",
-      "いまいち",
-      "イマイチ",
-      "Imaichi"
-    ],
-    [
-      "鬼怒川",
-      "きぬがわ",
-      "キヌガワ",
-      "Kinugawa"
-    ],
-    [
-      "川治",
-      "かわじ",
-      "カワジ",
-      "Kawaji"
-    ],
-    [
-      "湯西川",
-      "ゆにしかわ",
-      "ユニシカワ",
-      "Yunishigawa"
-    ],
-    [
-      "川俣",
-      "かわまた",
-      "カワマタ",
-      "Kawamata"
-    ],
-    [
-      "佐野",
-      "さの",
-      "サノ",
-      "Sano"
-    ],
-    [
-      "小山",
-      "こやま",
-      "コヤマ",
-      "Oyama"
-    ],
-    [
-      "足利",
-      "あしかが",
-      "アシカガ",
-      "Ashikaga"
-    ],
-    [
-      "鹿沼",
-      "かぬま",
-      "カヌマ",
-      "Kanuma"
-    ],
-    [
-      "馬頭",
-      "めず",
-      "メズ",
-      "Bato"
-    ],
-    [
-      "茂木",
-      "もぎ",
-      "モギ",
-      "Motegi"
-    ],
-    [
-      "益子",
-      "ましこ",
-      "マシコ",
-      "Mashiko"
-    ],
-    [
-      "真岡",
-      "もおか",
-      "モオカ",
-      "Moka"
-    ],
-    [
-      "四万",
-      "よんまん",
-      "ヨンマン",
-      "Shima",
-      "Yonman"
-    ],
-    [
-      "吾妻",
-      "あづま",
-      "アヅマ",
-      "Azuma"
-    ],
-    [
-      "川原湯",
-      "かわらゆ",
-      "カワラユ",
-      "Kawarayu"
-    ],
-    [
-      "草津",
-      "くさつ",
-      "クサツ",
-      "Kusatsu"
-    ],
-    [
-      "尻焼",
-      "しりしょう",
-      "シリショウ",
-      "Shiriyaki"
-    ],
-    [
-      "花敷",
-      "はなしき",
-      "ハナシキ",
-      "Hanashiki"
-    ],
-    [
-      "万座",
-      "まんざ",
-      "マンザ",
-      "Manza"
-    ],
-    [
-      "嬬恋",
-      "つまごい",
-      "ツマゴイ",
-      "Tsumagoi"
-    ],
-    [
-      "北軽井沢",
-      "きたかるいざわ",
-      "キタカルイザワ",
-      "Kita Karuizawa"
-    ],
-    [
-      "水上",
-      "すいじょう",
-      "スイジョウ",
-      "Minakami"
-    ],
-    [
-      "みなかみ",
-      "ミナカミ",
-      "Minakami"
-    ],
-    [
-      "沼田",
-      "ぬまた",
-      "ヌマタ",
-      "Numata"
-    ],
-    [
-      "老神",
-      "おいがみ",
-      "オイガミ",
-      "Oigami"
-    ],
-    [
-      "尾瀬",
-      "おぜ",
-      "オゼ",
-      "Oze"
-    ],
-    [
-      "赤城",
-      "あかぎ",
-      "アカギ",
-      "Akagi"
-    ],
-    [
-      "桐生",
-      "きりゅう",
-      "キリュウ",
-      "Kiryu"
-    ],
-    [
-      "渡良瀬",
-      "わたりりょうせ",
-      "ワタリリョウセ",
-      "Watarase"
-    ],
-    [
-      "渋川",
-      "しぶかわ",
-      "シブカワ",
-      "Shibukawa"
-    ],
-    [
-      "伊香保",
-      "いかほ",
-      "イカホ",
-      "Ikaho"
-    ],
-    [
-      "前橋",
-      "まえばし",
-      "マエバシ",
-      "Maebashi"
-    ],
-    [
-      "高崎",
-      "たかさき",
-      "タカサキ",
-      "Takasaki"
-    ],
-    [
-      "伊勢崎",
-      "いせさき",
-      "イセサキ",
-      "Isesaki"
-    ],
-    [
-      "太田",
-      "おおた",
-      "オオタ",
-      "Ota"
-    ],
-    [
-      "榛名",
-      "はるな",
-      "ハルナ",
-      "Haruna"
-    ],
-    [
-      "藤岡",
-      "ふじおか",
-      "フジオカ",
-      "Fujioka"
-    ],
-    [
-      "碓氷",
-      "うすい",
-      "ウスイ",
-      "Usui"
-    ],
-    [
-      "磯部",
-      "いそべ",
-      "イソベ",
-      "Isobe"
-    ],
-    [
-      "妙義",
-      "みょうぎ",
-      "ミョウギ",
-      "Myogi"
-    ],
-    [
-      "さいたま",
-      "サイタマ",
-      "Saitama"
-    ],
-    [
-      "川口",
-      "かわぐち",
-      "カワグチ",
-      "Kawaguchi"
-    ],
-    [
-      "上尾",
-      "あげお",
-      "アゲオ",
-      "Ageo"
-    ],
-    [
-      "桶川",
-      "おけがわ",
-      "オケガワ",
-      "Okegawa"
-    ],
-    [
-      "行田",
-      "ぎょうだ",
-      "ギョウダ",
-      "Gyoda"
-    ],
-    [
-      "熊谷",
-      "くまがい",
-      "クマガイ",
-      "Kumagaya"
-    ],
-    [
-      "本庄",
-      "ほんじょう",
-      "ホンジョウ",
-      "Honjo"
-    ],
-    [
-      "川越",
-      "かわごえ",
-      "カワゴエ",
-      "Kawagoe"
-    ],
-    [
-      "所沢",
-      "ところざわ",
-      "トコロザワ",
-      "Tokorozawa"
-    ],
-    [
-      "飯能",
-      "はんのう",
-      "ハンノウ",
-      "Hanno"
-    ],
-    [
-      "東松山",
-      "ひがしまつやま",
-      "ヒガシマツヤマ",
-      "Higashimatsuyama"
-    ],
-    [
-      "坂戸",
-      "さかど",
-      "サカド",
-      "Sakado"
-    ],
-    [
-      "草加",
-      "そうか",
-      "ソウカ",
-      "Soka"
-    ],
-    [
-      "越谷",
-      "こしがや",
-      "コシガヤ",
-      "Koshigaya"
-    ],
-    [
-      "三郷",
-      "みさと",
-      "ミサト",
-      "Misato"
-    ],
-    [
-      "春日部",
-      "かすかべ",
-      "カスカベ",
-      "Kasukabe"
-    ],
-    [
-      "久喜",
-      "くき",
-      "クキ",
-      "Kuki"
-    ],
-    [
-      "秩父",
-      "ちちぶ",
-      "チチブ",
-      "Chichibu"
-    ],
-    [
-      "長瀞",
-      "ながとろ",
-      "ナガトロ",
-      "Nagatoro"
-    ],
-    [
-      "千葉",
-      "ちば",
-      "チバ",
-      "Chiba"
-    ],
-    [
-      "市原",
-      "いちはら",
-      "イチハラ",
-      "Ichihara"
-    ],
-    [
-      "舞浜",
-      "まいはま",
-      "マイハマ",
-      "Maihama"
-    ],
-    [
-      "浦安",
-      "うらやす",
-      "ウラヤス",
-      "Urayasu"
-    ],
-    [
-      "船橋",
-      "ふなばし",
-      "フナバシ",
-      "Funabashi"
-    ],
-    [
-      "幕張",
-      "まくはり",
-      "マクハリ",
-      "Makuhari"
-    ],
-    [
-      "成田",
-      "なりた",
-      "ナリタ",
-      "Narita"
-    ],
-    [
-      "松戸",
-      "まつど",
-      "マツド",
-      "Matsudo"
-    ],
-    [
-      "柏",
-      "かしわ",
-      "カシワ",
-      "Kashiwa"
-    ],
-    [
-      "野田",
-      "のだ",
-      "ノダ",
-      "Noda"
+      "utsunomiya"
     ],
     [
       "佐倉",
       "さくら",
       "サクラ",
-      "Sakura",
-      "Sakura"
+      "sakura",
+      "sakura"
+    ],
+    [
+      "那須",
+      "なす",
+      "ナス",
+      "nasu"
+    ],
+    [
+      "板室",
+      "いたしつ",
+      "イタシツ",
+      "itamuro"
+    ],
+    [
+      "塩原",
+      "しおばら",
+      "シオバラ",
+      "shiobara"
+    ],
+    [
+      "矢板",
+      "やいた",
+      "ヤイタ",
+      "yaita"
+    ],
+    [
+      "大田原",
+      "おおたわら",
+      "オオタワラ",
+      "otawara"
+    ],
+    [
+      "西那須野",
+      "にしなすの",
+      "ニシナスノ",
+      "nishinasuno"
+    ],
+    [
+      "日光",
+      "にっこう",
+      "ニッコウ",
+      "nikko"
+    ],
+    [
+      "霧降高原",
+      "きりふりこうげん",
+      "キリフリコウゲン",
+      "kirifuri plateau"
+    ],
+    [
+      "奥日光",
+      "おくにっこう",
+      "オクニッコウ",
+      "oku nikko"
+    ],
+    [
+      "中禅寺湖",
+      "ちゅうぜんじこ",
+      "チュウゼンジコ",
+      "lake chuzenji"
+    ],
+    [
+      "今市",
+      "いまいち",
+      "イマイチ",
+      "imaichi"
+    ],
+    [
+      "鬼怒川",
+      "きぬがわ",
+      "キヌガワ",
+      "kinugawa"
+    ],
+    [
+      "川治",
+      "かわじ",
+      "カワジ",
+      "kawaji"
+    ],
+    [
+      "湯西川",
+      "ゆにしかわ",
+      "ユニシカワ",
+      "yunishigawa"
+    ],
+    [
+      "川俣",
+      "かわまた",
+      "カワマタ",
+      "kawamata"
+    ],
+    [
+      "佐野",
+      "さの",
+      "サノ",
+      "sano"
+    ],
+    [
+      "小山",
+      "こやま",
+      "コヤマ",
+      "oyama"
+    ],
+    [
+      "足利",
+      "あしかが",
+      "アシカガ",
+      "ashikaga"
+    ],
+    [
+      "鹿沼",
+      "かぬま",
+      "カヌマ",
+      "kanuma"
+    ],
+    [
+      "馬頭",
+      "めず",
+      "メズ",
+      "bato"
+    ],
+    [
+      "茂木",
+      "もぎ",
+      "モギ",
+      "motegi"
+    ],
+    [
+      "益子",
+      "ましこ",
+      "マシコ",
+      "mashiko"
+    ],
+    [
+      "真岡",
+      "もおか",
+      "モオカ",
+      "moka"
+    ],
+    [
+      "四万",
+      "よんまん",
+      "ヨンマン",
+      "shima"
+    ],
+    [
+      "吾妻",
+      "あづま",
+      "アヅマ",
+      "azuma"
+    ],
+    [
+      "川原湯",
+      "かわらゆ",
+      "カワラユ",
+      "kawarayu"
+    ],
+    [
+      "草津",
+      "くさつ",
+      "クサツ",
+      "kusatsu"
+    ],
+    [
+      "尻焼",
+      "しりしょう",
+      "シリショウ",
+      "shiriyaki"
+    ],
+    [
+      "花敷",
+      "はなしき",
+      "ハナシキ",
+      "hanashiki"
+    ],
+    [
+      "万座",
+      "まんざ",
+      "マンザ",
+      "manza"
+    ],
+    [
+      "嬬恋",
+      "つまごい",
+      "ツマゴイ",
+      "tsumagoi"
+    ],
+    [
+      "北軽井沢",
+      "きたかるいざわ",
+      "キタカルイザワ",
+      "kita karuizawa"
+    ],
+    [
+      "水上",
+      "すいじょう",
+      "スイジョウ",
+      "minakami"
+    ],
+    [
+      "みなかみ",
+      "ミナカミ",
+      "minakami"
+    ],
+    [
+      "沼田",
+      "ぬまた",
+      "ヌマタ",
+      "numata"
+    ],
+    [
+      "老神",
+      "おいがみ",
+      "オイガミ",
+      "oigami"
+    ],
+    [
+      "尾瀬",
+      "おぜ",
+      "オゼ",
+      "oze"
+    ],
+    [
+      "赤城",
+      "あかぎ",
+      "アカギ",
+      "akagi"
+    ],
+    [
+      "桐生",
+      "きりゅう",
+      "キリュウ",
+      "kiryu"
+    ],
+    [
+      "渡良瀬",
+      "わたりりょうせ",
+      "ワタリリョウセ",
+      "watarase"
+    ],
+    [
+      "渋川",
+      "しぶかわ",
+      "シブカワ",
+      "shibukawa"
+    ],
+    [
+      "伊香保",
+      "いかほ",
+      "イカホ",
+      "ikaho"
+    ],
+    [
+      "前橋",
+      "まえばし",
+      "マエバシ",
+      "maebashi"
+    ],
+    [
+      "高崎",
+      "たかさき",
+      "タカサキ",
+      "takasaki"
+    ],
+    [
+      "伊勢崎",
+      "いせさき",
+      "イセサキ",
+      "isesaki"
+    ],
+    [
+      "太田",
+      "おおた",
+      "オオタ",
+      "ota"
+    ],
+    [
+      "榛名",
+      "はるな",
+      "ハルナ",
+      "haruna"
+    ],
+    [
+      "藤岡",
+      "ふじおか",
+      "フジオカ",
+      "fujioka"
+    ],
+    [
+      "碓氷",
+      "うすい",
+      "ウスイ",
+      "usui"
+    ],
+    [
+      "磯部",
+      "いそべ",
+      "イソベ",
+      "isobe"
+    ],
+    [
+      "妙義",
+      "みょうぎ",
+      "ミョウギ",
+      "myogi"
+    ],
+    [
+      "川口",
+      "かわぐち",
+      "カワグチ",
+      "kawaguchi"
+    ],
+    [
+      "上尾",
+      "あげお",
+      "アゲオ",
+      "ageo"
+    ],
+    [
+      "桶川",
+      "おけがわ",
+      "オケガワ",
+      "okegawa"
+    ],
+    [
+      "行田",
+      "ぎょうだ",
+      "ギョウダ",
+      "gyoda"
+    ],
+    [
+      "熊谷",
+      "くまがい",
+      "クマガイ",
+      "kumagaya"
+    ],
+    [
+      "本庄",
+      "ほんじょう",
+      "ホンジョウ",
+      "honjo"
+    ],
+    [
+      "川越",
+      "かわごえ",
+      "カワゴエ",
+      "kawagoe"
+    ],
+    [
+      "所沢",
+      "ところざわ",
+      "トコロザワ",
+      "tokorozawa"
+    ],
+    [
+      "飯能",
+      "はんのう",
+      "ハンノウ",
+      "hanno"
+    ],
+    [
+      "東松山",
+      "ひがしまつやま",
+      "ヒガシマツヤマ",
+      "higashimatsuyama"
+    ],
+    [
+      "坂戸",
+      "さかど",
+      "サカド",
+      "sakado"
+    ],
+    [
+      "草加",
+      "そうか",
+      "ソウカ",
+      "soka"
+    ],
+    [
+      "越谷",
+      "こしがや",
+      "コシガヤ",
+      "koshigaya"
+    ],
+    [
+      "三郷",
+      "みさと",
+      "ミサト",
+      "misato"
+    ],
+    [
+      "春日部",
+      "かすかべ",
+      "カスカベ",
+      "kasukabe"
+    ],
+    [
+      "久喜",
+      "くき",
+      "クキ",
+      "kuki"
+    ],
+    [
+      "秩父",
+      "ちちぶ",
+      "チチブ",
+      "chichibu"
+    ],
+    [
+      "長瀞",
+      "ながとろ",
+      "ナガトロ",
+      "nagatoro"
+    ],
+    [
+      "市原",
+      "いちはら",
+      "イチハラ",
+      "ichihara"
+    ],
+    [
+      "舞浜",
+      "まいはま",
+      "マイハマ",
+      "maihama"
+    ],
+    [
+      "浦安",
+      "うらやす",
+      "ウラヤス",
+      "urayasu"
+    ],
+    [
+      "船橋",
+      "ふなばし",
+      "フナバシ",
+      "funabashi"
+    ],
+    [
+      "幕張",
+      "まくはり",
+      "マクハリ",
+      "makuhari"
+    ],
+    [
+      "成田",
+      "なりた",
+      "ナリタ",
+      "narita"
+    ],
+    [
+      "松戸",
+      "まつど",
+      "マツド",
+      "matsudo"
+    ],
+    [
+      "柏",
+      "かしわ",
+      "カシワ",
+      "kashiwa"
+    ],
+    [
+      "野田",
+      "のだ",
+      "ノダ",
+      "noda"
     ],
     [
       "八街",
       "やまち",
       "ヤマチ",
-      "Yachimata"
+      "yachimata"
     ],
     [
       "茂原",
       "しげはら",
       "シゲハラ",
-      "Mobara"
+      "mobara"
     ],
     [
       "東金",
       "とうがね",
       "トウガネ",
-      "Togane"
+      "togane"
     ],
     [
       "九十九里",
       "くじゅうくり",
       "クジュウクリ",
-      "Kujukuri"
+      "kujukuri"
     ],
     [
       "銚子",
       "ちょうし",
       "チョウシ",
-      "Choshi"
+      "choshi"
     ],
     [
       "佐原",
       "さはら",
       "サハラ",
-      "Sawara"
+      "sawara"
     ],
     [
       "木更津",
       "きさらづ",
       "キサラヅ",
-      "Kisarazu"
+      "kisarazu"
     ],
     [
       "君津",
       "きみつ",
       "キミツ",
-      "Kimitsu"
+      "kimitsu"
     ],
     [
       "富津",
       "ふっつ",
       "フッツ",
-      "Futtsu"
+      "futtsu"
     ],
     [
       "勝浦",
       "かつうら",
       "カツウラ",
-      "Katsuura"
+      "katsuura"
     ],
     [
       "鴨川",
       "かもがわ",
       "カモガワ",
-      "Kamogawa"
+      "kamogawa"
     ],
     [
       "館山",
       "たてやま",
       "タテヤマ",
-      "Tateyama"
+      "tateyama"
     ],
     [
       "南房総",
       "みなみぼうそう",
       "ミナミボウソウ",
-      "Minami Boso"
+      "minami boso"
     ],
     [
       "浅草",
       "あさくさ",
       "アサクサ",
-      "Asakusa"
+      "asakusa"
     ],
     [
       "上野",
       "うえの",
       "ウエノ",
-      "Ueno"
+      "ueno"
     ],
     [
       "立川",
       "たちかわ",
       "タチカワ",
-      "Tachikawa"
+      "tachikawa"
     ],
     [
       "調布",
       "ちょうふ",
       "チョウフ",
-      "Chofu"
+      "chofu"
     ],
     [
       "吉祥寺",
       "きちじょうじ",
       "キチジョウジ",
-      "Kichijoji"
+      "kichijoji"
     ],
     [
       "町田",
       "まちだ",
       "マチダ",
-      "Machida"
+      "machida"
     ],
     [
       "八王子",
       "はちおうじ",
       "ハチオウジ",
-      "Hachioji"
+      "hachioji"
     ],
     [
       "高尾",
       "たかお",
       "タカオ",
-      "Takao"
+      "takao"
     ],
     [
       "奥多摩",
       "おくたま",
       "オクタマ",
-      "Okutama"
+      "okutama"
     ],
     [
       "伊豆諸島",
       "いずしょとう",
       "イズショトウ",
-      "Izu Islands"
+      "izu islands"
     ],
     [
       "伊豆大島",
       "いずおおしま",
       "イズオオシマ",
-      "Izu Oshima"
+      "izu oshima"
     ],
     [
       "八丈島",
       "はちじょうじま",
       "ハチジョウジマ",
-      "Hachijo Island"
+      "hachijo island"
     ],
     [
       "横浜",
       "よこはま",
       "ヨコハマ",
-      "Yokohama"
+      "yokohama"
     ],
     [
       "逗子",
       "ずし",
       "ズシ",
-      "Zushi"
+      "zushi"
     ],
     [
       "葉山",
       "はやま",
       "ハヤマ",
-      "Hayama"
+      "hayama"
     ],
     [
       "鎌倉",
       "かまくら",
       "カマクラ",
-      "Kamakura",
-      "Kamakura"
+      "kamakura"
     ],
     [
       "厚木",
       "あつぎ",
       "アツギ",
-      "Atsugi"
+      "atsugi"
     ],
     [
       "海老名",
       "えびな",
       "エビナ",
-      "Ebina"
+      "ebina"
     ],
     [
       "相模原",
       "さがみはら",
       "サガミハラ",
-      "Sagamihara"
+      "sagamihara"
     ],
     [
       "相模湖",
       "さがみこ",
       "サガミコ",
-      "Lake Sagami",
-      "Sagami Lake"
+      "lake sagami"
     ],
     [
       "箱根",
       "はこね",
       "ハコネ",
-      "Hakone"
+      "hakone"
     ],
     [
       "湯河原",
       "ゆがわら",
       "ユガワラ",
-      "Yugawara"
+      "yugawara"
     ],
     [
       "真鶴",
       "まなづる",
       "マナヅル",
-      "Manazuru"
+      "manazuru"
     ],
     [
       "小田原",
       "おだわら",
       "オダワラ",
-      "Odawara"
+      "odawara"
     ],
     [
       "足柄",
       "あしがら",
       "アシガラ",
-      "Ashigara"
+      "ashigara"
     ],
     [
       "丹沢",
       "たんざわ",
       "タンザワ",
-      "Tanzawa"
-    ],
-    [
-      "新潟",
-      "にいがた",
-      "ニイガタ",
-      "Niigata"
+      "tanzawa"
     ],
     [
       "月岡",
       "つきおか",
       "ツキオカ",
-      "Tsukioka"
+      "tsukioka"
     ],
     [
       "阿賀野川",
       "あがのがわ",
       "アガノガワ",
-      "Agano River"
+      "agano river"
     ],
     [
       "瀬波",
       "せらなみ",
       "セラナミ",
-      "Senami",
-      "Seranami"
+      "senami"
     ],
     [
       "村上",
       "むらかみ",
       "ムラカミ",
-      "Murakami"
+      "murakami"
     ],
     [
       "岩船",
       "いわふね",
       "イワフネ",
-      "Iwafune"
+      "iwafune"
     ],
     [
       "燕",
       "つばめ",
       "ツバメ",
-      "Tsubame"
+      "tsubame"
     ],
     [
       "三条",
       "さんじょう",
       "サンジョウ",
-      "Sanjo"
+      "sanjo"
     ],
     [
       "岩室",
       "いわむろ",
       "イワムロ",
-      "Iwamuro"
+      "iwamuro"
     ],
     [
       "弥彦",
       "やひこ",
       "ヤヒコ",
-      "Yahiko"
+      "yahiko"
     ],
     [
       "柏崎",
       "かしわざき",
       "カシワザキ",
-      "Kashiwazaki"
+      "kashiwazaki"
     ],
     [
       "寺泊",
       "てらどまり",
       "テラドマリ",
-      "Teradomari"
+      "teradomari"
     ],
     [
       "長岡",
       "ながおか",
       "ナガオカ",
-      "Nagaoka"
+      "nagaoka"
     ],
     [
       "魚沼",
       "うおぬま",
       "ウオヌマ",
-      "Uonuma"
+      "uonuma"
     ],
     [
       "湯之谷",
       "ゆのたに",
       "ユノタニ",
-      "Yunotani"
+      "yunotani"
     ],
     [
       "南魚沼",
       "みなみうおぬま",
       "ミナミウオヌマ",
-      "Minamiuonuma"
+      "minamiuonuma"
     ],
     [
       "十日町",
       "とおかまち",
       "トオカマチ",
-      "Tokamachi"
+      "tokamachi"
     ],
     [
       "津南",
       "つなん",
       "ツナン",
-      "Tsunan"
+      "tsunan"
     ],
     [
       "六日町",
       "むいかまち",
       "ムイカマチ",
-      "Muikamachi"
-    ],
-    [
-      "湯沢",
-      "ゆざわ",
-      "ユザワ",
-      "Yuzawa"
+      "muikamachi"
     ],
     [
       "苗場",
       "なえば",
       "ナエバ",
-      "Naeba"
+      "naeba"
     ],
     [
       "上越",
       "じょうえつ",
       "ジョウエツ",
-      "Joetsu"
+      "joetsu"
     ],
     [
       "糸魚川",
       "いといがわ",
       "イトイガワ",
-      "Itoigawa"
+      "itoigawa"
     ],
     [
       "妙高",
       "みょうだか",
       "ミョウダカ",
-      "Myoko"
+      "myoko"
     ],
     [
       "佐渡",
       "さど",
       "サド",
-      "Sado"
+      "sado"
     ],
     [
       "黒部",
       "くろべ",
       "クロベ",
-      "Kurobe"
+      "kurobe"
     ],
     [
       "宇奈月",
       "うなづき",
       "ウナヅキ",
-      "Unazuki"
+      "unazuki"
     ],
     [
       "立山黒部アルペンルート",
       "たてやまくろべアルペンルート",
       "タテヤマクロベアルペンルート",
-      "Tateyama Kurobe Alpine Route"
-    ],
-    [
-      "富山",
-      "とやま",
-      "トヤマ",
-      "Toyama"
+      "tateyama kurobe alpine route"
     ],
     [
       "八尾",
       "やお",
       "ヤオ",
-      "Yao"
+      "yao"
     ],
     [
       "高岡",
       "たかおか",
       "タカオカ",
-      "Takaoka"
+      "takaoka"
     ],
     [
       "氷見",
       "ひみ",
       "ヒミ",
-      "Himi"
+      "himi"
     ],
     [
       "砺波",
       "となみ",
       "トナミ",
-      "Tonami"
+      "tonami"
     ],
     [
       "五箇山",
       "ごかさん",
       "ゴカサン",
-      "Gokayama"
+      "gokayama"
     ],
     [
       "庄川",
       "しょうがわ",
       "ショウガワ",
-      "Shogawa"
+      "shogawa"
     ],
     [
       "輪島",
       "わじま",
       "ワジマ",
-      "Wajima"
+      "wajima"
     ],
     [
       "珠洲",
       "すず",
       "スズ",
-      "Suzu"
+      "suzu"
     ],
     [
       "能登金剛",
       "のとこんごう",
       "ノトコンゴウ",
-      "Noto Kongo"
+      "noto kongo"
     ],
     [
       "和倉",
       "わくら",
       "ワクラ",
-      "Wakura"
+      "wakura"
     ],
     [
       "七尾",
       "ななび",
       "ナナビ",
-      "Nanao"
+      "nanao"
     ],
     [
       "金沢",
       "かなざわ",
       "カナザワ",
-      "Kanazawa"
+      "kanazawa"
     ],
     [
       "羽咋",
       "はくい",
       "ハクイ",
-      "Hakui"
+      "hakui"
     ],
     [
       "白山",
       "はくさん",
       "ハクサン",
-      "Hakusan"
+      "hakusan"
     ],
     [
       "加賀",
       "かが",
       "カガ",
-      "Kaga"
+      "kaga"
     ],
     [
       "小松",
       "こまつ",
       "コマツ",
-      "Komatsu"
+      "komatsu"
     ],
     [
       "辰口",
       "たつのくち",
       "タツノクチ",
-      "Tatsunokuchi"
+      "tatsunokuchi"
     ],
     [
       "三国",
       "さんこく",
       "サンコク",
-      "Mikuni",
-      "Sankoku"
+      "mikuni"
     ],
     [
       "あわら",
       "アワラ",
-      "Awara"
+      "awara"
     ],
     [
       "奥越前",
       "おくえつぜん",
       "オクエツゼン",
-      "Oku-Echizen"
+      "oku-echizen"
     ],
     [
       "勝山",
       "かつやま",
       "カツヤマ",
-      "Katsuyama"
+      "katsuyama"
     ],
     [
       "大野",
       "おおの",
       "オオノ",
-      "Ono"
+      "ono"
     ],
     [
       "武生",
       "たけふ",
       "タケフ",
-      "Takefu"
+      "takefu"
     ],
     [
       "鯖江",
       "さばえ",
       "サバエ",
-      "Sabae"
+      "sabae"
     ],
     [
       "越前海岸",
       "えちぜんかいがん",
       "エチゼンカイガン",
-      "Echizen Coast"
+      "echizen coast"
     ],
     [
       "敦賀",
       "つるが",
       "ツルガ",
-      "Tsuruga"
+      "tsuruga"
     ],
     [
       "若狭",
       "わかさ",
       "ワカサ",
-      "Wakasa"
+      "wakasa"
     ],
     [
       "甲府",
       "こうふ",
       "コウフ",
-      "Kofu"
+      "kofu"
     ],
     [
       "湯村",
       "ゆむら",
       "ユムラ",
-      "Yumura"
+      "yumura"
     ],
     [
       "昇仙峡",
       "のぼりせんかい",
       "ノボリセンカイ",
-      "Shosenkyo Gorge"
+      "shosenkyo gorge"
     ],
     [
       "石和",
       "いさわ",
       "イサワ",
-      "Isawa"
+      "isawa"
     ],
     [
       "勝沼",
       "かつぬま",
       "カツヌマ",
-      "Katsunuma"
+      "katsunuma"
     ],
     [
       "塩山",
       "しおやま",
       "シオヤマ",
-      "Enzan"
+      "enzan"
     ],
     [
       "大月",
       "おおつき",
       "オオツキ",
-      "Otsuki"
+      "otsuki"
     ],
     [
       "都留",
       "つる",
       "ツル",
-      "Tsuru"
+      "tsuru"
     ],
     [
       "道志渓谷",
       "どうしけいこく",
       "ドウシケイコク",
-      "Doshi Valley"
+      "doshi valley"
     ],
     [
       "山中湖",
       "やまなかこ",
       "ヤマナカコ",
-      "Yamanakako"
+      "yamanakako"
     ],
     [
       "忍野",
       "おしの",
       "オシノ",
-      "Oshino"
+      "oshino"
     ],
     [
       "河口湖",
       "かわぐちこ",
       "カワグチコ",
-      "Kawaguchiko"
+      "kawaguchiko"
     ],
     [
       "西湖",
       "さいこ",
       "サイコ",
-      "Saiko Lake"
+      "saiko lake"
     ],
     [
       "富士吉田",
       "ふじよしだ",
       "フジヨシダ",
-      "Fujiyoshida"
+      "fujiyoshida"
     ],
     [
       "精進湖",
       "しょうじこ",
       "ショウジコ",
-      "Shoji Lake"
+      "shoji lake"
     ],
     [
       "本栖湖",
       "もとすこ",
       "モトスコ",
-      "Motosu Lake"
+      "motosu lake"
     ],
     [
       "下部",
       "かぶ",
       "カブ",
-      "Shimobe"
+      "shimobe"
     ],
     [
       "身延",
       "みのぶ",
       "ミノブ",
-      "Minobu"
+      "minobu"
     ],
     [
       "早川",
       "はやかわ",
       "ハヤカワ",
-      "Hayakawa"
+      "hayakawa"
     ],
     [
       "南アルプス",
       "みなみアルプス",
       "ミナミアルプス",
-      "Minami-Alps"
+      "minami-alps"
     ],
     [
       "八ヶ岳",
       "やつがたけ",
       "ヤツガタケ",
-      "Yatsugatake"
+      "yatsugatake"
     ],
     [
       "小淵沢",
       "こぶちざわ",
       "コブチザワ",
-      "Kobuchizawa"
+      "kobuchizawa"
     ],
     [
       "清里",
       "きよさと",
       "キヨサト",
-      "Kiyosato"
+      "kiyosato"
     ],
     [
       "大泉",
       "おおいずみ",
       "オオイズミ",
-      "Oizumi"
-    ],
-    [
-      "長野",
-      "ながの",
-      "ナガノ",
-      "Nagano"
+      "oizumi"
     ],
     [
       "戸隠",
       "とがくし",
       "トガクシ",
-      "Togakushi"
+      "togakushi"
     ],
     [
       "小布施",
       "こふせ",
       "コフセ",
-      "Obuse"
+      "obuse"
     ],
     [
       "野沢",
       "のざわ",
       "ノザワ",
-      "Nozawa"
+      "nozawa"
     ],
     [
       "木島平",
       "きじまだいら",
       "キジマダイラ",
-      "Kijimadaira"
+      "kijimadaira"
     ],
     [
       "秋山郷",
       "あきやまさと",
       "アキヤマサト",
-      "Akiyamago"
+      "akiyamago"
     ],
     [
       "斑尾",
       "まだらお",
       "マダラオ",
-      "Madarao"
+      "madarao"
     ],
     [
       "黒姫",
       "くろひめ",
       "クロヒメ",
-      "Kurohime"
-    ],
-    [
-      "志賀",
-      "しが",
-      "シガ",
-      "Shiga"
+      "kurohime"
     ],
     [
       "北志賀",
       "きたしか",
       "キタシカ",
-      "Kita Shiga"
+      "kita shiga"
     ],
     [
       "湯田中渋",
       "ゆだちゅうしぶ",
       "ユダチュウシブ",
-      "Yudanaka Shibu"
+      "yudanaka shibu"
     ],
     [
       "上田",
       "うえだ",
       "ウエダ",
-      "Ueda"
+      "ueda"
     ],
     [
       "別所",
       "べっしょ",
       "ベッショ",
-      "Bessho"
+      "bessho"
     ],
     [
       "鹿教湯",
       "しかきょうゆ",
       "シカキョウユ",
-      "Kakkyo Onsen"
+      "kakkyo onsen"
     ],
     [
       "菅平",
       "すがだいら",
       "スガダイラ",
-      "Sugadaira"
+      "sugadaira"
     ],
     [
       "峰の原",
       "みねのはら",
       "ミネノハラ",
-      "Minenohara",
-      "Minenohara"
+      "minenohara"
     ],
     [
       "戸倉上山田",
       "とくらかみやまだ",
       "トクラカミヤマダ",
-      "Togura Kamiyamada",
-      "Togura Kamiyamada"
+      "togura kamiyamada"
     ],
     [
       "千曲",
       "せんきょく",
       "センキョク",
-      "Chikuma",
-      "Senkyoku"
+      "chikuma"
     ],
     [
       "軽井沢",
       "かるいざわ",
       "カルイザワ",
-      "Karuizawa"
+      "karuizawa"
     ],
     [
       "佐久",
       "さく",
       "サク",
-      "Saku"
+      "saku"
     ],
     [
       "小諸",
       "こもろ",
       "コモロ",
-      "Komoro"
-    ],
-    [
-      "八ヶ岳",
-      "やつがたけ",
-      "ヤツガタケ",
-      "Yatsugatake"
+      "komoro"
     ],
     [
       "富士見",
       "ふじみ",
       "フジミ",
-      "Fujimi"
+      "fujimi"
     ],
     [
       "原村",
       "はらむら",
       "ハラムラ",
-      "Hara Village"
+      "hara village"
     ],
     [
       "野辺山",
       "のべやま",
       "ノベヤマ",
-      "Nobeyama"
+      "nobeyama"
     ],
     [
       "小海",
       "こかい",
       "コカイ",
-      "Koumi"
+      "koumi"
     ],
     [
       "蓼科",
       "たでか",
       "タデカ",
-      "Tateshina"
+      "tateshina"
     ],
     [
       "白樺湖",
       "しらかばこ",
       "シラカバコ",
-      "Shirakaba Lake"
+      "shirakaba lake"
     ],
     [
       "車山",
       "くるまやま",
       "クルマヤマ",
-      "Kurumayama"
+      "kurumayama"
     ],
     [
       "女神湖",
       "めがみこ",
       "メガミコ",
-      "Megami Lake"
+      "megami lake"
     ],
     [
       "姫木平",
       "ひめきだいら",
       "ヒメキダイラ",
-      "Himekihira"
+      "himekihira"
     ],
     [
       "諏訪",
       "すわ",
       "スワ",
-      "Suwa"
+      "suwa"
     ],
     [
       "岡谷",
       "おかや",
       "オカヤ",
-      "Okaya"
+      "okaya"
     ],
     [
       "霧ヶ峰",
       "きりがみね",
       "キリガミネ",
-      "Kirigamine"
+      "kirigamine"
     ],
     [
       "美ヶ原高原",
       "うつくしがはらこうげん",
       "ウツクシガハラコウゲン",
-      "Utsukushigahara Highlands"
+      "utsukushigahara highlands"
     ],
     [
       "白馬",
       "はくば",
       "ハクバ",
-      "Hakuba"
+      "hakuba"
     ],
     [
       "小谷",
       "おたに",
       "オタニ",
-      "Otari"
+      "otari"
     ],
     [
       "松本市中心部",
       "まつもとしちゅうしんぶ",
       "マツモトシチュウシンブ",
-      "Matsumoto city center"
+      "matsumoto city center"
     ],
     [
       "浅間",
       "あさま",
       "アサマ",
-      "Asama"
+      "asama"
     ],
     [
       "塩尻",
       "しおじり",
       "シオジリ",
-      "Shiojiri"
+      "shiojiri"
     ],
     [
       "上高地",
       "かみこうち",
       "カミコウチ",
-      "Kamikochi"
+      "kamikochi"
     ],
     [
       "乗鞍",
       "のりくら",
       "ノリクラ",
-      "Norikura"
+      "norikura"
     ],
     [
       "白骨",
       "はっこつ",
       "ハッコツ",
-      "Shirahone"
+      "shirahone"
     ],
     [
       "野麦峠",
       "のむぎとうげ",
       "ノムギトウゲ",
-      "Nomugi Pass"
+      "nomugi pass"
     ],
     [
       "木曽",
       "きそ",
       "キソ",
-      "Kiso"
+      "kiso"
     ],
     [
       "安曇野",
       "あずみの",
       "アズミノ",
-      "Azumino"
+      "azumino"
     ],
     [
       "大町",
       "おおまち",
       "オオマチ",
-      "Omachi"
+      "omachi"
     ],
     [
       "伊那",
       "いな",
       "イナ",
-      "Ina"
+      "ina"
     ],
     [
       "駒ヶ根",
       "こまがね",
       "コマガネ",
-      "Komagane"
+      "komagane"
     ],
     [
       "飯田",
       "いいだ",
       "イイダ",
-      "Iida"
+      "iida"
     ],
     [
       "昼神",
       "ひるかみ",
       "ヒルカミ",
-      "Hirugami",
-      "Hill Top"
+      "hirugami"
     ],
     [
       "飛騨",
       "ひだ",
       "ヒダ",
-      "Hida"
+      "hida"
     ],
     [
       "高山",
       "たかやま",
       "タカヤマ",
-      "Takayama"
+      "takayama"
     ],
     [
       "奥飛騨",
       "おくひだ",
       "オクヒダ",
-      "Okuhida",
-      "Oku-Hida",
       "okuhida"
     ],
     [
       "下呂",
       "げろ",
       "ゲロ",
-      "Gero"
+      "gero"
     ],
     [
       "南飛騨",
       "みなみひだ",
       "ミナミヒダ",
-      "Minami Hida"
+      "minami hida"
     ],
     [
       "郡上",
       "ぐじょう",
       "グジョウ",
-      "Gujo"
+      "gujo"
     ],
     [
       "関",
       "せき",
       "セキ",
-      "Seki"
+      "seki"
     ],
     [
       "美濃加茂",
       "みのかも",
       "ミノカモ",
-      "Minokamo"
+      "minokamo"
     ],
     [
       "恵那",
       "えな",
       "エナ",
-      "Ena"
+      "ena"
     ],
     [
       "馬籠",
       "まごめ",
       "マゴメ",
-      "Magome"
+      "magome"
     ],
     [
       "中津川",
       "なかつがわ",
       "ナカツガワ",
-      "Nakatsugawa",
-      "Nakatsugawa"
-    ],
-    [
-      "岐阜",
-      "ぎふ",
-      "ギフ",
-      "Gifu"
+      "nakatsugawa"
     ],
     [
       "大垣",
       "おおがき",
       "オオガキ",
-      "Ogaki"
+      "ogaki"
     ],
     [
       "白川郷",
       "しらかわごう",
       "シラカワゴウ",
-      "Shirakawago"
+      "shirakawago"
     ],
     [
       "荘川",
       "しょうかわ",
       "ショウカワ",
-      "Shokawa"
+      "shokawa"
     ],
     [
       "熱海",
       "あたみ",
       "アタミ",
-      "Atami"
+      "atami"
     ],
     [
       "初島",
       "はつしま",
       "ハツシマ",
-      "Hatsushima"
+      "hatsushima"
     ],
     [
       "伊東",
       "いとう",
       "イトウ",
-      "Ito"
+      "ito"
     ],
     [
       "宇佐美",
       "うさみ",
       "ウサミ",
-      "Usami"
+      "usami"
     ],
     [
       "川奈",
       "かわな",
       "カワナ",
-      "Kawana"
+      "kawana"
     ],
     [
       "伊豆高原",
       "いずこうげん",
       "イズコウゲン",
-      "Izu Kogen"
+      "izu kogen"
     ],
     [
       "東伊豆",
       "ひがしいず",
       "ヒガシイズ",
-      "Higashiizu"
+      "higashiizu"
     ],
     [
       "下田",
       "しもだ",
       "シモダ",
-      "Shimoda"
+      "shimoda"
     ],
     [
       "白浜",
       "しらはま",
       "シラハマ",
-      "Shirahama"
+      "shirahama"
     ],
     [
       "南伊豆",
       "みなみいず",
       "ミナミイズ",
-      "Minamiizu"
+      "minamiizu"
     ],
     [
       "西伊豆",
       "にしいず",
       "ニシイズ",
-      "Nishiizu"
+      "nishiizu"
     ],
     [
       "中伊豆",
       "なかいず",
       "ナカイズ",
-      "Nakaizu"
+      "nakaizu"
     ],
     [
       "沼津",
       "ぬまづ",
       "ヌマヅ",
-      "Numazu"
+      "numazu"
     ],
     [
       "三島",
       "みしま",
       "ミシマ",
-      "Mishima"
+      "mishima"
     ],
     [
       "御殿場",
       "ごてんば",
       "ゴテンバ",
-      "Gotemba"
+      "gotemba"
     ],
     [
       "富士",
       "ふじ",
       "フジ",
-      "Fuji"
-    ],
-    [
-      "静岡",
-      "しずおか",
-      "シズオカ",
-      "Shizuoka"
+      "fuji"
     ],
     [
       "清水",
       "しみず",
       "シミズ",
-      "Shimizu"
+      "shimizu"
     ],
     [
       "焼津",
       "やいづ",
       "ヤイヅ",
-      "Yaizu"
+      "yaizu"
     ],
     [
       "御前崎",
       "おまえざき",
       "オマエザキ",
-      "Omaezaki"
+      "omaezaki"
     ],
     [
       "大井川",
       "おおいがわ",
       "オオイガワ",
-      "Oigawa"
+      "oigawa"
     ],
     [
       "寸又峡",
       "すんまたかい",
       "スンマタカイ",
-      "Sumatakyo"
+      "sumatakyo"
     ],
     [
       "川根",
       "かわね",
       "カワネ",
-      "Kawane"
+      "kawane"
     ],
     [
       "浜松",
       "はままつ",
       "ハママツ",
-      "Hamamatsu"
+      "hamamatsu"
     ],
     [
       "浜名湖",
       "はまなこ",
       "ハマナコ",
-      "Lake Hamana"
+      "lake hamana"
     ],
     [
       "磐田",
       "いわた",
       "イワタ",
-      "Iwata"
+      "iwata"
     ],
     [
       "袋井",
       "ふくろい",
       "フクロイ",
-      "Fukuroi"
+      "fukuroi"
     ],
     [
       "掛川",
       "かけがわ",
       "カケガワ",
-      "Kakegawa"
+      "kakegawa"
     ],
     [
       "名古屋",
       "なごや",
       "ナゴヤ",
-      "Nagoya"
+      "nagoya"
     ],
     [
       "犬山",
       "いぬやま",
       "イヌヤマ",
-      "Inuyama"
+      "inuyama"
     ],
     [
       "瀬戸",
       "せと",
       "セト",
-      "Seto"
+      "seto"
     ],
     [
       "一宮",
       "いちのみや",
       "イチノミヤ",
-      "Ichinomiya"
+      "ichinomiya"
     ],
     [
       "津島",
       "つしま",
       "ツシマ",
-      "Tsushima"
+      "tsushima"
     ],
     [
       "大府",
       "おおふ",
       "オオフ",
-      "Obu"
-    ],
-    [
-      "東海",
-      "とうかい",
-      "トウカイ",
-      "Tokai"
+      "obu"
     ],
     [
       "知多半島",
       "ちたはんとう",
       "チタハントウ",
-      "Chita Peninsula"
+      "chita peninsula"
     ],
     [
       "三河湾",
       "みかわわん",
       "ミカワワン",
-      "Mikawa Bay"
+      "mikawa bay"
     ],
     [
       "豊橋",
       "とよはし",
       "トヨハシ",
-      "Toyohashi"
+      "toyohashi"
     ],
     [
       "渥美半島",
       "あつみはんとう",
       "アツミハントウ",
-      "Atsumi Peninsula"
+      "atsumi peninsula"
     ],
     [
       "岡崎",
       "おかざき",
       "オカザキ",
-      "Okazaki"
+      "okazaki"
     ],
     [
       "豊田",
       "とよだ",
       "トヨダ",
-      "Toyota"
+      "toyota"
     ],
     [
       "足助",
       "あすけ",
       "アスケ",
-      "Asuke"
+      "asuke"
     ],
     [
       "奥三河",
       "おくさんかわ",
       "オクサンカワ",
-      "Oku-Mikawa",
-      "Oku-Sakawa",
-      "okusagawa"
+      "oku-mikawa"
     ],
     [
       "鈴鹿",
       "すずか",
       "スズカ",
-      "Suzuka"
+      "suzuka"
     ],
     [
       "四日市",
       "よっかいち",
       "ヨッカイチ",
-      "Yokkaichi"
+      "yokkaichi"
     ],
     [
       "桑名",
       "くわな",
       "クワナ",
-      "Kuwana"
+      "kuwana"
     ],
     [
       "伊賀",
       "いが",
       "イガ",
-      "Iga"
+      "iga"
     ],
     [
       "名張",
       "なばり",
       "ナバリ",
-      "Nabari"
+      "nabari"
     ],
     [
       "津",
       "つ",
       "ツ",
-      "Tsu"
+      "tsu"
     ],
     [
       "松阪",
       "まつざか",
       "マツザカ",
-      "Matsusaka"
+      "matsusaka"
     ],
     [
       "中伊勢",
       "ちゅういぜい",
       "チュウイゼイ",
-      "Naka Ise"
+      "naka ise"
     ],
     [
       "伊勢",
       "いせ",
       "イセ",
-      "Ise"
+      "ise"
     ],
     [
       "二見",
       "ふたみ",
       "フタミ",
-      "Futami"
+      "futami"
     ],
     [
       "鳥羽",
       "とば",
       "トバ",
-      "Toba"
+      "toba"
     ],
     [
       "南鳥羽",
       "みなみとっぱ",
       "ミナミトッパ",
-      "Minami-Toba",
-      "Minami Toppa"
+      "minami-toba"
     ],
     [
       "志摩",
       "しま",
       "シマ",
-      "Shima"
+      "shima"
     ],
     [
       "奥伊勢",
       "おくいせ",
       "オクイセ",
-      "Oku-Ise"
+      "oku-ise"
     ],
     [
       "熊野",
       "くまの",
       "クマノ",
-      "Kumano"
+      "kumano"
     ],
     [
       "尾鷲",
       "おわせ",
       "オワセ",
-      "Owase"
+      "owase"
     ],
     [
       "大津",
       "おおつ",
       "オオツ",
-      "Otsu"
+      "otsu"
     ],
     [
       "彦根",
       "ひこね",
       "ヒコネ",
-      "Hikone"
+      "hikone"
     ],
     [
       "湖東三山",
       "ことうさんざん",
       "コトウサンザン",
-      "Koto Sanzan"
+      "koto sanzan"
     ],
     [
       "長浜",
       "ながはま",
       "ナガハマ",
-      "Nagahama"
+      "nagahama"
     ],
     [
       "湖北",
       "こほく",
       "コホク",
-      "Kohoku"
+      "kohoku"
     ],
     [
       "甲賀",
       "こうが",
       "コウガ",
-      "Koka"
+      "koka"
     ],
     [
       "信楽",
       "しがらき",
       "シガラキ",
-      "Shigaraki"
+      "shigaraki"
     ],
     [
       "湖西",
       "こさい",
       "コサイ",
-      "Kosai"
-    ],
-    [
-      "草津",
-      "くさつ",
-      "クサツ",
-      "Kusatsu"
+      "kosai"
     ],
     [
       "守山",
       "もりやま",
       "モリヤマ",
-      "Moriyama"
+      "moriyama"
     ],
     [
       "近江八幡",
       "おうみはちまん",
       "オウミハチマン",
-      "Omihachiman"
+      "omihachiman"
     ],
     [
       "雄琴",
       "おごと",
       "オゴト",
-      "Ogoto"
+      "ogoto"
     ],
     [
       "堅田",
       "かただ",
       "カタダ",
-      "Katata"
+      "katata"
     ],
     [
       "京都駅周辺",
       "きょうとえきしゅうへん",
       "キョウトエキシュウヘン",
-      "Kyoto Station area"
+      "kyoto station area"
     ],
     [
       "大原",
       "おおはら",
       "オオハラ",
-      "Ohara"
+      "ohara"
     ],
     [
       "鞍馬",
       "あんば",
       "アンバ",
-      "Kurama"
+      "kurama"
     ],
     [
       "貴船",
       "きぶね",
       "キブネ",
-      "Kifune"
+      "kifune"
     ],
     [
       "嵐山",
       "あらしやま",
       "アラシヤマ",
-      "Arashiyama"
+      "arashiyama"
     ],
     [
       "嵯峨野",
       "さがの",
       "サガノ",
-      "Sagano"
-    ],
-    [
-      "高雄",
-      "たかお",
-      "タカオ",
-      "Takao"
+      "sagano"
     ],
     [
       "長岡京",
       "ながおかきょう",
       "ナガオカキョウ",
-      "Nagaokakyo"
+      "nagaokakyo"
     ],
     [
       "宇治",
       "うじ",
       "ウジ",
-      "Uji"
+      "uji"
     ],
     [
       "南山城",
       "みなみやましろ",
       "ミナミヤマシロ",
-      "Minami Yamashiro"
+      "minamiyamashiro"
     ],
     [
       "亀岡",
       "かめおか",
       "カメオカ",
-      "Kameoka"
+      "kameoka"
     ],
     [
       "京丹波",
       "きょうたんば",
       "キョウタンバ",
-      "Kyotanba"
+      "kyotanba"
     ],
     [
       "天橋立",
       "あまのはしだて",
       "アマノハシダテ",
-      "Amanohashidate"
+      "amanohashidate"
     ],
     [
       "宮津",
       "みやづ",
       "ミヤヅ",
-      "Miyazu"
+      "miyazu"
     ],
     [
       "舞鶴",
       "まいづる",
       "マイヅル",
-      "Maizuru"
+      "maizuru"
     ],
     [
       "丹後",
       "たんご",
       "タンゴ",
-      "Tango"
+      "tango"
     ],
     [
       "久美浜",
       "くみはま",
       "クミハマ",
-      "Kumihama"
+      "kumihama"
     ],
     [
       "綾部",
       "あやべ",
       "アヤベ",
-      "Ayabe"
+      "ayabe"
     ],
     [
       "福知山",
       "ふくちやま",
       "フクチヤマ",
-      "Fukuchiyama"
+      "fukuchiyama"
     ],
     [
       "大阪北部",
       "おおさかほくぶ",
       "オオサカホクブ",
-      "North Osaka",
-      "Osaka North"
+      "north osaka"
     ],
     [
       "茨木",
       "いばらぎ",
       "イバラギ",
-      "Ibaraki"
+      "ibaraki"
     ],
     [
       "高槻",
       "たかつき",
       "タカツキ",
-      "Takatsuki"
+      "takatsuki"
     ],
     [
       "箕面",
       "みのお",
       "ミノオ",
-      "Mino"
+      "mino"
     ],
     [
       "伊丹空港",
       "いたみくうこう",
       "イタミクウコウ",
-      "Itami Airport"
+      "itami airport"
     ],
     [
       "梅田周辺",
       "うめだしゅうへん",
       "ウメダシュウヘン",
-      "Umeda area"
+      "umeda area"
     ],
     [
       "大阪東部",
       "おおさかとうぶ",
       "オオサカトウブ",
-      "East Osaka"
+      "east osaka"
     ],
     [
       "寝屋川",
       "ねやがわ",
       "ネヤガワ",
-      "Neyagawa"
+      "neyagawa"
     ],
     [
       "守口",
       "もりぐち",
       "モリグチ",
-      "Moriguchi"
+      "moriguchi"
     ],
     [
       "門真",
       "かどま",
       "カドマ",
-      "Kadoma"
+      "kadoma"
     ],
     [
       "東大阪",
       "ひがしおおさか",
       "ヒガシオオサカ",
-      "Higashi Osaka"
+      "higashi osaka"
     ],
     [
       "大阪南部",
       "おおさかなんぶ",
       "オオサカナンブ",
-      "South Osaka",
-      "Osaka South"
+      "south osaka"
     ],
     [
       "堺",
       "さかい",
       "サカイ",
-      "Sakai"
+      "sakai"
     ],
     [
       "岸和田",
       "きしわだ",
       "キシワダ",
-      "Kishiwada"
+      "kishiwada"
     ],
     [
       "関西空港",
       "かんさいくうこう",
       "カンサイクウコウ",
-      "Kansai Airport"
+      "kansai airport"
     ],
     [
       "大阪ベイエリア",
       "おおさかベイエリア",
       "オオサカベイエリア",
-      "Osaka Bay area"
+      "osaka bay area"
     ],
     [
-      "USJ周辺",
-      "USJしゅうへん",
-      "USJシュウヘン",
-      "USJ Area"
+      "usj周辺",
+      "usjしゅうへん",
+      "usjシュウヘン",
+      "usj area"
     ],
     [
       "神戸",
       "こうべ",
       "コウベ",
-      "Kobe"
+      "kobe"
     ],
     [
       "六甲",
       "ろっこう",
       "ロッコウ",
-      "Rokko"
+      "rokko"
     ],
     [
       "有馬",
       "ありま",
       "アリマ",
-      "Arima"
+      "arima"
     ],
     [
       "明石",
       "あかし",
       "アカシ",
-      "Akashi"
+      "akashi"
     ],
     [
       "東播磨",
       "ひがしはりま",
       "ヒガシハリマ",
-      "Higashi Harima",
-      "East Harima"
+      "higashi harima"
     ],
     [
       "宝塚",
       "たからづか",
       "タカラヅカ",
-      "Takarazuka"
+      "takarazuka"
     ],
     [
       "西宮",
       "にしのみや",
       "ニシノミヤ",
-      "Nishinomiya"
+      "nishinomiya"
     ],
     [
       "姫路",
       "ひめじ",
       "ヒメジ",
-      "Himeji"
+      "himeji"
     ],
     [
       "西播磨",
       "にしはりま",
       "ニシハリマ",
-      "Nishi Harima",
-      "West Harima"
+      "nishi harima"
     ],
     [
       "城崎",
       "きのさき",
       "キノサキ",
-      "Kinosaki"
+      "kinosaki"
     ],
     [
       "山陰海岸",
       "さんいんかいがん",
       "サンインカイガン",
-      "Sanin Coast"
+      "sanin coast"
     ],
     [
       "丹波",
       "たんば",
       "タンバ",
-      "Tamba"
+      "tamba"
     ],
     [
       "篠山",
       "しのやま",
       "シノヤマ",
-      "Sasayama"
+      "sasayama"
     ],
     [
       "但馬",
       "たじま",
       "タジマ",
-      "Tajima"
+      "tajima"
     ],
     [
       "淡路島",
       "あわじしま",
       "アワジシマ",
-      "Awaji Island"
-    ],
-    [
-      "奈良",
-      "なら",
-      "ナラ",
-      "Nara"
+      "awaji island"
     ],
     [
       "平城宮跡",
       "ひらじろみやあと",
       "ヒラジロミヤアト",
-      "Heijo Palace Ruins"
+      "heijo palace ruins"
     ],
     [
       "生駒",
       "いこま",
       "イコマ",
-      "Ikoma"
+      "ikoma"
     ],
     [
       "斑鳩",
       "いかる",
       "イカル",
-      "Ikaruga"
+      "ikaruga"
     ],
     [
       "橿原",
       "かしはら",
       "カシハラ",
-      "Kashihara"
+      "kashihara"
     ],
     [
       "飛鳥",
       "あすか",
       "アスカ",
-      "Asuka"
+      "asuka"
     ],
     [
       "葛城",
       "かつらぎ",
       "カツラギ",
-      "Katsuragi"
+      "katsuragi"
     ],
     [
       "宇陀",
       "うだ",
       "ウダ",
-      "Uda"
+      "uda"
     ],
     [
       "桜井",
       "さくらい",
       "サクライ",
-      "Sakurai"
+      "sakurai"
     ],
     [
       "山の辺",
       "やまのあたり",
       "ヤマノアタリ",
-      "Yamanobe"
+      "yamanobe"
     ],
     [
       "吉野",
       "よしの",
       "ヨシノ",
-      "Yoshino"
+      "yoshino"
     ],
     [
       "五條",
       "ごじょう",
       "ゴジョウ",
-      "Gojo"
+      "gojo"
     ],
     [
       "大峯",
       "おおみね",
       "オオミネ",
-      "Omine"
+      "omine"
     ],
     [
       "大台ケ原",
       "だいだいがはら",
       "ダイダイガハラ",
-      "Odaigahara"
-    ],
-    [
-      "和歌山",
-      "わかやま",
-      "ワカヤマ",
-      "Wakayama"
+      "odaigahara"
     ],
     [
       "紀の川",
       "きのかわ",
       "キノカワ",
-      "Kinokawa"
+      "kinokawa"
     ],
     [
       "高野山",
       "こうやさん",
       "コウヤサン",
-      "Koyasan"
+      "koyasan"
     ],
     [
       "海南",
       "かいなん",
       "カイナン",
-      "Kainan"
+      "kainan"
     ],
     [
       "有田",
       "ありた",
       "アリタ",
-      "Arita"
-    ],
-    [
-      "白浜",
-      "しらはま",
-      "シラハマ",
-      "Shirahama"
+      "arita"
     ],
     [
       "田辺",
       "たなべ",
       "タナベ",
-      "Tanabe"
+      "tanabe"
     ],
     [
       "龍神",
       "りゅうじん",
       "リュウジン",
-      "Ryujin"
-    ],
-    [
-      "熊野",
-      "くまの",
-      "クマノ",
-      "Kumano"
+      "ryujin"
     ],
     [
       "瀞峡",
       "とろかい",
       "トロカイ",
-      "Dorokyo Gorge"
+      "dorokyo gorge"
     ],
     [
       "串本",
       "くしもと",
       "クシモト",
-      "Kushimoto"
+      "kushimoto"
     ],
     [
       "那智勝浦",
       "なちかつうら",
       "ナチカツウラ",
-      "Nachikatsuura"
+      "nachikatsuura"
     ],
     [
       "御坊",
       "ごぼう",
       "ゴボウ",
-      "Gobo"
+      "gobo"
     ],
     [
       "日の岬",
       "にちのみさき",
       "ニチノミサキ",
-      "Hinomisaki",
-      "Nichinomi-saki",
-      "nichinomisaki"
+      "hinomisaki"
     ],
     [
       "みなべ",
       "ミナベ",
-      "Minabe"
-    ],
-    [
-      "鳥取",
-      "とっとり",
-      "トットリ",
-      "Tottori"
+      "minabe"
     ],
     [
       "浦富海岸",
       "うらどめかいざん",
       "ウラドメカイザン",
-      "Uradome Coast"
+      "uradome coast"
     ],
     [
       "倉吉",
       "くらよし",
       "クラヨシ",
-      "Kurayoshi"
+      "kurayoshi"
     ],
     [
       "三朝",
       "みささ",
       "ミササ",
-      "Misasa"
+      "misasa"
     ],
     [
       "湯梨浜",
       "ゆなしはま",
       "ユナシハマ",
-      "Yurihama",
-      "Yunashima"
+      "yurihama"
     ],
     [
       "米子",
       "よなご",
       "ヨナゴ",
-      "Yonago"
+      "yonago"
     ],
     [
       "皆生",
       "かいけ",
       "カイケ",
-      "Kaike"
+      "kaike"
     ],
     [
       "境港",
       "さかいみなと",
       "サカイミナト",
-      "Sakaiminato"
+      "sakaiminato"
     ],
     [
       "大山",
       "おおやま",
       "オオヤマ",
-      "Daisen"
+      "daisen"
     ],
     [
       "松江",
       "まつえ",
       "マツエ",
-      "Matsue"
+      "matsue"
     ],
     [
       "島根半島",
       "しまねはんとう",
       "シマネハントウ",
-      "Shimane Peninsula"
+      "shimane peninsula"
     ],
     [
       "安来",
       "やすぎ",
       "ヤスギ",
-      "Yasugi"
+      "yasugi"
     ],
     [
       "雲南",
       "うんなん",
       "ウンナン",
-      "Unnan"
+      "unnan"
     ],
     [
       "奥出雲",
       "おくいずも",
       "オクイズモ",
-      "Okuizumo"
+      "okuizumo"
     ],
     [
       "出雲",
       "いずも",
       "イズモ",
-      "Izumo"
+      "izumo"
     ],
     [
       "浜田",
       "はまだ",
       "ハマダ",
-      "Hamada"
+      "hamada"
     ],
     [
       "江津",
       "ごうつ",
       "ゴウツ",
-      "Gotsu"
-    ],
-    [
-      "大田",
-      "おおた",
-      "オオタ",
-      "Oda"
+      "gotsu"
     ],
     [
       "益田",
       "ますだ",
       "マスダ",
-      "Masuda"
+      "masuda"
     ],
     [
       "津和野",
       "つわの",
       "ツワノ",
-      "Tsuwano"
+      "tsuwano"
     ],
     [
       "隠岐",
       "おき",
       "オキ",
-      "Oki"
-    ],
-    [
-      "岡山",
-      "おかやま",
-      "オカヤマ",
-      "Okayama"
+      "oki"
     ],
     [
       "吉備路",
       "きびじ",
       "キビジ",
-      "Kibi Road"
+      "kibi road"
     ],
     [
       "牛窓",
       "うしまど",
       "ウシマド",
-      "Ushimado"
+      "ushimado"
     ],
     [
       "備前",
       "びぜん",
       "ビゼン",
-      "Bizen"
+      "bizen"
     ],
     [
       "倉敷",
       "くらしき",
       "クラシキ",
-      "Kurashiki"
+      "kurashiki"
     ],
     [
       "瀬戸大橋",
       "せとおおはし",
       "セトオオハシ",
-      "Seto Ohashi Bridge"
+      "seto ohashi bridge"
     ],
     [
       "笠岡",
       "かさおか",
       "カサオカ",
-      "Kasaoka"
+      "kasaoka"
     ],
     [
       "井原",
       "いはら",
       "イハラ",
-      "Ibara"
+      "ibara"
     ],
     [
       "蒜山",
       "ひるぜん",
       "ヒルゼン",
-      "Hiruzen"
+      "hiruzen"
     ],
     [
       "湯原",
       "ゆはら",
       "ユハラ",
-      "Yubara"
+      "yubara"
     ],
     [
       "津山",
       "つやま",
       "ツヤマ",
-      "Tsuyama"
+      "tsuyama"
     ],
     [
       "美作",
       "みさく",
       "ミサク",
-      "Mimasaka"
+      "mimasaka"
     ],
     [
       "高梁",
       "たかはし",
       "タカハシ",
-      "Takahashi"
+      "takahashi"
     ],
     [
       "新見",
       "にいみ",
       "ニイミ",
-      "Niimi"
+      "niimi"
     ],
     [
       "尾道",
       "おのみち",
       "オノミチ",
-      "Onomichi"
+      "onomichi"
     ],
     [
       "福山",
       "ふくやま",
       "フクヤマ",
-      "Fukuyama"
+      "fukuyama"
     ],
     [
       "鞆の浦",
       "鞆のうら",
       "鞆ノウラ",
-      "Tomonoura"
+      "tomonoura"
     ],
     [
       "庄原",
       "しょうばら",
       "ショウバラ",
-      "Shibara"
+      "shibara"
     ],
     [
       "帝釈峡",
       "たいしゃくきょう",
       "タイシャクキョウ",
-      "Taishaku Gorge"
-    ],
-    [
-      "広島",
-      "ひろしま",
-      "ヒロシマ",
-      "Hiroshima"
+      "taishaku gorge"
     ],
     [
       "宮島",
       "みやじま",
       "ミヤジマ",
-      "Miyajima"
+      "miyajima"
     ],
     [
       "竹原",
       "たけはら",
       "タケハラ",
-      "Takehara"
+      "takehara"
     ],
     [
       "三原",
       "みはら",
       "ミハラ",
-      "Mihara"
+      "mihara"
     ],
     [
       "呉",
       "ご",
       "ゴ",
-      "Kure"
+      "kure"
     ],
     [
       "江田島",
       "えたじま",
       "エタジマ",
-      "Etajima"
+      "etajima"
     ],
     [
       "しまなみ海道",
       "しまなみかいどう",
       "シマナミカイドウ",
-      "Shimanami Kaido"
+      "shimanami kaido"
     ],
     [
       "とびしま海道",
       "とびしまかいどう",
       "トビシマカイドウ",
-      "Tobishima Kaido"
+      "tobishima kaido"
     ],
     [
       "三段峡",
       "さんだんきょう",
       "サンダンキョウ",
-      "Sandankyo"
+      "sandankyo"
     ],
     [
       "三次",
       "さんじ",
       "サンジ",
-      "Miyoshi"
+      "miyoshi"
     ],
     [
       "世羅",
       "せら",
       "セラ",
-      "Sera"
+      "sera"
     ],
     [
       "岩国",
       "いわくに",
       "イワクニ",
-      "Iwakuni"
+      "iwakuni"
     ],
     [
       "柳井",
       "やない",
       "ヤナイ",
-      "Yanai"
+      "yanai"
     ],
     [
       "周南",
       "しゅうみなみ",
       "シュウミナミ",
-      "Shunan"
+      "shunan"
     ],
     [
       "下松",
       "くだまつ",
       "クダマツ",
-      "Kudamatsu"
+      "kudamatsu"
     ],
     [
       "光",
       "ひかり",
       "ヒカリ",
-      "Hikari"
-    ],
-    [
-      "山口",
-      "やまぐち",
-      "ヤマグチ",
-      "Yamaguchi"
+      "hikari"
     ],
     [
       "防府",
       "ほうふ",
       "ホウフ",
-      "Hofu"
+      "hofu"
     ],
     [
       "秋吉台",
       "あきよしだい",
       "アキヨシダイ",
-      "Akiyoshidai"
+      "akiyoshidai"
     ],
     [
       "萩",
       "はぎ",
       "ハギ",
-      "Hagi"
+      "hagi"
     ],
     [
       "長門",
       "ながと",
       "ナガト",
-      "Nagato"
+      "nagato"
     ],
     [
       "下関",
       "しものせき",
       "シモノセキ",
-      "Shimonoseki"
+      "shimonoseki"
     ],
     [
       "宇部",
       "うべ",
       "ウベ",
-      "Ube"
-    ],
-    [
-      "徳島",
-      "とくしま",
-      "トクシマ",
-      "Tokushima"
+      "ube"
     ],
     [
       "鳴門",
       "なると",
       "ナルト",
-      "Naruto"
+      "naruto"
     ],
     [
       "阿南",
       "あなみ",
       "アナミ",
-      "Anan"
+      "anan"
     ],
     [
       "海陽",
       "かいよう",
       "カイヨウ",
-      "Kaiyo"
+      "kaiyo"
     ],
     [
       "祖谷渓",
       "そたにけい",
       "ソタニケイ",
-      "Iya Valley"
+      "iya valley"
     ],
     [
       "剣山",
       "けんざん",
       "ケンザン",
-      "Mt. Tsurugi"
+      "mt. tsurugi"
     ],
     [
       "吉野川流域",
       "よしのがわりゅういき",
       "ヨシノガワリュウイキ",
-      "Yoshino River"
+      "yoshino river"
     ],
     [
       "高松",
       "たかまつ",
       "タカマツ",
-      "Takamatsu"
+      "takamatsu"
     ],
     [
       "琴平",
       "ことひら",
       "コトヒラ",
-      "Kotohira"
+      "kotohira"
     ],
     [
       "観音寺",
       "かんのんじ",
       "カンノンジ",
-      "Kanonji"
+      "kanonji"
     ],
     [
       "坂出",
       "さかいで",
       "サカイデ",
-      "Sakaide"
+      "sakaide"
     ],
     [
       "丸亀",
       "まるがめ",
       "マルガメ",
-      "Marugame"
+      "marugame"
     ],
     [
       "塩飽諸島",
       "しわくしょとう",
       "シワクショトウ",
-      "Shiwaku Islands"
+      "shiwaku islands"
     ],
     [
       "小豆島",
       "しょうどしま",
       "ショウドシマ",
-      "Shodoshima"
+      "shodoshima"
     ],
     [
       "さぬき",
       "サヌキ",
-      "Sanuki"
+      "sanuki"
     ],
     [
       "東かがわ",
       "ひがしかがわ",
       "ヒガシカガワ",
-      "Higashikagawa",
-      "East Kagawa"
+      "higashikagawa"
     ],
     [
       "松山",
       "まつやま",
       "マツヤマ",
-      "Matsuyama"
+      "matsuyama"
     ],
     [
       "伊予",
       "いよ",
       "イヨ",
-      "Iyo"
+      "iyo"
     ],
     [
       "今治",
       "いまばり",
       "イマバリ",
-      "Imabari"
-    ],
-    [
-      "しまなみ海道",
-      "しまなみかいどう",
-      "シマナミカイドウ",
-      "Shimanami Kaido"
-    ],
-    [
-      "西条",
-      "さいじょう",
-      "サイジョウ",
-      "Saijo"
+      "imabari"
     ],
     [
       "石鎚山",
       "いしづちさん",
       "イシヅチサン",
-      "Mt. Ishizuchi"
+      "mt. ishizuchi"
     ],
     [
       "新居浜",
       "にいはま",
       "ニイハマ",
-      "Niihama"
+      "niihama"
     ],
     [
       "内子",
       "うちこ",
       "ウチコ",
-      "Uchiko"
+      "uchiko"
     ],
     [
       "大洲",
       "おおす",
       "オオス",
-      "Ozu"
+      "ozu"
     ],
     [
       "佐田岬",
       "さたみさき",
       "サタミサキ",
-      "Sadamisaki"
+      "sadamisaki"
     ],
     [
       "久万高原",
       "くまこうげん",
       "クマコウゲン",
-      "Kuma Kogen"
+      "kuma kogen"
     ],
     [
       "面河渓",
       "おもごけい",
       "オモゴケイ",
-      "Omogokei"
+      "omogokei"
     ],
     [
       "四国カルスト",
       "しこくカルスト",
       "シコクカルスト",
-      "Shikoku Karst",
-      "Shikoku Karst"
+      "shikoku karst"
     ],
     [
       "西予",
       "にし予",
       "ニシ予",
-      "Seiyo"
+      "seiyo"
     ],
     [
       "宇和島",
       "うわじま",
       "ウワジマ",
-      "Uwajima"
+      "uwajima"
     ],
     [
       "愛南",
       "あいみなみ",
       "アイミナミ",
-      "Ainan"
-    ],
-    [
-      "高知",
-      "こうち",
-      "コウチ",
-      "Kochi"
+      "ainan"
     ],
     [
       "いの",
       "イノ",
-      "Ino"
+      "ino"
     ],
     [
       "南国",
       "なんごく",
       "ナンゴク",
-      "Nankoku"
+      "nankoku"
     ],
     [
       "龍河洞",
       "りゅうかわほら",
       "リュウカワホラ",
-      "Ryugado Cave"
+      "ryugado cave"
     ],
     [
       "嶺北",
       "みねきた",
       "ミネキタ",
-      "Reihoku"
+      "reihoku"
     ],
     [
       "安芸",
       "あき",
       "アキ",
-      "Aki"
+      "aki"
     ],
     [
       "室戸",
       "むろと",
       "ムロト",
-      "Muroto"
+      "muroto"
     ],
     [
       "土佐",
       "とさ",
       "トサ",
-      "Tosa"
+      "tosa"
     ],
     [
       "横浪",
       "よこなみ",
       "ヨコナミ",
-      "Yokonami"
-    ],
-    [
-      "四国カルスト",
-      "しこくカルスト",
-      "シコクカルスト",
-      "Shikoku Karst",
-      "Shikoku Karst"
+      "yokonami"
     ],
     [
       "四万十",
       "よんまんじゅう",
       "ヨンマンジュウ",
-      "Shimanto"
+      "shimanto"
     ],
     [
       "足摺",
       "あしずり",
       "アシズリ",
-      "Ashizuri"
+      "ashizuri"
     ],
     [
       "宿毛",
       "すくも",
       "スクモ",
-      "Sukumo"
+      "sukumo"
     ],
     [
       "福岡市",
       "ふくおかし",
       "フクオカシ",
-      "Fukuoka city",
-      "Fukuoka City"
+      "fukuoka city"
     ],
     [
       "博多",
       "はかた",
       "ハカタ",
-      "Hakata"
+      "hakata"
     ],
     [
       "天神",
       "てんじん",
       "テンジン",
-      "Tenjin"
+      "tenjin"
     ],
     [
       "太宰府",
       "だざいふ",
       "ダザイフ",
-      "Dazaifu"
+      "dazaifu"
     ],
     [
       "宗像",
       "むなかた",
       "ムナカタ",
-      "Munakata"
+      "munakata"
     ],
     [
       "糸島",
       "いとしま",
       "イトシマ",
-      "Itoshima"
+      "itoshima"
     ],
     [
       "前原",
       "まえはら",
       "マエハラ",
-      "Maebaru"
+      "maebaru"
     ],
     [
       "久留米",
       "くるよね",
       "クルヨネ",
-      "Kurume",
-      "Kuruyone"
+      "kurume"
     ],
     [
       "原鶴",
       "はらつる",
       "ハラツル",
-      "Harazuru"
+      "harazuru"
     ],
     [
       "筑後川",
       "ちくごがわ",
       "チクゴガワ",
-      "Chikugo River"
+      "chikugo river"
     ],
     [
       "柳川",
       "やながわ",
       "ヤナガワ",
-      "Yanagawa"
+      "yanagawa"
     ],
     [
       "八女",
       "はちじょ",
       "ハチジョ",
-      "Yame",
-      "Hachijo"
+      "yame"
     ],
     [
       "筑後",
       "ちくご",
       "チクゴ",
-      "Chikugo"
+      "chikugo"
     ],
     [
       "北九州",
       "きたきゅうしゅう",
       "キタキュウシュウ",
-      "Kitakyushu"
+      "kitakyushu"
     ],
     [
       "小倉",
       "おぐら",
       "オグラ",
-      "Kokura"
+      "kokura"
     ],
     [
       "門司",
       "もじ",
       "モジ",
-      "Moji"
-    ],
-    [
-      "佐賀",
-      "さが",
-      "サガ",
-      "Saga"
+      "moji"
     ],
     [
       "吉野ケ里",
       "よしのがり",
       "ヨシノガリ",
-      "Yoshinogari"
+      "yoshinogari"
     ],
     [
       "鳥栖",
       "とす",
       "トス",
-      "Tosu"
+      "tosu"
     ],
     [
       "小城",
       "おぎ",
       "オギ",
-      "Ogi"
+      "ogi"
     ],
     [
       "多久",
       "たく",
       "タク",
-      "Taku"
+      "taku"
     ],
     [
       "唐津",
       "からつ",
       "カラツ",
-      "Karatsu"
+      "karatsu"
     ],
     [
       "呼子",
       "よびこ",
       "ヨビコ",
-      "Yobuko"
+      "yobuko"
     ],
     [
       "伊万里",
       "いまり",
       "イマリ",
-      "Imari"
-    ],
-    [
-      "有田",
-      "ありた",
-      "アリタ",
-      "Arita"
+      "imari"
     ],
     [
       "嬉野",
       "うれしの",
       "ウレシノ",
-      "Ureshino"
+      "ureshino"
     ],
     [
       "武雄",
       "たけお",
       "タケオ",
-      "Takeo"
-    ],
-    [
-      "鹿島",
-      "かしま",
-      "カシマ",
-      "Kashima"
+      "takeo"
     ],
     [
       "太良",
       "たら",
       "タラ",
-      "Tara"
+      "tara"
     ],
     [
       "平戸",
       "ひらど",
       "ヒラド",
-      "Hirado"
+      "hirado"
     ],
     [
       "松浦",
       "まつうら",
       "マツウラ",
-      "Matsuura"
+      "matsuura"
     ],
     [
       "田平",
       "たひら",
       "タヒラ",
-      "Tabira"
+      "tabira"
     ],
     [
       "佐世保",
       "させぼ",
       "サセボ",
-      "Sasebo"
+      "sasebo"
     ],
     [
       "西海",
       "にしうみ",
       "ニシウミ",
-      "Saikai"
+      "saikai"
     ],
     [
       "九十九島",
       "つくもじま",
       "ツクモジマ",
-      "Kujukushima"
+      "kujukushima"
     ],
     [
       "島原",
       "しまばら",
       "シマバラ",
-      "Shimabara"
+      "shimabara"
     ],
     [
       "雲仙",
       "うんぜん",
       "ウンゼン",
-      "Unzen"
+      "unzen"
     ],
     [
       "小浜",
       "おばま",
       "オバマ",
-      "Obama"
+      "obama"
     ],
     [
       "五島列島",
       "ごとうれっとう",
       "ゴトウレットウ",
-      "Goto Islands"
+      "goto islands"
     ],
     [
       "壱岐",
       "いき",
       "イキ",
-      "Iki"
-    ],
-    [
-      "対馬",
-      "つしま",
-      "ツシマ",
-      "Tsushima"
+      "iki"
     ],
     [
       "諫早",
       "諫はや",
       "諫ハヤ",
-      "Isahaya"
+      "isahaya"
     ],
     [
       "大村",
       "おおむら",
       "オオムラ",
-      "Omura"
+      "omura"
     ],
     [
       "玉名",
       "たまな",
       "タマナ",
-      "Tamana"
+      "tamana"
     ],
     [
       "山鹿",
       "やまが",
       "ヤマガ",
-      "Yamaga"
+      "yamaga"
     ],
     [
       "菊池",
       "きくち",
       "キクチ",
-      "Kikuchi"
+      "kikuchi"
     ],
     [
       "黒川",
       "くろかわ",
       "クロカワ",
-      "Kurokawa"
+      "kurokawa"
     ],
     [
       "杖立",
       "つえたて",
       "ツエタテ",
-      "Tsue-tate",
-      "Tsue tate",
+      "tsue-tate",
+      "tsue tate",
       "tsuetate"
     ],
     [
       "わいた",
       "ワイタ",
-      "Waita"
+      "waita"
     ],
     [
       "阿蘇",
       "あそ",
       "アソ",
-      "Aso"
+      "aso"
     ],
     [
       "八代",
       "はちだい",
       "ハチダイ",
-      "Yatsushiro"
+      "yatsushiro"
     ],
     [
       "水俣",
       "みなまた",
       "ミナマタ",
-      "Minamata"
+      "minamata"
     ],
     [
       "湯の児",
       "ゆのこ",
       "ユノコ",
-      "Yunoko"
+      "yunoko"
     ],
     [
       "人吉",
       "ひとよし",
       "ヒトヨシ",
-      "Hitoyoshi"
+      "hitoyoshi"
     ],
     [
       "球磨",
       "くま",
       "クマ",
-      "Kuma"
+      "kuma"
     ],
     [
       "天草",
       "てんぐさ",
       "テングサ",
-      "Amakusa"
-    ],
-    [
-      "大分",
-      "おおいた",
-      "オオイタ",
-      "Oita"
+      "amakusa"
     ],
     [
       "佐賀関",
       "さがせき",
       "サガセキ",
-      "Saganoseki",
-      "Sagaseki"
+      "saganoseki"
     ],
     [
       "別府",
       "べっぷ",
       "ベップ",
-      "Beppu"
+      "beppu"
     ],
     [
       "湯布院",
       "ゆふいん",
       "ユフイン",
-      "Yufuin"
+      "yufuin"
     ],
     [
       "国東半島",
       "くにさきはんとう",
       "クニサキハントウ",
-      "Kunisaki Peninsula"
+      "kunisaki peninsula"
     ],
     [
       "豊後高田",
       "ぶんごたかだ",
       "ブンゴタカダ",
-      "Bungotakada"
+      "bungotakada"
     ],
     [
       "日田",
       "ひた",
       "ヒタ",
-      "Hita"
+      "hita"
     ],
     [
       "天ケ瀬",
       "あまがせ",
       "アマガセ",
-      "Amagase"
+      "amagase"
     ],
     [
       "九重",
       "ここのえ",
       "ココノエ",
-      "Kuju"
+      "kuju"
     ],
     [
       "宇佐",
       "うさ",
       "ウサ",
-      "Usa"
+      "usa"
     ],
     [
       "中津",
       "なかつ",
       "ナカツ",
-      "Nakatsu"
+      "nakatsu"
     ],
     [
       "耶馬溪",
       "やばけい",
       "ヤバケイ",
-      "Yabakei"
+      "yabakei"
     ],
     [
       "豊後大野",
       "ぶんごおおの",
       "ブンゴオオノ",
-      "Bungo-Ono",
-      "Bungo Ono"
+      "bungo-ono"
     ],
     [
       "竹田",
       "たけだ",
       "タケダ",
-      "Taketa"
+      "taketa"
     ],
     [
       "臼杵",
       "うすき",
       "ウスキ",
-      "Usuki"
+      "usuki"
     ],
     [
       "佐伯",
       "さえき",
       "サエキ",
-      "Saiki"
-    ],
-    [
-      "宮崎",
-      "みやざき",
-      "ミヤザキ",
-      "Miyazaki"
+      "saiki"
     ],
     [
       "綾",
       "あや",
       "アヤ",
-      "Aya"
+      "aya"
     ],
     [
       "日南海岸",
       "にちなんかいがん",
       "ニチナンカイガン",
-      "Nichinan Coast"
+      "nichinan coast"
     ],
     [
       "都城",
       "みやこのじょう",
       "ミヤコノジョウ",
-      "Miyakonojo"
+      "miyakonojo"
     ],
     [
       "えびの",
       "エビノ",
-      "Ebino"
+      "ebino"
     ],
     [
       "小林",
       "こばやし",
       "コバヤシ",
-      "Kobayashi"
+      "kobayashi"
     ],
     [
       "高千穂",
       "たかちほ",
       "タカチホ",
-      "Takachiho"
+      "takachiho"
     ],
     [
       "延岡",
       "のべおか",
       "ノベオカ",
-      "Nobeoka"
+      "nobeoka"
     ],
     [
       "日向",
       "ひなた",
       "ヒナタ",
-      "Hyuga"
+      "hyuga"
     ],
     [
       "奥日向",
       "おくひなた",
       "オクヒナタ",
-      "Oku Hyuga",
-      "Oku-Hinata",
-      "okuhinata"
+      "oku hyuga"
     ],
     [
       "椎葉",
       "しいば",
       "シイバ",
-      "Shiiba"
+      "shiiba"
     ],
     [
       "西都",
       "さいと",
       "サイト",
-      "Saito"
+      "saito"
     ],
     [
       "日向灘",
       "ひゅうがなだ",
       "ヒュウガナダ",
-      "Hyuga-nada",
-      "Hyuga nada",
+      "hyuga-nada",
+      "hyuga nada",
       "hyuganada"
-    ],
-    [
-      "鹿児島",
-      "かごしま",
-      "カゴシマ",
-      "Kagoshima"
     ],
     [
       "桜島",
       "さくらじま",
       "サクラジマ",
-      "Sakurajima"
+      "sakurajima"
     ],
     [
       "指宿",
       "いぶすき",
       "イブスキ",
-      "Ibusuki"
+      "ibusuki"
     ],
     [
       "知覧",
       "ちらん",
       "チラン",
-      "Chiran"
+      "chiran"
     ],
     [
       "枕崎",
       "まくらざき",
       "マクラザキ",
-      "Makurazaki"
+      "makurazaki"
     ],
     [
       "垂水",
       "たるみ",
       "タルミ",
-      "Tarumizu"
+      "tarumizu"
     ],
     [
       "大隅",
       "おおすみ",
       "オオスミ",
-      "Osumi"
+      "osumi"
     ],
     [
       "霧島",
       "きりしま",
       "キリシマ",
-      "Kirishima"
+      "kirishima"
     ],
     [
       "出水",
       "しゅっすい",
       "シュッスイ",
-      "Izumi"
+      "izumi"
     ],
     [
       "川内",
       "かわうち",
       "カワウチ",
-      "Sendai"
+      "sendai"
     ],
     [
       "串木野",
       "くしきの",
       "クシキノ",
-      "Kushikino"
+      "kushikino"
     ],
     [
       "奄美大島諸島",
       "あまみおおしましょとう",
       "アマミオオシマショトウ",
-      "Amami Islands"
+      "amami islands"
     ],
     [
       "沖永良部島",
       "おきのえらぶしま",
       "オキノエラブシマ",
-      "Okinoerabu Island"
+      "okinoerabu island"
     ],
     [
       "屋久島",
       "やくしま",
       "ヤクシマ",
-      "Yakushima"
+      "yakushima"
     ],
     [
       "種子島",
       "たねがしま",
       "タネガシマ",
-      "Tanegashima"
+      "tanegashima"
     ],
     [
       "鹿児島その他離島",
       "かごしまそのたりとう",
       "カゴシマソノタリトウ",
-      "Other Kagoshima Islands"
+      "other kagoshima islands"
     ],
     [
       "那覇市",
       "なはし",
       "ナハシ",
-      "Naha city"
+      "naha city"
     ],
     [
       "沖縄市",
       "おきなわし",
       "オキナワシ",
-      "Okinawa city"
+      "okinawa city"
     ],
     [
       "うるま市",
       "うるまし",
       "ウルマシ",
-      "Uruma City"
+      "uruma city"
     ],
     [
       "津堅島",
       "つけんじま",
       "ツケンジマ",
-      "Tsuken Island"
+      "tsuken island"
     ],
     [
       "青の洞窟",
       "あおのどうくつ",
       "アオノドウクツ",
-      "Blue Cave"
+      "blue cave"
     ],
     [
       "南城市",
       "なんじょうし",
       "ナンジョウシ",
-      "Nanjo city"
+      "nanjo city"
     ],
     [
       "久高島",
       "くだかじま",
       "クダカジマ",
-      "Kudaka Island"
+      "kudaka island"
     ],
     [
       "名護市",
       "なごし",
       "ナゴシ",
-      "Nago city"
+      "nago city"
     ],
     [
       "今帰仁村",
       "なきじんむら",
       "ナキジンムラ",
-      "Nakijin Village",
-      "Nakijin Village"
+      "nakijin village"
     ],
     [
       "古宇利島",
       "ふるうとしま",
       "フルウトシマ",
-      "Kouri Island"
+      "kouri island"
     ],
     [
       "恩納村",
       "おんなむら",
       "オンナムラ",
-      "Onna village",
-      "Onna Village"
+      "onna village"
     ],
     [
       "久米島",
       "くめじま",
       "クメジマ",
-      "Kume Island"
+      "kume island"
     ],
     [
       "はての浜",
       "はてのはま",
       "ハテノハマ",
-      "Hatenohama"
+      "hatenohama"
     ],
     [
       "宮古島",
       "みやこじま",
       "ミヤコジマ",
-      "Miyako Island"
+      "miyako island"
     ],
     [
       "伊良部島",
       "いらぶじま",
       "イラブジマ",
-      "Irabu Island"
+      "irabu island"
     ],
     [
       "下地島",
       "しもじしま",
       "シモジシマ",
-      "Shimoji Island"
+      "shimoji island"
     ],
     [
       "来間島",
       "くりまじま",
       "クリマジマ",
-      "Kurima Island"
+      "kurima island"
     ],
     [
       "池間島",
       "いけまじま",
       "イケマジマ",
-      "Ikema Island"
+      "ikema island"
     ],
     [
       "石垣島",
       "いしがきじま",
       "イシガキジマ",
-      "Ishigaki Island"
+      "ishigaki island"
     ],
     [
       "与那国島",
       "よなぐにじま",
       "ヨナグニジマ",
-      "Yonaguni Island"
+      "yonaguni island"
     ],
     [
       "竹富島",
       "たけとみじま",
       "タケトミジマ",
-      "Taketomi Island"
+      "taketomi island"
     ],
     [
       "小浜島",
       "こはまじま",
       "コハマジマ",
-      "Kohama Island"
+      "kohama island"
     ],
     [
       "黒島",
       "くろしま",
       "クロシマ",
-      "Kuroshima"
+      "kuroshima"
     ],
     [
       "新城島",
       "あらぐすくじま",
       "アラグスクジマ",
-      "Aragusuku Island"
+      "aragusuku island"
     ],
     [
       "波照間島",
       "はてるまじま",
       "ハテルマジマ",
-      "Hateruma Island"
+      "hateruma island"
     ],
     [
       "浦添市",
       "うらぞえし",
       "ウラゾエシ",
-      "Urasoe city"
+      "urasoe city"
     ],
     [
       "宜野湾市",
       "ぎのわんし",
       "ギノワンシ",
-      "Ginowan City",
-      "Ginowan City"
+      "ginowan city"
     ],
     [
       "読谷村",
       "よみたんむら",
       "ヨミタンムラ",
-      "Yomitan village",
-      "Yomitan Village"
+      "yomitan village"
     ],
     [
       "残波岬",
       "ざんぱみさき",
       "ザンパミサキ",
-      "Zanpa Cape"
+      "zanpa cape"
     ],
     [
       "嘉手納市",
       "かでなし",
       "カデナシ",
-      "Kadena City",
-      "Kadena City"
+      "kadena city"
     ],
     [
       "北谷町",
       "ちゃたんまち",
       "チャタンマチ",
-      "Chatan Town",
-      "Chatan Town"
+      "chatan town"
     ],
     [
       "やんばる",
       "ヤンバル",
-      "Yambaru"
+      "yambaru"
     ],
     [
       "国頭村",
       "くにがみむら",
       "クニガミムラ",
-      "Kunigami village",
-      "Kunigami Village"
+      "kunigami village"
     ],
     [
       "大宜味村",
       "おおぎみむら",
       "オオギミムラ",
-      "Ogimi Village",
-      "Ogimi Village"
+      "ogimi village"
     ],
     [
       "東村",
       "あずまむら",
       "アズマムラ",
-      "Higashi Village"
+      "higashi village"
     ],
     [
       "西表島",
       "いりおもてじま",
       "イリオモテジマ",
-      "Iriomote Island"
+      "iriomote island"
     ],
     [
       "由布島",
       "ゆぶじま",
       "ユブジマ",
-      "Yubu Island"
+      "yubu island"
     ],
     [
       "バラス島",
       "バラスとう",
       "バラストウ",
-      "Barasu Island"
+      "barasu island"
     ],
     [
       "鳩間島",
       "はとまじま",
       "ハトマジマ",
-      "Hatoma Island"
+      "hatoma island"
     ],
     [
       "小笠原",
       "おがさわら",
       "オガサワラ",
-      "Ogasawara"
+      "ogasawara"
     ],
     [
       "渋谷",
       "しぶや",
       "シブヤ",
-      "Shibuya"
+      "shibuya"
     ],
     [
       "原宿",
       "はらじゅく",
       "ハラジュク",
-      "Harajuku"
+      "harajuku"
     ],
     [
       "六本木",
       "ろっぽんぎ",
       "ロッポンギ",
-      "Roppongi"
+      "roppongi"
     ],
     [
       "青山",
       "あおやま",
       "アオヤマ",
-      "Aoyama"
+      "aoyama"
     ],
     [
       "新宿",
       "しんじゅく",
       "シンジュク",
-      "Shinjuku"
+      "shinjuku"
     ],
     [
       "代々木",
       "よよぎ",
       "ヨヨギ",
-      "Yoyogi"
+      "yoyogi"
     ],
     [
       "秋葉原",
       "あきはばら",
       "アキハバラ",
-      "Akihabara"
+      "akihabara"
     ],
     [
       "神田",
       "かんだ",
       "カンダ",
-      "Kanda"
+      "kanda"
     ],
     [
       "水道橋",
       "すいどうばし",
       "スイドウバシ",
-      "Suidobashi"
+      "suidobashi"
     ],
     [
       "銀座",
       "ぎんざ",
       "ギンザ",
-      "Ginza"
+      "ginza"
     ],
     [
       "築地",
       "つきじ",
       "ツキジ",
-      "Tsukiji"
+      "tsukiji"
     ],
     [
       "池袋",
       "いけぶくろ",
       "イケブクロ",
-      "Ikebukuro"
+      "ikebukuro"
     ],
     [
       "お台場",
       "おだいば",
       "オダイバ",
-      "Odaiba"
+      "odaiba"
     ],
     [
       "豊洲",
       "とよす",
       "トヨス",
-      "Toyosu"
+      "toyosu"
     ],
     [
       "スカイツリー",
-      "Sky Tree"
+      "sky tree"
     ],
     [
       "両国",
       "りょうこく",
       "リョウコク",
-      "Ryogoku"
+      "ryogoku"
     ],
     [
       "世田谷",
       "せたがや",
       "セタガヤ",
-      "Setagaya"
+      "setagaya"
     ],
     [
       "杉並",
       "すぎなみ",
       "スギナミ",
-      "Suginami"
+      "suginami"
     ],
     [
       "中野",
       "なかの",
       "ナカノ",
-      "Nakano"
+      "nakano"
     ],
     [
       "練馬",
       "ねりま",
       "ネリマ",
-      "Nerima"
+      "nerima"
     ],
     [
       "目黒",
       "めぐろ",
       "メグロ",
-      "Meguro"
+      "meguro"
     ],
     [
       "品川区",
       "しながわく",
       "シナガワク",
-      "Shinagawa",
-      "Shinagawa Ward"
+      "shinagawa"
     ],
     [
       "大田区",
       "おおたく",
       "オオタク",
-      "Ota Ward",
-      "Ota"
+      "ota ward"
     ],
     [
       "江戸川区",
       "えどがわく",
       "エドガワク",
-      "Edogawa"
+      "edogawa"
     ],
     [
       "葛飾区",
       "かつしかく",
       "カツシカク",
-      "Katsushika Ward",
-      "Katsushika Ward"
+      "katsushika ward"
     ],
     [
       "足立区",
       "あだちく",
       "アダチク",
-      "Adachi Ward"
+      "adachi ward"
     ],
     [
       "板橋区",
       "いたばしく",
       "イタバシク",
-      "Itabashi"
+      "itabashi"
     ],
     [
       "北区",
       "きたく",
       "キタク",
-      "Kita Ward"
+      "kita ward"
     ],
     [
       "荒川区",
       "あらかわく",
       "アラカワク",
-      "Arakawa Ward"
+      "arakawa ward"
     ],
     [
       "川崎",
       "かわさき",
       "カワサキ",
-      "Kawasaki"
+      "kawasaki"
     ],
     [
       "湘南",
       "しょうなん",
       "ショウナン",
-      "Shonan"
+      "shonan"
     ],
     [
       "河原町",
       "かわらまち",
       "カワラマチ",
-      "Kawaramachi"
+      "kawaramachi"
     ],
     [
       "烏丸",
       "からすま",
       "カラスマ",
-      "Karasuma"
+      "karasuma"
     ],
     [
       "大宮周辺",
       "おおみやしゅうへん",
       "オオミヤシュウヘン",
-      "Omiya Area"
+      "omiya area"
     ],
     [
       "祇園",
       "ぎおん",
       "ギオン",
-      "Gion"
+      "gion"
     ],
     [
       "東山",
       "ひがしやま",
       "ヒガシヤマ",
-      "Higashiyama"
+      "higashiyama"
     ],
     [
       "北白川周辺",
       "きたしらかわしゅうへん",
       "キタシラカワシュウヘン",
-      "Kitashirakawa Area"
+      "kitashirakawa area"
     ],
     [
       "心斎橋",
       "しんさいばし",
       "シンサイバシ",
-      "Shinsaibashi"
+      "shinsaibashi"
     ],
     [
       "なんば",
       "ナンバ",
-      "Namba"
+      "namba"
     ],
     [
       "四ツ橋",
       "よんツきょう",
       "ヨンツキョウ",
-      "Yotsubashi"
+      "yotsubashi"
     ],
     [
       "新大阪",
       "しんおおさか",
       "シンオオサカ",
-      "Shin-Osaka"
+      "shin-osaka"
     ],
     [
       "十三",
       "じゅうさん",
       "ジュウサン",
-      "Juso"
+      "juso"
     ],
     [
       "淀川",
       "よどがわ",
       "ヨドガワ",
-      "Yodogawa"
+      "yodogawa"
     ],
     [
       "大阪城",
       "おおさかじょう",
       "オオサカジョウ",
-      "Osaka Castle"
+      "osaka castle"
     ],
     [
       "京橋",
       "きょうばし",
       "キョウバシ",
-      "Kyobashi"
+      "kyobashi"
     ],
     [
       "市内東部",
       "しないとうぶ",
       "シナイトウブ",
-      "Eastern City Area"
+      "eastern city area"
     ],
     [
       "天王寺",
       "てんのうじ",
       "テンノウジ",
-      "Tennoji"
+      "tennoji"
     ],
     [
       "阿倍野",
       "あべの",
       "アベノ",
-      "Abeno"
+      "abeno"
     ],
     [
       "市内南部",
       "しないなんぶ",
       "シナイナンブ",
-      "Southern City Area"
+      "southern city area"
     ],
     [
       "横須賀",
       "よこすか",
       "ヨコスカ",
-      "Yokosuka"
+      "yokosuka"
     ],
     [
       "三浦",
       "みうら",
       "ミウラ",
-      "Miura"
+      "miura"
     ],
     [
       "慶良間諸島",
       "けいよかんしょとう",
       "ケイヨカンショトウ",
-      "Kerama Islands"
+      "kerama islands"
     ],
     [
       "渡嘉敷島",
       "とかしきじま",
       "トカシキジマ",
-      "Tokashiki Island"
+      "tokashiki island"
     ],
     [
       "座間味島",
       "ざまみじま",
       "ザマミジマ",
-      "Zamami Island"
+      "zamami island"
     ],
     [
       "阿嘉島",
       "あかじま",
       "アカジマ",
-      "Aka Island"
+      "aka island"
     ],
     [
       "金閣寺",
       "きんかくじ",
       "キンカクジ",
-      "Kinkakuji"
+      "kinkakuji"
     ],
     [
       "北野天満宮周辺",
       "きたのてんまんぐうしゅうへん",
       "キタノテンマングウシュウヘン",
-      "Kitano Tenmangu Area"
+      "kitano tenmangu area"
     ],
     [
       "与論島",
       "よろんとう",
       "ヨロントウ",
-      "Yoron Island"
+      "yoron island"
     ],
     [
       "伊平屋島",
       "いへやじま",
       "イヘヤジマ",
-      "Iheya Island"
+      "iheya island"
     ],
     [
       "伊是名島",
       "いぜなじま",
       "イゼナジマ",
-      "Izena Island"
+      "izena island"
     ],
     [
       "渡名喜島",
       "となきじま",
       "トナキジマ",
-      "Tonaki Island"
+      "tonaki island"
     ],
     [
       "粟国島",
       "あぐにじま",
       "アグニジマ",
-      "Aguni Island"
+      "aguni island"
     ],
     [
       "北大東島",
       "きただいとうじま",
       "キタダイトウジマ",
-      "Kita Daito Island"
+      "kita daito island"
     ],
     [
       "南大東島",
       "みなみだいとうじま",
       "ミナミダイトウジマ",
-      "Minami Daito Island"
+      "minami daito island"
     ],
     [
       "多良間島",
       "たらましま",
       "タラマシマ",
-      "Tarama Island"
+      "tarama island"
     ],
     [
       "本部町",
       "もとぶまち",
       "モトブマチ",
-      "Motobu town",
-      "Motobu Town"
+      "motobu town"
     ],
     [
       "瀬底島",
       "せていとう",
       "セテイトウ",
-      "Sesoko Island"
+      "sesoko island"
     ],
     [
       "水納島含む",
       "みんなしまふくむ",
       "ミンナシマフクム",
-      "Including Minna Island",
-      "Minna Island Fukumu"
+      "including minna island"
     ],
     [
       "伊江島",
       "いえじま",
       "イエジマ",
-      "Ie Island"
+      "ie island"
     ],
     [
       "糸満市",
       "いとまんし",
       "イトマンシ",
-      "Itoman city"
+      "itoman city"
     ],
     [
       "豊見城市",
       "とみぐすくし",
       "トミグスクシ",
-      "Tomigusuku City",
-      "Tomigusuku City"
+      "tomigusuku city"
     ],
     [
       "ナガンヌ島",
       "ナガンヌじま",
       "ナガンヌジマ",
-      "Nagannu Island"
+      "nagannu island"
     ],
     [
       "クエフ島",
       "クエフじま",
       "クエフジマ",
-      "Kuefu Island"
+      "kuefu island"
     ],
     [
       "沖縄離島ツアー",
       "おきなわりとうツアー",
       "オキナワリトウツアー",
-      "Okinawa Island Tour"
+      "okinawa island tour"
     ],
     [
       "2島",
       "2とう",
       "2トウ",
-      "2 Islands"
+      "2 islands"
     ],
     [
       "3島周遊",
       "3とうしゅうゆう",
       "3トウシュウユウ",
-      "3 Islands Tour"
+      "3 islands tour"
     ],
     [
       "奄美大島",
       "あまみおおしま",
       "アマミオオシマ",
-      "Amami Oshima"
-    ],
-    [
-      "慶良間諸島",
-      "けいよかんしょとう",
-      "ケイヨカンショトウ",
-      "Kerama Islands"
-    ],
-    [
-      "ナガンヌ島",
-      "ナガンヌじま",
-      "ナガンヌジマ",
-      "Nagannu Island"
-    ],
-    [
-      "宮古島",
-      "みやこじま",
-      "ミヤコジマ",
-      "Miyako Island"
-    ],
-    [
-      "小樽",
-      "おたる",
-      "オタル",
-      "Otaru"
-    ],
-    [
-      "西表島",
-      "いりおもてじま",
-      "イリオモテジマ",
-      "Iriomote Island"
-    ],
-    [
-      "竹富島",
-      "たけとみじま",
-      "タケトミジマ",
-      "Taketomi Island"
+      "amami oshima"
     ],
     [
       "釧路川",
       "くしろがわ",
       "クシロガワ",
-      "Kushiro River",
-      "Kushiro River"
+      "kushiro river"
     ],
     [
       "水牛",
       "すいぎゅう",
       "スイギュウ",
-      "Water buffalo"
+      "water buffalo"
     ],
     [
       "ハリケーンボート",
-      "Hurricane Boat"
-    ],
-    [
-      "富良野",
-      "ふらの",
-      "フラノ",
-      "Furano"
+      "hurricane boat"
     ],
     [
       "刀",
       "かたな",
       "カタナ",
-      "Sword"
+      "sword"
     ],
     [
       "クーポン",
-      "Coupon"
-    ],
-    [
-      "日光",
-      "にっこう",
-      "ニッコウ",
-      "Nikko"
-    ],
-    [
-      "ニセコ",
-      "Niseko"
+      "coupon"
     ],
     [
       "シュノーケル",
-      "Snorkel"
+      "snorkel"
     ],
     [
       "スノーケリング",
-      "Snorkeling"
+      "snorkeling"
     ],
     [
       "スノーケル",
-      "Snorkel"
-    ],
-    [
-      "山中湖",
-      "やまなかこ",
-      "ヤマナカコ",
-      "Yamanakako"
-    ],
-    [
-      "ワカサギ釣り",
-      "ワカサギづり",
-      "ワカサギヅリ",
-      "smelt fishing",
-      "Wakasagi Fishing"
-    ],
-    [
-      "わかさぎ釣り",
-      "わかさぎづり",
-      "ワカサギヅリ",
-      "Wakasagi fishing",
-      "Wakasagi Fishing"
-    ],
-    [
-      "ワカサギ",
-      "Wakasagi"
-    ],
-    [
-      "わかさぎ",
-      "ワカサギ",
-      "Wakasagi"
-    ],
-    [
-      "公魚釣り",
-      "わかさぎづり",
-      "ワカサギヅリ",
-      "Smelt fishing",
-      "Wakasagi Fishing"
+      "snorkel"
     ],
     [
       "公魚",
       "わかさぎ",
       "ワカサギ",
-      "Smelt",
-      "Wakasagi"
+      "smelt",
+      "wakasagi",
+      "pond smelt"
     ]
   ]
 }
