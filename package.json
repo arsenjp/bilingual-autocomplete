@@ -1,15 +1,43 @@
 {
-	"name": "autocomplete",
-	"version": "1.0.0",
-	"description": "Bilingual autocomplete with semantic search",
-	"main": "src/index.js",
-	"scripts": {
-		"start": "ts-node src/run.ts",
-		"build": "tsc",
-		"test": "echo \"Error: no test specified\" && exit 1"
-	},
-	"dependencies": {
-		"kuroshiro": "^1.2.0",
-		"kuroshiro-analyzer-kuromoji": "^1.1.0"
-	}
+  "name": "bilingual-autocomplete",
+  "version": "2.0.0",
+  "description": "A high-performance bilingual (Japanese-English) autocomplete system with semantic search capabilities",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "generate": "node src/generators/semantic-generator.js",
+    "dev": "node --inspect src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "echo \"No linter configured\" && exit 0",
+    "clean": "rm -rf dist/*",
+    "build": "npm run clean && npm run generate"
+  },
+  "keywords": [
+    "autocomplete",
+    "bilingual",
+    "japanese",
+    "english",
+    "semantic-search",
+    "trie",
+    "search-engine",
+    "nlp",
+    "text-processing"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "kuroshiro": "^1.2.0",
+    "kuroshiro-analyzer-kuromoji": "^1.1.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yourusername/bilingual-autocomplete.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yourusername/bilingual-autocomplete/issues"
+  },
+  "homepage": "https://github.com/yourusername/bilingual-autocomplete#readme"
 }
