@@ -23,7 +23,7 @@
     "nlp",
     "text-processing"
   ],
-  "author": "Your Name",
+  "author": "Arsen",
   "license": "MIT",
   "dependencies": {
     "kuroshiro": "^1.2.0",
