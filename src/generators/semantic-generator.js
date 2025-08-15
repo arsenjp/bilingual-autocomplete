@@ -325,20 +325,86 @@ class SemanticGenerator {
       throw new Error('Semantic sets must be an array');
     }
 
+    const outputPath = path.join('dist', filename);
+    
+    // Check if existing file exists and load it
+    let existingSets = [];
+    let existingData = null;
+    
+    try {
+      if (fs.existsSync(outputPath)) {
+        console.log(`📂 Found existing file: ${filename}`);
+        existingData = await this.dataLoader.loadJsonFile(outputPath);
+        existingSets = existingData.semanticSets || [];
+        console.log(`📊 Loaded ${existingSets.length} existing semantic sets`);
+      }
+    } catch (error) {
+      console.warn(`⚠️ Failed to load existing file: ${error.message}`);
+    }
+
+    // Merge new sets with existing ones, preserving existing terms
+    const mergedSets = this.mergeSemanticSets(existingSets, semanticSets);
+    
     const data = {
       generatedAt: new Date().toISOString(),
-      totalSets: semanticSets.length,
-      semanticSets: semanticSets
+      totalSets: mergedSets.length,
+      semanticSets: mergedSets
     };
-    
-    const outputPath = path.join('dist', filename);
     
     try {
       await this.dataLoader.saveJsonFile(outputPath, data, 'semantic sets');
-      console.log(`📊 Exported ${semanticSets.length} semantic sets`);
+      console.log(`📊 Exported ${mergedSets.length} semantic sets (${semanticSets.length} new, ${existingSets.length} preserved)`);
     } catch (error) {
       throw new Error(`Failed to export semantic sets: ${error.message}`);
     }
+  }
+
+  /**
+   * Merge new semantic sets with existing ones, preserving existing terms
+   * @param {Array<Array<string>>} existingSets - Existing semantic sets
+   * @param {Array<Array<string>>} newSets - New semantic sets to merge
+   * @returns {Array<Array<string>>} Merged semantic sets
+   */
+  mergeSemanticSets(existingSets, newSets) {
+    if (!Array.isArray(existingSets) || existingSets.length === 0) {
+      return newSets;
+    }
+
+    if (!Array.isArray(newSets) || newSets.length === 0) {
+      return existingSets;
+    }
+
+    // Create a map of existing terms for quick lookup
+    const existingTermsMap = new Map();
+    existingSets.forEach((set, index) => {
+      set.forEach(term => {
+        existingTermsMap.set(term.toLowerCase(), { setIndex: index, originalTerm: term });
+      });
+    });
+
+    const mergedSets = [...existingSets];
+    let skippedCount = 0;
+    let newSetsCount = 0;
+
+    newSets.forEach(newSet => {
+      // Check if ANY term in the new set already exists
+      const hasAnyExistingTerm = newSet.some(newTerm => 
+        existingTermsMap.has(newTerm.toLowerCase())
+      );
+
+      if (hasAnyExistingTerm) {
+        // Skip this entire set if any term already exists
+        skippedCount++;
+        return;
+      }
+
+      // If no terms exist, add the entire new set as-is
+      mergedSets.push([...newSet]);
+      newSetsCount++;
+    });
+
+    console.log(`📈 Merge summary: ${skippedCount} sets skipped (contained existing terms), ${newSetsCount} new sets added`);
+    return mergedSets;
   }
 
   /**
